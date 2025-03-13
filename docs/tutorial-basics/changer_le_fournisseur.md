@@ -10,15 +10,16 @@ sidebar_position: 4
 Pizza ipsum dolor meat lovers buffalo. Melted lovers fresh pepperoni pizza style chicken. Melted deep pie peppers extra party ricotta fresh. Bacon black black pesto bell parmesan wing bbq pan stuffed. Mayo pineapple rib tomatoes burnt ipsum. Lot pineapple mouth roll Hawaiian melted onions cheese pork roll. Large marinara black.
 
 ### Desmonstration video
-::: Contacter 
+
+:::tip
 Une astuce importante pour ton projet !
 :::
 
-::: Attention 
+:::warning
 Attention, ceci peut poser un problème.
 :::
 
-::: A ne pas faire 
+:::danger
 Erreur critique à éviter absolument !
 :::
 
