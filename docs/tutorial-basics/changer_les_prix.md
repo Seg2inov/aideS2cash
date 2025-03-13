@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Introduction à atlas
+# Changer les prix
 
 
 ## Desmonstration 

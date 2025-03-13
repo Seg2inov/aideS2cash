@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Introduction à atlas
+# Ajouter un produit
 
 
 ## Desmonstration 

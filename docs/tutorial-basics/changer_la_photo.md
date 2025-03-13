@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Introduction à atlas
+# Changer la photo
 
 
 ## Desmonstration 
