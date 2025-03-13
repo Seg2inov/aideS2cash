@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'SEG2 Inov',
   tagline: 'Logiciel S2cash',
-  favicon: 'img/logoseg2inov.png',
+  favicon: 'img/logo.png',
 
 
   // Set the production url of your site here
@@ -78,7 +78,7 @@ const config = {
         title: 'My Site',
         logo: {
           alt: 'SEG2inov',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
