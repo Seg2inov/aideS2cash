@@ -4,6 +4,7 @@
  * work well for content-centric websites.
  */
 
+@import url('/src/css/reset.css');
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #092D4B;
@@ -31,6 +32,63 @@
 
 .navbar, .footer {
   display: none !important;
+}
+
+
+@font-face {
+  font-family: 'SofiaSans-Medium';
+  src: url('/assets/font/SofiaSans-Medium.ttf');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SofiaSans-Light';
+  src: url('/assets/font/SofiaSans-Light.ttf');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SofiaSans-Regular';
+  src: url('/assets/font/SofiaSans-Regular.ttf');
+  font-display: swap;
+}
+
+
+
+h1{
+  font-family: 'SofiaSans-Regular';
+  font-size: 36px;
+}
+
+h2{
+  font-family: 'SofiaSans-Regular';
+  font-size: 36px;
+}
+@media screen and (max-width: 405px) {
+  h2{
+      font-size:26px;
+  }
+}
+
+h3{
+  font-family: 'SofiaSans-Regular';
+  font-size: 24px;
+}
+
+.titleFiche{
+  font-family: 'SofiaSans-Medium';
+  font-size: 24px;
+}
+
+
+p, h5, label, a, details, summary{
+  font-family: 'SofiaSans-Light';
+  font-size: 22px;
+}
+
+
+html, body {
+  background-color: #F5F5F7;
 }
 
 .headerSeg2inov{
