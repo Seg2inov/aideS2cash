@@ -81,7 +81,7 @@ h3{
 }
 
 
-p, h5, label, a, details, summary{
+p, h5, label, a, details, summary, input, button, div{
   font-family: 'SofiaSans-Light';
   font-size: 22px;
 }
