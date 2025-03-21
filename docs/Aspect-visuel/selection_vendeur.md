@@ -9,9 +9,9 @@ sidebar_position: 3
 
 En fonction du paramétrage, Atlas peut soit démarrer sur un vendeur standard (généralement appelé CAISSE ou BALANCE) ou vous demander de sélectionner un vendeur pour ouvrir le logiciel.
 
-
+<div class="contenaireImg">
 ![illustration aspect test](../../static/docs/selectVendeur/1.PNG)
-
+</div>
 Veuillez-vous identifier en saisissant votre code et votre mot de passe ou passez votre Badge devant le lecteur de code à barre.
 
  
