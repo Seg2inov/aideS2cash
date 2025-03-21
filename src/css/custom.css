@@ -211,3 +211,12 @@ table thead tr img{
   margin: auto;
 }
 
+.logoImg{
+  width: 80px;
+}
+
+.h2withlogo{
+  display: flex;
+  gap: 24px;
+  align-items: center;
+}

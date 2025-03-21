@@ -6,31 +6,81 @@ sidebar_position: 1
 
 ## Introduction
 
-Pizza ipsum dolor meat lovers buffalo. Melted lovers fresh pepperoni pizza style chicken. Melted deep pie peppers extra party ricotta fresh. Bacon black black pesto bell parmesan wing bbq pan stuffed. Mayo pineapple rib tomatoes burnt ipsum. Lot pineapple mouth roll Hawaiian melted onions cheese pork roll. Large marinara black.
 
-Pizza ipsum dolor meat lovers buffalo. Melted lovers fresh pepperoni pizza style chicken. Melted deep pie peppers extra party ricotta fresh. Bacon black black pesto bell parmesan wing bbq pan stuffed. Mayo pineapple rib tomatoes burnt ipsum. Lot pineapple mouth roll Hawaiian melted onions cheese pork roll. Large marinara black.Pizza ipsum dolor meat lovers buffalo. Melted lovers fresh pepperoni pizza style chicken. Melted deep pie peppers extra party ricotta fresh. Bacon black black pesto bell parmesan wing bbq pan stuffed. Mayo pineapple rib tomatoes burnt ipsum. Lot pineapple mouth roll Hawaiian melted onions cheese pork roll. Large marinara black.
+Bienvenue dans la documentation de S2cash.
 
-
-## Introduction 2
-
-Pizza ipsum dolor meat lovers buffalo. Melted lovers fresh pepperoni pizza style chicken. Melted deep pie peppers extra party ricotta fresh. Bacon black black pesto bell parmesan wing bbq pan stuffed. Mayo pineapple rib tomatoes burnt ipsum. Lot pineapple mouth roll Hawaiian melted onions cheese pork roll. Large marinara black.
-
-:::tip
-Une astuce importante pour ton projet !
-:::
-
-:::warning
-Attention, ceci peut poser un problème.
-:::
-
-:::danger
-Erreur critique à éviter absolument !
-:::
-
-:::note
-Ceci est une simple note encadrée.
-:::
+S2cash est un logiciel de caisse conçu spécialement pour les commerces alimentaires et les enseignes utilisant des systèmes de pesée.
+La gestion des données de base permet de collecter, centraliser, organiser, sécuriser et maintenir à jour les données de l’entreprise.
 
 
-<iframe  src="https://www.youtube.com/embed/gRvEAeHmkXI?si=jBGT_114bDhbwgzd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+<div class="h2withlogo">
+<img class="logoImg" src="/img/logo/__1.svg" /> 
+## Une vision de l’entreprise
+</div>
+
+Un véritable tableau de bord vous permet de suivre et de piloter les performances de votre activité. Grâce à une vue d’ensemble claire et détaillée, analysez les tendances, anticipez les évolutions du marché et prenez des décisions stratégiques en toute confiance.
+
+
+
+
+<div class="h2withlogo">
+<img class="logoImg" src="/img/logo/__2.svg" /> 
+## Une caisse qui s’adapte à vous
+</div>
+Configurez votre environnement de travail selon vos besoins. Gérez les vendeurs et leurs niveaux d’accès, personnalisez l’interface de votre écran de caisse et optimisez l’organisation de vos terminaux de vente pour une expérience fluide et intuitive.
+
+
+
+
+
+<div class="h2withlogo">
+<img class="logoImg" src="/img/logo/__3.svg" /> 
+## Une gestion complète des tickets
+</div>
+S2cash prend en charge l’intégralité des tickets, de l’édition à l’archivage, en passant par la gestion des retours et des remboursements. Gagnez du temps tout en garantissant une traçabilité parfaite de chaque transaction.
+
+
+
+
+
+<div class="h2withlogo">
+<img class="logoImg" src="/img/logo/__4.svg" /> 
+## Une gestion de la chaîne de ventes
+</div>
+Supervisez et coordonnez toutes les étapes du processus de vente : tarification, saisie de commande, préparation, livraison et facturation. S2cash vous permet d’optimiser chaque phase afin d’assurer un suivi précis et efficace.
+
+
+
+
+
+<div class="h2withlogo">
+<img class="logoImg" src="/img/logo/__5.svg" /> 
+## Une gestion de la chaîne d’approvisionnement
+</div>
+
+
+Assurez-vous que vos ressources sont toujours disponibles au bon moment. S2cash vous accompagne dans la gestion des achats, du stockage et de la réception des produits afin de répondre à la demande sans rupture ni surplus inutile.
+
+
+
+
+<div class="h2withlogo">
+<img class="logoImg" src="/img/logo/__6.svg" /> 
+## Une gestion des données de base
+</div>
+
+La gestion des données de base permet de collecter, centraliser, organiser, sécuriser et maintenir à jour les données de l’entreprise.
+
+
+
+Avec S2cash, nous vous proposons une solution complète, intuitive et évolutive pour simplifier la gestion de votre commerce. Cette documentation vous accompagnera la configuration et l’utilisation du logiciel pour vous permettre d’en exploiter pleinement les capacités.
+
+Bonne découverte de S2cash !
+
+    <div class="contenaireImg">
+    ![illustration aspect test](/../static/img/illuintro.jpg)
+    </div>
 
