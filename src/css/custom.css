@@ -37,19 +37,19 @@
 
 @font-face {
   font-family: 'SofiaSans-Medium';
-  src: url('/assets/font/SofiaSans-Medium.ttf');
+  src: url('/assets/font/SofiaSans-Medium.woff2');
   font-display: swap;
 }
 
 @font-face {
   font-family: 'SofiaSans-Light';
-  src: url('/assets/font/SofiaSans-Light.ttf');
+  src: url('/assets/font/SofiaSans-Light.woff2');
   font-display: swap;
 }
 
 @font-face {
   font-family: 'SofiaSans-Regular';
-  src: url('/assets/font/SofiaSans-Regular.ttf');
+  src: url('/assets/font/SofiaSans-Regular.woff2');
   font-display: swap;
 }
 
