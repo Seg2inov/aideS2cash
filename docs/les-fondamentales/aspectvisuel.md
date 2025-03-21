@@ -23,11 +23,6 @@ Ces configurations d’écrans ne sont que des exemples. Toutes les touches sont
 :::warning
 Comme pour les ventes, toutes les opérations qui nécessitent une manipulation des espèces sont enregistrées dans la Caisse, de façon à ce que le tiroir soit juste en fin de journée.
 Atlas enregistre donc :
-- - -Les dépenses de caisse
-- - -Les recettes de caisse
-- - -Les prélèvements d’espèces
-- - -Les apports de monnaie
-- - -Les règlements client
-- - -Les remboursements client
+<li>Les dépenses de caisse</li><li>Les recettes de caisse</li><li>Les prélèvements d’espèces</li><li>Les apports de monnaie</li><li>Les règlements client</li><li>Les remboursements client</li>
 :::
 

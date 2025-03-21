@@ -56,8 +56,8 @@
 
 
 h1{
-  font-family: 'SofiaSans-Regular';
-  font-size: 36px;
+  font-family: 'SofiaSans-Medium';
+  font-size: 44px;
 }
 
 h2{
@@ -72,7 +72,7 @@ h2{
 
 h3{
   font-family: 'SofiaSans-Regular';
-  font-size: 24px;
+  font-size: 30px;
 }
 
 .titleFiche{
@@ -199,7 +199,7 @@ iframe{
   display: flex;
   align-items: center;
   justify-content: center;
-
+  margin-bottom: 24px;
   
 }
 
@@ -219,4 +219,5 @@ table thead tr img{
   display: flex;
   gap: 24px;
   align-items: center;
+  
 }
