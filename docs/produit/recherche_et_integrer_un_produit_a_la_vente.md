@@ -14,7 +14,7 @@ sidebar_position: 1
     </div>
 
 
-Sur la partie gauche de votre caisse, une zone bleue affiche plusieurs écrans contenant différentes catégories de produits. Vous pouvez naviguer entre ces écrans à l'aide des onglets situés à gauche, nommés ici 1, 2 et 3. Sélectionnez la catégorie qui vous intéresse.
+Sur la partie **gauche** de votre caisse, une zone bleue affiche plusieurs écrans contenant différentes catégories de produits. Vous pouvez naviguer entre ces écrans à l'aide des onglets situés à gauche, nommés ici 1, 2 et 3. Sélectionnez la **catégorie** qui vous intéresse.
 
 ### Séletion du produit
 
@@ -24,7 +24,7 @@ Sur la partie gauche de votre caisse, une zone bleue affiche plusieurs écrans c
     </div>
 
 
-Une fois la catégorie sélectionnée, choisissez le produit qui vous intéresse.
+Une fois la **catégorie sélectionnée**, choisissez le produit qui vous intéresse.
 
 
 
@@ -35,7 +35,7 @@ Une fois la catégorie sélectionnée, choisissez le produit qui vous intéresse
     </div>
 
 
-Le produit sélectionné apparaît maintenant dans votre ticket, en haut à droite de l’écran.
+Le produit sélectionné apparaît maintenant dans **votre ticket**, en haut à **droite de l’écran**.
 
 ## 2eme : Accès à partir du bouton Produit (5 possibilités pour rechercher un produit)
 
@@ -56,7 +56,7 @@ On arrive sur une page recherche.
 ### Recherche trié 
 Vous pouvez affiner votre recherche en sélectionnant un critère de tri :
 <li>Rayon</li><li>Famille</li><li>Le fournisseur</li><li>Le code bar</li>
-Ces  boutons se trouvent en haut à gauche de l’écran. Une fois votre choix fait, validez avec le bouton Vert en haut. 
+Ces  boutons se trouvent **en haut à gauche de l’écran**. Une fois votre choix fait, validez avec le **bouton Vert** en haut. 
 
 :::note
 Exemple avec la recherche par Rayon et par Famille

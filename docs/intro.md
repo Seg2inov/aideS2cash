@@ -7,10 +7,10 @@ sidebar_position: 1
 ## Introduction
 
 
-Bienvenue dans la documentation de S2cash.
+Bienvenue dans la documentation de **S2cash**.
 
-S2cash est un logiciel de caisse conçu spécialement pour les commerces alimentaires et les enseignes utilisant des systèmes de pesée.
-La gestion des données de base permet de collecter, centraliser, organiser, sécuriser et maintenir à jour les données de l’entreprise.
+**S2cash** est un logiciel de caisse conçu spécialement pour **les commerces alimentaires** et les enseignes utilisant **des systèmes de pesée**.
+La gestion des données de base permet de **collecter**, **centraliser**, **organiser**, sécuriser et maintenir à jour les données de l’entreprise.
 
 
 
@@ -76,9 +76,9 @@ La gestion des données de base permet de collecter, centraliser, organiser, sé
 
 
 
-Avec S2cash, nous vous proposons une solution complète, intuitive et évolutive pour simplifier la gestion de votre commerce. Cette documentation vous accompagnera la configuration et l’utilisation du logiciel pour vous permettre d’en exploiter pleinement les capacités.
+Avec S2cash, nous vous proposons **une solution complète**, intuitive et **évolutive** pour simplifier la gestion de votre commerce. Cette documentation vous accompagnera la configuration et l’utilisation du logiciel pour vous permettre d’en exploiter pleinement les capacités.
 
-Bonne découverte de S2cash !
+**Bonne découverte de S2cash !**
 
     <div class="contenaireImg">
     ![illustration aspect test](/../static/img/illuintro.jpg)

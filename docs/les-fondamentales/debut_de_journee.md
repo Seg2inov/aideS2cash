@@ -16,17 +16,14 @@ Dans le cas où vous possédez de la monétique intégrée, la liaison va s’ef
     ![illustration aspect test](../../static/docs/beggingday/2.PNG)
     </div>
 
-Veuillez ensuite saisir le montant de votre fonds de caisse pour comptabiliser les espèces et contrôler le tiroir en fin de journée. 
+Veuillez ensuite **saisir le montant de votre fonds de caisse** pour comptabiliser les espèces et contrôler le tiroir en fin de journée. 
 
 
     <div class="contenaireImg">
     ![illustration aspect test](../../static/docs/beggingday/3.PNG)
     </div>
 
-Un ticket s’imprime.
-
-
-Veuillez ensuite saisir le montant de votre fonds de caisse pour comptabiliser les espèces et contrôler le tiroir en fin de journée.
+Un ticket s’imprime. Veuillez ensuite **saisir** le montant de votre **fonds de caisse** pour **comptabiliser** les espèces et contrôler le tiroir en fin de journée.
 
 
 Vous le conservez dans le tiroir.

@@ -221,3 +221,34 @@ table thead tr img{
   align-items: center;
   
 }
+
+.menu__link--active, .menu__link--active:hover {
+  background-color: #D3D6E8;
+  font-family:'SofiaSans-Medium' ;
+}
+
+body div nav ul li .menu__link--active {
+  background-color: #D3D6E8 !important;
+  font-family:'SofiaSans-Medium' ;
+}
+
+.table-of-contents__link:hover, .table-of-contents__link:hover code, .table-of-contents__link--active, .table-of-contents__link--active code {
+  font-family:'SofiaSans-Medium' ;
+}
+
+strong{
+  font-family:'SofiaSans-Medium' ;
+}
+
+
+.breadcrumbs__link{
+  font-size: 20px;
+}
+
+.table-of-contents__left-border li,.table-of-contents__left-border ul{
+  margin-bottom: 20px !important;
+}
+
+.card{
+  background-color: #F5F5F7 ;
+}

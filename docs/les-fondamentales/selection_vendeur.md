@@ -7,19 +7,19 @@ sidebar_position: 3
 ## Au démarage
 
 
-En fonction du paramétrage, Atlas peut soit démarrer sur un vendeur standard (généralement appelé CAISSE ou BALANCE) ou vous demander de sélectionner un vendeur pour ouvrir le logiciel.
+En fonction du paramétrage, Atlas peut soit **démarrer sur un vendeur standard** (généralement appelé CAISSE ou BALANCE) ou vous demander de **sélectionner un vendeur** pour ouvrir le logiciel.
 
 <div class="contenaireImg">
 ![illustration aspect test](../../static/docs/selectVendeur/1.PNG)
 </div>
-Veuillez-vous identifier en saisissant votre code et votre mot de passe ou passez votre Badge devant le lecteur de code à barre.
+Veuillez-vous **identifier** en saisissant votre code et votre mot de passe ou passez votre Badge devant le lecteur de code à barre.
 
  
 :::warning
 Attention, ATLAS contrôle que vous n’êtes pas déjà assigné à une autre caisse.
 :::
 
-La caisse va s’ouvrir et imprimer un ticket d’ouverture caisse.
+La caisse va s’ouvrir et **imprimer un ticket d’ouverture caisse**.
 
 ## Configurations vendeur
 
