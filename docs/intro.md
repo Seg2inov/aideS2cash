@@ -16,8 +16,8 @@ La gestion des données de base permet de **collecter**, **centraliser**, **orga
 
 
 
-<div class="h2withlogo">
-<img class="logoImg" src="/img/logo/__1.svg" /> 
+<div className="h2withlogo">
+<img className="logoImg" src="/img/logo/__1.svg" /> 
 ## Une vision de l’entreprise
 </div>
 
@@ -26,8 +26,8 @@ Un véritable tableau de bord vous permet de suivre et de piloter les performanc
 
 
 
-<div class="h2withlogo">
-<img class="logoImg" src="/img/logo/__2.svg" /> 
+<div className="h2withlogo">
+<img className="logoImg" src="/img/logo/__2.svg" /> 
 ## Une caisse qui s’adapte à vous
 </div>
 Configurez votre environnement de travail selon vos besoins. Gérez les vendeurs et leurs niveaux d’accès, personnalisez l’interface de votre écran de caisse et optimisez l’organisation de vos terminaux de vente pour une expérience fluide et intuitive.
@@ -36,8 +36,8 @@ Configurez votre environnement de travail selon vos besoins. Gérez les vendeurs
 
 
 
-<div class="h2withlogo">
-<img class="logoImg" src="/img/logo/__3.svg" /> 
+<div className="h2withlogo">
+<img className="logoImg" src="/img/logo/__3.svg" /> 
 ## Une gestion complète des tickets
 </div>
 S2cash prend en charge l’intégralité des tickets, de l’édition à l’archivage, en passant par la gestion des retours et des remboursements. Gagnez du temps tout en garantissant une traçabilité parfaite de chaque transaction.
@@ -46,8 +46,8 @@ S2cash prend en charge l’intégralité des tickets, de l’édition à l’arc
 
 
 
-<div class="h2withlogo">
-<img class="logoImg" src="/img/logo/__4.svg" /> 
+<div className="h2withlogo">
+<img className="logoImg" src="/img/logo/__4.svg" /> 
 ## Une gestion de la chaîne de ventes
 </div>
 Supervisez et coordonnez toutes les étapes du processus de vente : tarification, saisie de commande, préparation, livraison et facturation. S2cash vous permet d’optimiser chaque phase afin d’assurer un suivi précis et efficace.
@@ -56,8 +56,8 @@ Supervisez et coordonnez toutes les étapes du processus de vente : tarification
 
 
 
-<div class="h2withlogo">
-<img class="logoImg" src="/img/logo/__5.svg" /> 
+<div className="h2withlogo">
+<img className="logoImg" src="/img/logo/__5.svg" /> 
 ## Une gestion de la chaîne d’approvisionnement
 </div>
 
@@ -67,8 +67,8 @@ Assurez-vous que vos ressources sont toujours disponibles au bon moment. S2cash 
 
 
 
-<div class="h2withlogo">
-<img class="logoImg" src="/img/logo/__6.svg" /> 
+<div className="h2withlogo">
+<img className="logoImg" src="/img/logo/__6.svg" /> 
 ## Une gestion des données de base
 </div>
 
@@ -80,7 +80,7 @@ Avec S2cash, nous vous proposons **une solution complète**, intuitive et **évo
 
 **Bonne découverte de S2cash !**
 
-    <div class="contenaireImg">
+    <div className="contenaireImg">
     ![illustration aspect test](/../static/img/illuintro.jpg)
     </div>
 

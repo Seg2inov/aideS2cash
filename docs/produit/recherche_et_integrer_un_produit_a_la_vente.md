@@ -9,7 +9,7 @@ sidebar_position: 1
 ### Sélection d'une catégorie
 
 
-    <div class="contenaireImg">
+    <div className="contenaireImg">
     ![illustration aspect test](../../static/docs/produit/integrervente/1.PNG)
     </div>
 
@@ -19,7 +19,7 @@ Sur la partie **gauche** de votre caisse, une zone bleue affiche plusieurs écra
 ### Séletion du produit
 
 
-        <div class="contenaireImg">
+        <div className="contenaireImg">
     ![illustration aspect test](../../static/docs/produit/integrervente/2.PNG)
     </div>
 
@@ -30,7 +30,7 @@ Une fois la **catégorie sélectionnée**, choisissez le produit qui vous intér
 
 ### Ticket 
 
-        <div class="contenaireImg">
+        <div className="contenaireImg">
     ![illustration aspect test](../../static/docs/produit/integrervente/3.PNG)
     </div>
 
@@ -42,12 +42,12 @@ Le produit sélectionné apparaît maintenant dans **votre ticket**, en haut à 
 ### Onglet recherche
 
 Pour accéder à la liste des produits, cliquez sur le bouton Produit, situé en bas à droite de l’écran.
-    <div class="contenaireImg">
+    <div className="contenaireImg">
     ![illustration aspect test](../../static/docs/produit/integrervente/1.PNG)
     </div>
 
 Vous arrivez alors sur la page de recherche des produits :
-    <div class="contenaireImg">
+    <div className="contenaireImg">
     ![illustration aspect test](../../static/docs/produit/rechercheproduit/2.PNG)
     </div>
 
@@ -62,7 +62,7 @@ Ces  boutons se trouvent **en haut à gauche de l’écran**. Une fois votre cho
 Exemple avec la recherche par Rayon et par Famille
 :::
 
-|<div class="contenaireImg"> ![illustration aspect test](../../static/docs/produit/rechercheproduit/3.PNG) </div>| <div class="contenaireImg"> ![illustration aspect test](../../static/docs/produit/rechercheproduit/5.PNG) </div>|
+|<div className="contenaireImg"> ![illustration aspect test](../../static/docs/produit/rechercheproduit/3.PNG) </div>| <div className="contenaireImg"> ![illustration aspect test](../../static/docs/produit/rechercheproduit/5.PNG) </div>|
 |-----------|-----------|
 |![illustration aspect test](../../static/docs/produit/rechercheproduit/4.PNG) Vous accédez à la liste des produits du rayon sélectionné.| ![illustration aspect test](../../static/docs/produit/rechercheproduit/8.PNG)  Vous obtenez la liste des produits triés par famille. |
 
@@ -70,13 +70,13 @@ Exemple avec la recherche par Rayon et par Famille
 
 L’option **"Tous les produits"** en haut à gauche de l'écran affiche la liste complète des produits, triés par ordre alphabétique.
 
-<div class="contenaireImg">
+<div className="contenaireImg">
     ![illustration aspect test](../../static/docs/produit/rechercheproduit/10.PNG)
 </div>
 
 Grâce au clavier numérique, vous pouvez filtrer et accélérer votre recherche :
 
-<div class="contenaireImg">
+<div className="contenaireImg">
     ![illustration aspect test](../../static/docs/produit/rechercheproduit/9.PNG)
 </div>
 
@@ -87,6 +87,6 @@ Grâce au clavier numérique, vous pouvez filtrer et accélérer votre recherche
 
 Le prix net à payer s’affiche directement sous la liste des produits sélectionnés.
 
-<div class="contenaireImg">
+<div className="contenaireImg">
     ![illustration aspect test](../../static/docs/produit/rechercheproduit/7.PNG)
 </div>

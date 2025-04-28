@@ -7,7 +7,7 @@ sidebar_position: 1
 
 | ![illustration aspect test](../../static/docs/aspetVisuel/1.PNG) |  ![illustration aspect test](../../static/docs/aspetVisuel/2.PNG) | ![illustration aspect test](../../static/docs/aspetVisuel/4.PNG) | 
 |-----------|-----------|-----------|
-|Le 1er écran pour la **vente de produits**.| Le 2ème écran pour les fonctions diverses de caisse Pour basculer dans la **Gestion** appuyez sur le bouton : <div class="contenaireImg"><img src="/docs/aspetVisuel/3.PNG" /></div>| Le 3ème écran, accessible **après le Total du ticket**, pour les remises sur le total et le règlement de la transaction. |
+|Le 1er écran pour la **vente de produits**.| Le 2ème écran pour les fonctions diverses de caisse Pour basculer dans la **Gestion** appuyez sur le bouton : <div className="contenaireImg"><img src="/docs/aspetVisuel/3.PNG" /></div>| Le 3ème écran, accessible **après le Total du ticket**, pour les remises sur le total et le règlement de la transaction. |
 
 ## Un mode CAISSE 4 écrans 
 | ![illustration aspect test](../../static/docs/aspetVisuel/8.PNG) | ![illustration aspect test](../../static/docs/aspetVisuel/9.PNG) |

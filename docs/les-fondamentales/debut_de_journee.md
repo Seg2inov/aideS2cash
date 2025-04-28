@@ -6,20 +6,20 @@ sidebar_position: 2
 
 ## Sélection d'un vendeur
 Lors de son lancement, ATLAS s’ouvre sur la sélection du vendeur :
-    <div class="contenaireImg">
+    <div className="contenaireImg">
     ![illustration aspect test](../../static/docs/beggingday/1.PNG)
     </div>
 ## Monetique intégrée
 Dans le cas où vous possédez de la monétique intégrée, la liaison va s’effectuer avec le centre bancaire et initialiser le terminal Carte Bancaire.
 
-    <div class="contenaireImg">
+    <div className="contenaireImg">
     ![illustration aspect test](../../static/docs/beggingday/2.PNG)
     </div>
 
 Veuillez ensuite **saisir le montant de votre fonds de caisse** pour comptabiliser les espèces et contrôler le tiroir en fin de journée. 
 
 
-    <div class="contenaireImg">
+    <div className="contenaireImg">
     ![illustration aspect test](../../static/docs/beggingday/3.PNG)
     </div>
 
