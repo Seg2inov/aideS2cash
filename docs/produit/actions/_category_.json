@@ -1,0 +1,8 @@
+{
+  "label": "Actions possibles sur les Produits",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Produit"
+  }
+}
