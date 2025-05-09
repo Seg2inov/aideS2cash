@@ -22,6 +22,6 @@ S2Cash by Atlas affiche la liste des devis clients déjà réalisés :
 
 
 :::warning
-En cas de contrôle des autorités compétentes (DIRRECTE), cette information est à fournir obligatoirement et cette touche ne doit jamais être ôtée du clavier de caisse sous peine de mise en non-conformité et d’être soumis à « vignette rouge » voire pire à « interdiction temporaire ».
+En cas de contrôle des autorités compétentes (DIRRECTE/DREETS), cette information est à fournir obligatoirement et cette touche ne doit jamais être ôtée du clavier de caisse sous peine de mise en non-conformité et d’être soumis à « vignette rouge » voire pire à « interdiction temporaire ».
 :::
 
