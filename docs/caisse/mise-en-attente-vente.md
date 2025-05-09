@@ -57,7 +57,7 @@ Cette fonction peut également être utilisée pour la **préparation de command
 Une fois la commande préparée et saisie en caisse, le ticket en attente est accroché sur le paquet.
 
     <div className="contenaireImg">
-        ![logo de seg2inov](./assets/ticketenattente.PNG) 
+        ![logo de seg2inov](./assets/ecrancloturecaisse.PNG) 
     </div>
 
 
