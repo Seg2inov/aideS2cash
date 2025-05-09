@@ -52,7 +52,7 @@ Saisissez les produits ainsi que les quantités commandées. A ce niveau, vous p
 
 | Ecran | Description  | 
 |:-----------:|-----------|
-|![logo de seg2inov](./assets/produit.PNG/)| Ecran global|
+|![logo de seg2inov](./assets/produit.PNG)| Ecran global|
 |![logo de seg2inov](./assets/boutonproduit.PNG)| Consulter la fiche produit|
 |![logo de seg2inov](./assets/bouttonModification.PNG)|Modifier le produit sélectionné |
 |![logo de seg2inov](./assets/zonesaisiecommande.PNG)|Consulter les commentaires saisis lors de la commande |
