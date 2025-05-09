@@ -27,3 +27,10 @@ Un ticket s’imprime. Veuillez ensuite **saisir** le montant de votre **fonds d
 
 
 Vous le conservez dans le tiroir.
+
+
+L’écran de caisse apparaît. Vous pouvez commencer votre journée de vente.
+
+    <div className="contenaireImg">
+    ![illustration aspect test](../../static/docs/beggingday/4.PNG)
+    </div>

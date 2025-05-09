@@ -56,5 +56,5 @@ Lors de l’appel de ce produit en caisse, S2Cash by Atlas va a**utomatiquement 
 
 | Partie écran       | Explication | 
 |-----------|----|
-| ![illustration aspect test](./assets/kiloecran.PNG)    |  Tare automatique récupérée sur la fiche du produit directement. |
-| ![illustration aspect test](./assets/tableauecrankilonet.PNG) ![illustration aspect test](./assets/kilonetecran.PNG)        |  Poids du produit, Tare comprise |
+| ![illustration aspect test](./assets/kiloecran.PNG)    |  Poids du produit, Tare déduite. |
+|  ![illustration aspect test](./assets/kilonetecran.PNG)        |  Poids du produit, Tare comprise |
