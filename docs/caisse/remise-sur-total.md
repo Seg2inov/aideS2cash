@@ -25,7 +25,7 @@ Vous pouvez pratiquer une **remise en pourcentage sur la totalité de la vente**
     </div>
 
 
- Atlas vous demande alors de saisir le **motif de cette remise** avant de valider.
+ S2Cash by Atlas vous demande alors de saisir le **motif de cette remise** avant de valider.
  
   Une nouvelle ligne apparaît avec le montant de la remise. Le  ```RESTE A PAYER``` est mis à jour en haut de l’écran et sur la visu client. 
   

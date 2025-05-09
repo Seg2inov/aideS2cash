@@ -18,11 +18,11 @@ sidebar_position: 1
 &nbsp;
 
 :::note
-Ces configurations d’écrans ne sont que des exemples. Toutes les touches sont modifiables via le module ATLAS GESTION.
+Ces configurations d’écrans ne sont que des exemples. Toutes les touches sont modifiables via le module S2Cash by ATLAS GESTION.
 :::
 :::warning
 Comme pour les ventes, toutes les opérations qui nécessitent une manipulation des espèces sont enregistrées dans la Caisse, de façon à ce que le tiroir soit juste en fin de journée.
-Atlas enregistre donc :
+S2Cash by Atlas enregistre donc :
 <li>Les dépenses de caisse</li><li>Les recettes de caisse</li><li>Les prélèvements d’espèces</li><li>Les apports de monnaie</li><li>Les règlements client</li><li>Les remboursements client</li>
 :::
 

@@ -8,12 +8,12 @@ sidebar_position: 1
 Pour **abandonner un ticket** en cours de vente, appuyez sur la touche :
 
     <div className="contenaireImg">
-    ![logo de seg2inov](./assets/abandonTicket.PNG)
+    ![logo de seg2inov](../assets/abandonTicket.PNG)
     </div>
 
 
     <div className="contenaireImg">
-    ![logo de seg2inov](./assets/abandonnervente.PNG)
+    ![logo de seg2inov](../assets/abandonnervente.PNG)
     </div>
 
 

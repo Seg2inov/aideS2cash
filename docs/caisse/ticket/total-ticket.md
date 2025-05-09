@@ -9,13 +9,13 @@ Lorsque vous avez fini de saisir la totalité des produits de votre Client, appu
 
 
     <div className="contenaireImg">
-    ![logo de seg2inov](./assets/total.PNG)
+    ![logo de seg2inov](../assets/total.PNG)
     </div>
 
 Vous pouvez, à tout moment, revenir en vente et effacer le Total avec la touche ```RETOUR VENTE```.
 
     <div className="contenaireImg">
-    ![logo de seg2inov](./assets/retouralavente.PNG)
+    ![logo de seg2inov](../assets/retouralavente.PNG)
     </div>
 
 
@@ -36,11 +36,12 @@ Si votre montant saisi dépasse le total à payer, S2Cash by Atlas **calcule aut
 
 Le Rendu de monnaie est contrôlé pour chaque Moyen de paiement en fonction de vos paramètres.
 
-
-NB : Pour rester en conformité avec la loi, un avoir sera généré pour les tickets restaurants dans le cas de trop perçu.
+:::note
+Pour rester en conformité avec la loi, un avoir sera généré pour les tickets restaurants dans le cas de trop perçu.
+:::
 
 | Ticket       | Explication |
 |-----------|-----|
-| ![logo de seg2inov](./assets/ticketpart0.PNG) ![logo de seg2inov](./assets/ticketpart1.PNG)     |  Rendu Monnaie affiché sur la caisse |
-| ![logo de seg2inov](./assets/ticketpart2.PNG)       |  Différents modes de paiement et leurs montants associés |
-| ![logo de seg2inov](./assets/ticketpart3.PNG)   |  Rendu monnaie sur ticket de caisse |
+| ![logo de seg2inov](../assets/ticketpart0.PNG) ![logo de seg2inov](../assets/ticketpart1.PNG)     |  Rendu Monnaie affiché sur la caisse |
+| ![logo de seg2inov](../assets/ticketpart2.PNG)       |  Différents modes de paiement et leurs montants associés |
+| ![logo de seg2inov](../assets/ticketpart3.PNG)   |  Rendu monnaie sur ticket de caisse |

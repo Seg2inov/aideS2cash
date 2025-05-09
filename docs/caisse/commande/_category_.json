@@ -1,0 +1,8 @@
+{
+  "label": "Commande",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Produit"
+  }
+}

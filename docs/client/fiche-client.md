@@ -18,7 +18,7 @@ Vous pouvez **consulter** ou **modifier** les élements suivants :
 
 ### Le code ou numéro de client.
 
-Ce code est généré automatiquement par Atlas à la création du client.
+Ce code est généré automatiquement par S2Cash by Atlas à la création du client.
 
     <div className="contenaireImg">
     ![logo de seg2inov](./assets/adresse.PNG)

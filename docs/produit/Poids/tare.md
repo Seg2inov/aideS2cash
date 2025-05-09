@@ -35,7 +35,7 @@ Exemple :
 <li> Vous sélectionnez une tare de 0.350kg </li>
 <li> Vous mettez sur la balance une cagette d’oranges de 3.345kg </li>
 <li> Vous sélectionnez le produit « orange feuille » </li>
-<li> ATLAS enregistre une vente pour un poids de 2.995kg. </li>
+<li> S2Cash by ATLAS enregistre une vente pour un poids de 2.995kg. </li>
 
 Le logiciel a déduit du poids total le poids de la cagette.
 :::

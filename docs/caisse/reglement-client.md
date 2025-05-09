@@ -11,8 +11,10 @@ Il est utilisé pour :
 
 Le règlement d’un client vient **se soustraire de son solde**.
 
-NB : <li> Un solde client positif, le client vous doit de l’argent ;</li>
+:::note
+<li> Un solde client positif, le client vous doit de l’argent ;</li>
 <li>  Un solde client négatif, vous devez de l’argent à votre client. </li>
+:::
 
 Appuyez sur la touche :
 

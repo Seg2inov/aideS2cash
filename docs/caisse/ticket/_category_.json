@@ -1,0 +1,8 @@
+{
+  "label": "Les tickets",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Produit"
+  }
+}

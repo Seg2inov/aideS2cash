@@ -7,7 +7,7 @@ sidebar_position: 3
 ## Au démarage
 
 
-En fonction du paramétrage, Atlas peut soit **démarrer sur un vendeur standard** (généralement appelé CAISSE ou BALANCE) ou vous demander de **sélectionner un vendeur** pour ouvrir le logiciel.
+En fonction du paramétrage, S2Cash by Atlas peut soit **démarrer sur un vendeur standard** (généralement appelé CAISSE ou BALANCE) ou vous demander de **sélectionner un vendeur** pour ouvrir le logiciel.
 
 <div className="contenaireImg">
 ![illustration aspect test](../../static/docs/selectVendeur/1.PNG)
@@ -16,14 +16,14 @@ Veuillez-vous **identifier** en saisissant votre code et votre mot de passe ou p
 
  
 :::warning
-Attention, ATLAS contrôle que vous n’êtes pas déjà assigné à une autre caisse.
+Attention, S2Cash by ATLAS contrôle que vous n’êtes pas déjà assigné à une autre caisse.
 :::
 
 La caisse va s’ouvrir et **imprimer un ticket d’ouverture caisse**.
 
 ## Configurations vendeur
 
-Si ATLAS est configuré pour démarrer sur un vendeur standard, plusieurs configurations vendeur sont possibles (cf documentation ATLAS GESTION). Le système peut alors vous demander de vous identifier :
+Si S2Cash by ATLAS est configuré pour démarrer sur un vendeur standard, plusieurs configurations vendeur sont possibles (cf documentation S2Cash by ATLAS GESTION). Le système peut alors vous demander de vous identifier :
 
 
 ⦁	soit au début de la vente.

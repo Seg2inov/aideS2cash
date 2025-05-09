@@ -5,7 +5,7 @@ sidebar_position: 2
 # Début de journée
 
 ## Sélection d'un vendeur
-Lors de son lancement, ATLAS s’ouvre sur la sélection du vendeur :
+Lors de son lancement, S2Cash by ATLAS s’ouvre sur la sélection du vendeur :
     <div className="contenaireImg">
     ![illustration aspect test](../../static/docs/beggingday/1.PNG)
     </div>
