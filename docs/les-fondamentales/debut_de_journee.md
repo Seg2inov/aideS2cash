@@ -9,7 +9,7 @@ Lors de son lancement, S2Cash by ATLAS s’ouvre sur la sélection du vendeur :
     <div className="contenaireImg">
     ![illustration aspect test](../../static/docs/beggingday/1.PNG)
     </div>
-## Monetique intégrée
+## Monétique intégrée
 Dans le cas où vous possédez de la monétique intégrée, la liaison va s’effectuer avec le centre bancaire et initialiser le terminal Carte Bancaire.
 
     <div className="contenaireImg">

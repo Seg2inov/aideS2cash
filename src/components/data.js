@@ -72,7 +72,7 @@ export default  {
         theme : "Il n’y a pas de limite dans le délai de reprise d’un ticket en attente. Un client a oublié d’acheter un produit Un client a oublié son moyen de paiement  Un client conteste et vous attendez un responsable Si vous aviez sélectionné un client lors de la vente, son nom apparaît sur le ticket en attente.",
     },
     {
-        title : " Monetique Integrée – Init CB et Duplicata CB",
+        title : " Monétique Integrée – Init CB et Duplicata CB",
         link : "/docs/caisse/monetique-integrer",
         description : "Dans le cas d’une configuration en Monétique Intégrée, 2 nouveaux boutons sont accessibles sur l’écran de caisse ",
         theme : " monetique tntegree – init cb et duplicata cb Lors de l’appel au serveur monétique, la fenêtre ci-dessous apparait : On ne peut réimprimer **QUE le ticket de la dernière transaction**. Si vous utilisez au préalable la touche ```INIT CB```, aucun ticket ne sera imprimé. a touche ```DUPLICATA CB``` permet de réimprimer le dernier ticket de transaction bancaire :",

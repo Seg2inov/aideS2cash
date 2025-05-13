@@ -2,14 +2,14 @@
 sidebar_position: 1
 ---
 
-# Les bases de la caisse S2CAsh by ATLAS
+# Les bases de la caisse S2Cash by ATLAS
 
 ## Introduction
 
 
-Bienvenue dans la documentation de **S2cash**.
+Bienvenue dans la documentation de **S2Cash**.
 
-**S2cash** est un logiciel de caisse conçu spécialement pour **les commerces alimentaires** et les enseignes utilisant **des systèmes de pesée**.
+**S2Cash** est un logiciel de caisse conçu spécialement pour **les commerces alimentaires** et les enseignes utilisant **des systèmes de pesée**.
 La gestion des données de base permet de **collecter**, **centraliser**, **organiser**, sécuriser et maintenir à jour les données de l’entreprise.
 
 
@@ -40,7 +40,7 @@ Configurez votre environnement de travail selon vos besoins. Gérez les vendeurs
 <img className="logoImg" src="/img/logo/__3.svg" /> 
 ## Une gestion complète des tickets
 </div>
-S2cash prend en charge l’intégralité des tickets, de l’édition à l’archivage, en passant par la gestion des retours et des remboursements. Gagnez du temps tout en garantissant une traçabilité parfaite de chaque transaction.
+S2Cash prend en charge l’intégralité des tickets, de l’édition à l’archivage, en passant par la gestion des retours et des remboursements. Gagnez du temps tout en garantissant une traçabilité parfaite de chaque transaction.
 
 
 
@@ -50,7 +50,7 @@ S2cash prend en charge l’intégralité des tickets, de l’édition à l’arc
 <img className="logoImg" src="/img/logo/__4.svg" /> 
 ## Une gestion de la chaîne de ventes
 </div>
-Supervisez et coordonnez toutes les étapes du processus de vente : tarification, saisie de commande, préparation, livraison et facturation. S2cash vous permet d’optimiser chaque phase afin d’assurer un suivi précis et efficace.
+Supervisez et coordonnez toutes les étapes du processus de vente : tarification, saisie de commande, préparation, livraison et facturation. S2Cash vous permet d’optimiser chaque phase afin d’assurer un suivi précis et efficace.
 
 
 
@@ -62,7 +62,7 @@ Supervisez et coordonnez toutes les étapes du processus de vente : tarification
 </div>
 
 
-Assurez-vous que vos ressources sont toujours disponibles au bon moment. S2cash vous accompagne dans la gestion des achats, du stockage et de la réception des produits afin de répondre à la demande sans rupture ni surplus inutile.
+Assurez-vous que vos ressources sont toujours disponibles au bon moment. S2Cash vous accompagne dans la gestion des achats, du stockage et de la réception des produits afin de répondre à la demande sans rupture ni surplus inutile.
 
 
 
@@ -76,9 +76,9 @@ La gestion des données de base permet de collecter, centraliser, organiser, sé
 
 
 
-Avec S2cash, nous vous proposons **une solution complète**, intuitive et **évolutive** pour simplifier la gestion de votre commerce. Cette documentation vous accompagnera la configuration et l’utilisation du logiciel pour vous permettre d’en exploiter pleinement les capacités.
+Avec S2Cash, nous vous proposons **une solution complète**, intuitive et **évolutive** pour simplifier la gestion de votre commerce. Cette documentation vous accompagnera dans la configuration et l’utilisation du logiciel pour vous permettre d’en exploiter pleinement les capacités.
 
-**Bonne découverte de S2cash !**
+**Bonne découverte de S2Cash !**
 
     <div className="contenaireImg">
     ![illustration aspect test](/../static/img/illuintro.jpg)

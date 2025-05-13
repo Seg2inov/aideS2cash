@@ -3,11 +3,12 @@ sidebar_position: 1
 ---
 
 # Aspect visuel
-## Accéder aux écrans après le Total du ticket
+## Appuyez sur 1, 2 ou 3 pour accéder à l’un des trois écrans suivants :
 
 | ![illustration aspect test](../../static/docs/aspetVisuel/1.PNG) |  ![illustration aspect test](../../static/docs/aspetVisuel/2.PNG) | ![illustration aspect test](../../static/docs/aspetVisuel/4.PNG) | 
 |-----------|-----------|-----------|
-|Le 1er écran pour la **vente de produits**.| Le 2ème écran pour les fonctions diverses de caisse| Le 3ème écran, accessible **après le Total du ticket**, pour les remises sur le total et le règlement de la transaction.  Pour basculer dans la **Gestion** appuyez sur le bouton : <div className="contenaireImg"><img src="/docs/aspetVisuel/3.PNG" /></div> |
+|Le 1er écran pour la **vente de produits**.| Le 2ème écran pour les fonctions diverses de caisse|Le 3ème écran pour les fonctionnalités
+propres à la caisse.   Pour basculer dans la **Gestion** appuyez sur le bouton : <div className="contenaireImg"><img src="/docs/aspetVisuel/3.PNG" /></div> |
 
 
 | ![illustration aspect test](../../static/docs/aspetVisuel/8.PNG) | ![illustration aspect test](../../static/docs/aspetVisuel/9.PNG) |

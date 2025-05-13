@@ -51,9 +51,8 @@ Vous arrivez alors sur la page de recherche des produits :
     ![illustration aspect test](../../static/docs/produit/rechercheproduit/2.PNG)
     </div>
 
-On arrive sur une page recherche.
 
-### Recherche trié 
+### Recherche Triée  
 Vous pouvez affiner votre recherche en sélectionnant un critère de tri :
 <li>Rayon</li><li>Famille</li><li>Le fournisseur</li><li>Le code bar</li>
 Ces  boutons se trouvent **en haut à gauche de l’écran**. Une fois votre choix fait, validez avec le **bouton Vert** en haut. 
