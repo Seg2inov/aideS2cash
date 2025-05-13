@@ -40,7 +40,9 @@ Lorsque le client retourne la consigne, sélectionner la touche ```RETOUR CONSIG
 S2Cash by Atlas affiche une fenêtre afin de scanner le ticket de consigne retourné par le client.
 
 
-N.B : vous pouvez aussi saisir le numéro du ticket si le code à barre est illisible.
+:::note
+Vous pouvez aussi saisir le numéro du ticket si le code à barre est illisible.
+:::
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/lectureticketnbalanceretourconsigne.PNG)

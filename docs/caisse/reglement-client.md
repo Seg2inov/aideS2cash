@@ -6,7 +6,7 @@ sidebar_position: 7
 
 Le règlement client est un **encaissement hors vente**.
 Il est utilisé pour :
-<li> Les clients dont les **paiements sont différés « En compte »** et qui règlent à posteriori ; </li>
+<li> Les clients dont les **paiements sont différés « En compte »** et qui règlent à posteriori </li>
 <li> Les clients qui règlent un **acompte sur une commande.** </li> 
 
 Le règlement d’un client vient **se soustraire de son solde**.
