@@ -1,5 +1,4 @@
 import { useRef, useEffect, useState } from "react";
-import SearchBarWrapper from "../theme/SearchBar";
 import data from "./data";
 
 
