@@ -1,6 +1,6 @@
 import React from 'react';
 import Layout from '@theme-original/Layout';
-import Search from '../components/search.jsX';
+import Search from '../components/searchBar';
 
 export default function CustomLayout({ children }) {
   return (
