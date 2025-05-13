@@ -37,27 +37,27 @@ export default function Search(){
     return(
         <div className="searchbar" ref={inputRef}>
             <div className="containerInput">
-                <input type="text" onChange={e => setQuery(e.target.value)} />
+                <input type="text" onChange={e => setQuery(e.target.value)}  placeholder="Recherche ..."/>
                 <img className="iconsearch" src="\assets\search.svg" alt="" />
             </div>
 
             <ul className={isHide ? 'hide' : 'resultSearch'} >
-            
-                {filteredItems.map(value =>
-                    
-                    <a href={value.link} className="linkDocs">
+            {filteredItems && filteredItems.length > 0 ? (
+                filteredItems.map(value => (
+                    <a href={value.link} className="linkDocs" key={value.link}>
                         <div className="contentwithimg">
-                        <img className="page" src="\assets\page.svg" alt="" />
-                        <div className="mainContent">
-                            <h3 className="linksDocsTitle" key={value.title}>{value.title}</h3>
-                            <p key={value.description} >{value.description}</p>
-                        </div>
+                            <img className="page" src="\assets\page.svg" alt="" />
+                            <div className="mainContent">
+                                <h3 className="linksDocsTitle">{value.title}</h3>
+                                <p>{value.description}</p>
+                            </div>
                         </div>
                         <img className="arrow" src="\assets\arrow.svg" alt="" />
                     </a>
-                    
-                )}
-                
+                ))
+            ) : (
+                <h3 className="noresult">Aucun résultat</h3>
+            )}
             </ul>
         </div>
     )
