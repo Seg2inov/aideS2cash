@@ -20,5 +20,4 @@ Il est important d’utiliser cette fonction pour que le tiroir soit juste en fi
 <li>Saisissez le montant total de l’apport </li>
 <li> Validez votre saisie </li>
 
-Un ticket pour contrôle est imprimé.
-L’apport de monnaie apparaît distinctement sur la clôture de caisse.
+Il y a alors une impression pour contrôle. L’apport de monnaie apparaît distinctement sur la clôture de caisse.

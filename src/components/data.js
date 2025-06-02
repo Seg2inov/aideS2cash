@@ -12,10 +12,10 @@ export default  {
         theme : 'balance - affichage crc des devis clients déjà réalisés En cas de contrôle des autorités compétentes (DIRRECTE/DREETS), cette information est à fournir obligatoirement et cette touche ne doit jamais être ôtée du clavier de caisse sous peine de mise en non-conformité et d’être soumis à « vignette rouge » voire pire à « interdiction temporaire ».'
     },
     {
-        title : "Cloture de caisse",
+        title : "Clôture de caisse",
         link : "/docs/caisse/cloture-caisse",
         description : "Pour clôturer votre journée ou votre caisse, appuyez sur la touche CLOTURE",
-        theme : 'cloture-caisse cloture de caisse devis produits prix commandes Imprimer Comptez et saisissez le détail des pièces et billets contenus dans votre tiroir-caisse. S2Cash by Atlas calcule au fur et à mesure de la saisie le **total réel de votre tiroir-caisse**. A la fin du comptage, ATLAS imprime un ticket de détail du comptage.'
+        theme : 'Cloture de causse cloture de caisse cloture caisse CLOTURE DE CAISSE cloture-caisse cloture de caisse devis produits prix commandes Imprimer Comptez et saisissez le détail des pièces et billets contenus dans votre tiroir-caisse. S2Cash by Atlas calcule au fur et à mesure de la saisie le **total réel de votre tiroir-caisse**. A la fin du comptage, ATLAS imprime un ticket de détail du comptage.'
     },
     {
         title : "Consignes",
@@ -36,10 +36,10 @@ export default  {
         theme : "controle especes Controle espèces Controle especes contrôle espèces controle especes Une fenêtre s’affiche alors pour effectuer un comptage du tiroir avec le solde théorique en caisse.Un ticket s’imprime alors avec le **détail du comptage** que vous venez d’effectuer."
     },
     {
-        title : "Controle tiroir",
+        title : "Contrôle tiroir",
         link : "/docs/caisse/controle-tiroir",
         description : "Vous pouvez effectuer un contrôle de votre tiroir en cours de journée, afin de vérifier votre tiroir sur les règlements autres que les espèces.",
-        theme : 'contrôle tiroir controle especes  S2Cash by Atlas affiche tous les tickets encaissés par moyen de paiement, avec le détail. encaissemnt '
+        theme : 'Contrôle Tiroir contrôle tiroir controle especes  S2Cash by Atlas affiche tous les tickets encaissés par moyen de paiement, avec le détail. encaissemnt '
     },
     {
         title : "Correction de règlement",
@@ -75,7 +75,7 @@ export default  {
         title : " Monétique Integrée – Init CB et Duplicata CB",
         link : "/docs/caisse/monetique-integrer",
         description : "Dans le cas d’une configuration en Monétique Intégrée, 2 nouveaux boutons sont accessibles sur l’écran de caisse ",
-        theme : " monetique tntegree – init cb et duplicata cb Lors de l’appel au serveur monétique, la fenêtre ci-dessous apparait : On ne peut réimprimer **QUE le ticket de la dernière transaction**. Si vous utilisez au préalable la touche ```INIT CB```, aucun ticket ne sera imprimé. a touche ```DUPLICATA CB``` permet de réimprimer le dernier ticket de transaction bancaire :",
+        theme : " Monetique integree MONETIQUE INTEGREE monetique tntegree – init cb et duplicata cb Lors de l’appel au serveur monétique, la fenêtre ci-dessous apparait : On ne peut réimprimer **QUE le ticket de la dernière transaction**. Si vous utilisez au préalable la touche ```INIT CB```, aucun ticket ne sera imprimé. a touche ```DUPLICATA CB``` permet de réimprimer le dernier ticket de transaction bancaire :",
     },
     {
         title : "Pause caisse",
@@ -114,10 +114,10 @@ export default  {
         theme :"vente sur total En fonction du paramétrage mis en place, vous avez aussi la possibilité de **vendre des coupons imprimés à l’avance** par S2Cash by Atlas (cf. ATLAS Gestion).  Dans ce cas, Atlas vous demande de **scanner les coupons pour les activer.** Lorsque le client présente son coupon au moment d’un règlement, il ne vous reste qu’à le scanner au moment du total ticket. "
     },
     {
-        title : "Duplicata & reimpression ticket ",
+        title : "Duplicata & réimpression ticket ",
         link : "/docs/caisse/ticket/duplicata-ticket",
         description : "Vous pouvez réimprimer une vente du jour ou d’une journée précédente à la demande.",
-        theme :" duplicata & reimpression ticket  duplicata de tickeet et de facture DUPLICATA DE TICKET ET DE FACTURE Caisse caisse facture facturette A5 un imprimante ticket multi fonction format A4 Dans les 3 cas, ATLAS affiche d’abord tous les tickets du jour par caissier ou caisse. "
+        theme :" Duplicata & reimpression ticket duplicata & reimpression ticket  duplicata de tickeet et de facture DUPLICATA DE TICKET ET DE FACTURE Caisse caisse facture facturette A5 un imprimante ticket multi fonction format A4 Dans les 3 cas, ATLAS affiche d’abord tous les tickets du jour par caissier ou caisse. "
     },
     {
         title : "Ticket sans détail",
@@ -126,16 +126,16 @@ export default  {
         theme :"ticlet sans detail ticket SANS DETAIL detail Pour imprimer un ticket sans détail sur l’imprimante ticket, appuyer sur la touche :Ce libellé est modifiable dans les paramètres système : menu « ```PARAMETRES``` » du module ATLAS GESTION."
     },
     {
-        title : "Total ticket",
-        link : "/docs/caisse/ticket/total-ticket",
+        title : "Total Panier",
+        link : "/docs/caisse/ticket/total-panier",
         description : "Lorsque vous avez fini de saisir la totalité des produits de votre Client, appuyez sur la touche TOTAL pour faire apparaître le montant à payer et les différents moyens de paiement acceptés.",
-        theme :"total ticket ticket Cette fonctionnalité est **impossible dans le cas de paiement partiel en carte bancaire**. total Le Rendu de monnaie est contrôlé pour chaque Moyen de paiement en fonction de vos paramètres. Pour ce faire, renseignez le montant à l’aide du clavier et le mode de paiement grâce à la touche correspondante. multi paiment"
+        theme :"total panier Total panier TOTAL PANIER total ticket ticket Cette fonctionnalité est **impossible dans le cas de paiement partiel en carte bancaire**. total Le Rendu de monnaie est contrôlé pour chaque Moyen de paiement en fonction de vos paramètres. Pour ce faire, renseignez le montant à l’aide du clavier et le mode de paiement grâce à la touche correspondante. multi paiment"
     },
     {
-        title : "Commande siege",
+        title : "Commande siège",
         link : "/docs/caisse/commande/commande-siege",
         description : "Dans le cadre d’un magasin multi-sites ou d’une enseigne multi-magasins, la touche CDE SIEGE permet d’enregistrer une commande client et de l’envoyer au SIEGE pour qu’elle soit préparée.",
-        theme :"commande Siege"
+        theme :"Commande siege commande Siege"
     },
     {
         title : "Reprise de commande",

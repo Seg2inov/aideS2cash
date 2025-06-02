@@ -29,7 +29,17 @@ La ligne passe en **négatif**.
 
 Vous pouvez vendre d’autres produits
 
-Si le total de la vente est négatif, S2Cash by Atlas vous demande si vous remboursez le client en espèces.
+
+S2Cash by Atlas vous demande ensuite de
+saisir le motif du retour (en attente de la
+capture).
+
+    <div className="contenaireImg">
+    ![logo de seg2inov](./assets/modifretourprix.PNG)
+    </div>
+
+
+Enfin, si le total de la vente est négatif, S2Cash by Atlas vous demande si vous remboursez le client en espèces.
 
 
 Si la caisse n’accepte pas les avoirs, ce message n’apparaît pas.

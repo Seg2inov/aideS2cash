@@ -1,7 +1,7 @@
 ---
 sidebar_position: 10
 ---
-# Duplicata & reimpression ticket 
+# Duplicata & réimpression ticket 
 
 Vous pouvez **réimprimer une vente du jour ou d’une journée précédente** à la demande.
 

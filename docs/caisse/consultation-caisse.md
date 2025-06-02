@@ -2,7 +2,7 @@
 sidebar_position: 14
 ---
 
-# Consulation de caisse
+# Consultation de caisse
 
 Pour consulter les éléments financiers en cours de journée, **appuyez sur la touche** ```X DE CAISSE``` :
 

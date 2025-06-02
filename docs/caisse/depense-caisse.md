@@ -28,11 +28,10 @@ Sélectionnez celle qui vous convient, puis saisissez le montant et validez par 
     ![logo de seg2inov](./assets/valide.PNG)
 </div>
 
-| Action       | Ticket |
+| Action       | Impression |
 |--------------|--------|
 | ![logo de seg2inov](./assets/saisieprixoumontant.PNG)| ![logo de seg2inov](./assets/ticketdepense.PNG) |
 
-Un ticket s’imprime. 
 
 
 Vous devez conserver l’impression dans le tiroir. Cette opération apparaît sur le journal et la clôture de caisse.

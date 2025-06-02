@@ -2,7 +2,7 @@
 sidebar_position: 17
 ---
 
-# Monetique Integrée – Init CB et Duplicata CB
+# Monétique Integrée – Init CB et Duplicata CB
 
 Dans le cas d’une configuration en Monétique Intégrée, 2 nouveaux boutons sont accessibles sur l’écran de caisse :
 

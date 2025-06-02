@@ -2,7 +2,7 @@
 sidebar_position: 17
 ---
 
-# Cloture de caisse
+# Clôture de caisse
 
 ## Démarrer la clôture
 Pour clôturer votre journée ou votre caisse, appuyez sur la touche ```CLOTURE```:
@@ -40,7 +40,7 @@ S2Cash by Atlas calcule au fur et à mesure de la saisie le **total réel de vot
 
 **Enregistrez votre saisie.**
 
-## Ticket 
+## Impression détail
 
 
 A la fin du comptage, le **détail du comptage** est imprimé. S’il y en a un, l’écart de caisse est imprimé
@@ -52,7 +52,7 @@ Il indique un écart de caisse, s’il y en a un.
     ![logo de seg2inov](./assets/choixrecontertiroirvalide.PNG)
 </div>
 
-En même temps, un message s’affiche vous indiquant la valeur et le sens de l’écart constaté par ATLAS.
+En même temps, un message s’affiche vous indiquant la valeur et le sens de l’écart constaté par S2Cash by Atlas.
 
 
 **3 possibilités suivant vos paramètres :**
@@ -84,7 +84,7 @@ Le **détail de la clôture** s’affiche à l’écran.
 ## Quitter 
 
 
-Appuyez sur ```QUITTER``` pour imprimer le ticket de clôture : 
+Appuyez sur ```QUITTER``` pour obtenir l'impression de clôture : 
 
 
 <div className="contenaireImg">
