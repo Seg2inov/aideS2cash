@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Changement de quanité
+# Changement de quantité
 
 
 Pour vendre un même produit en plusieurs exemplaires, il faut d’abord saisir ou scanner le produit puis modifier la quantité.

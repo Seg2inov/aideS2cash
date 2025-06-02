@@ -19,7 +19,7 @@ On ne peut réimprimer **QUE le ticket de la dernière transaction**.
 Si vous utilisez au préalable la touche ```INIT CB```, aucun ticket ne sera imprimé.
 :::
 
-<li> La touche ```INIT CB``` force la réinitialisation du termine de carte bancaire et effectue un appel sur le serveur de monétique. </li>
+<li> La touche ```INIT CB``` force la réinitialisation du terminal de carte bancaire et effectue un appel sur le serveur de monétique. </li>
 
     <div className="contenaireImg">
     ![logo de seg2inov](./assets/boutoninitcb.PNG)

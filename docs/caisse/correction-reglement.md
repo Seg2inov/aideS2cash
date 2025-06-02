@@ -1,7 +1,7 @@
 ---
 sidebar_position: 16
 ---
-# Correction de réglement 
+# Correction de règlement 
 
 En cas d’erreur lors de l’encaissement, vous pouvez **ventiler le moyen de paiement sur un autre règlement** sans toucher au montant encaissé.
 
@@ -20,14 +20,14 @@ S2Cash by Atlas affiche alors la liste des encaissements de la journée (en fonc
 </div>
 
 
-Sélectionner la transaction à corriger et validez avec la touche :
+Sélectionnez la transaction à corriger et validez avec la touche :
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/valide.PNG)
 </div>
 
 
-S2Cash by Atlas vous demande de **sélectionner le nouveau moyen de paiement**. Un ticket s’imprime. Vous devez le conserver dans le tiroir.
+S2Cash by Atlas vous demande de **sélectionner le nouveau moyen de paiement**. Veuillez conserver l’impression dans le tiroir.
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/listereglement.PNG)

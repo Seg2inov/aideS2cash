@@ -33,7 +33,7 @@ export default  {
         title : "Contrôle espèces",
         link : "/docs/caisse/controle-espece",
         description : "Vous avez la possibilité d’effectuer un comptage tiroir en cours de journée pour contrôler le solde.",
-        theme : "contrôle espèces controle especes Une fenêtre s’affiche alors pour effectuer un comptage du tiroir avec le solde théorique en caisse.Un ticket s’imprime alors avec le **détail du comptage** que vous venez d’effectuer."
+        theme : "controle especes Controle espèces Controle especes contrôle espèces controle especes Une fenêtre s’affiche alors pour effectuer un comptage du tiroir avec le solde théorique en caisse.Un ticket s’imprime alors avec le **détail du comptage** que vous venez d’effectuer."
     },
     {
         title : "Controle tiroir",
@@ -42,16 +42,16 @@ export default  {
         theme : 'contrôle tiroir controle especes  S2Cash by Atlas affiche tous les tickets encaissés par moyen de paiement, avec le détail. encaissemnt '
     },
     {
-        title : "Correction de réglement",
+        title : "Correction de règlement",
         link : "/docs/caisse/correction-reglement",
         description : "En cas d’erreur lors de l’encaissement, vous pouvez ventiler le moyen de paiement sur un autre règlement sans toucher au montant encaissé.",
-        theme : "Cette fonction n’est accessible que sur la journée en cours, et sur une caisse non clôturée. Pour corriger un moyen de règlement, **appuyez sur la touche** ```CORRECTION REGLEMENT```  correction reglement Sélectionner la transaction à corriger et validez avec la touche  "
+        theme : "correction de reglement Correction de réglement Correction De Reglement CORRECTION DE REGLEMENT Cette fonction n’est accessible que sur la journée en cours, et sur une caisse non clôturée. Pour corriger un moyen de règlement, **appuyez sur la touche** ```CORRECTION REGLEMENT```  correction reglement Sélectionnez la transaction à corriger et validez avec la touche  "
     },
     {
         title : "Dépense de caisse",
         link : "/docs/caisse/depense-caisse",
         description : "Une dépense de caisse est une sortie d’espèces pour des opérations diverses.",
-        theme : "Les différents motifs de dépense s’affichent, sélectionnez celle qui vous convient, puis saisissez le montant et validez par la touche : Un ticket s’imprime. Vous devez le conserver dans le tiroir. "
+        theme : "depense de caisse Depense de caisse Dépense De CaisseLes différents motifs de dépense s’affichent, sélectionnez celle qui vous convient, puis saisissez le montant et validez par la touche : Un ticket s’imprime. Vous devez le conserver dans le tiroir. "
     },
     {
         title : "Le sous-total",
@@ -61,7 +61,7 @@ export default  {
     },
     {
         title : "Devis client",
-        link : "docs/caisse/devis-client",
+        link : "/docs/caisse/devis-client",
         description : "Pour effectuer un devis de prix à un client, appuyer sur la touche DEVIS",
         theme : 'devis CLIENT Client S2Cash by Atlas affiche la liste des devis clients déjà réalisés : Enregistrer Rajouter Supprimer'
     },
@@ -69,7 +69,7 @@ export default  {
         title : "Mise en attente d'une vente",
         link : "/docs/caisse/mise-en-attente-vente",
         description : "Cette fonction vous permet de mettre une vente en attente, de manière à libérer la caisse et passer à un autre client.",
-        theme : "Il n’y a pas de limite dans le délai de reprise d’un ticket en attente. Un client a oublié d’acheter un produit Un client a oublié son moyen de paiement  Un client conteste et vous attendez un responsable Si vous aviez sélectionné un client lors de la vente, son nom apparaît sur le ticket en attente.",
+        theme : "mise en attente d'une vente MISE EN ATTENTE D'UNE VENTE Il n’y a pas de limite dans le délai de reprise d’un ticket en attente. Un client a oublié d’acheter un produit Un client a oublié son moyen de paiement  Un client conteste et vous attendez un responsable Si vous aviez sélectionné un client lors de la vente, son nom apparaît sur le ticket en attente.",
     },
     {
         title : " Monétique Integrée – Init CB et Duplicata CB",
@@ -81,13 +81,13 @@ export default  {
         title : "Pause caisse",
         link : "/docs/caisse/pausecaisse",
         description : "Pour mettre la caisse en pause, sans la clôturer, appuyer sur la touche POLYVALENCE.",
-        theme :"En fonction du paramétrage mis en place : pause CAISSE Caisse Seule la personne ayant mis la caisse en pause peut la débloquer  N’importe quel utilisateur peut enlever la pause"
+        theme :"pause caisse En fonction du paramétrage mis en place : pause CAISSE Caisse Seule la personne ayant mis la caisse en pause peut la débloquer  N’importe quel utilisateur peut enlever la pause"
     },
     {
-        title : "Prelevement",
+        title : "Prélèvement",
         link : "/docs/caisse/prelevement",
         description : "Cette fonction permet de prélever des espèces en cours de journée afin de soulager le tiroir. Il est important d’utiliser cette fonction pour que le tiroir soit juste en fin de journée.",
-        theme :"prelevement S2Cash by Atlas vous alerte lorsque vous avez trop d’espèces dans votre tiroir, vous oblige à un prélèvement si votre palier maximum est dépassé."
+        theme :"prélèvement PRÉLÈVEMENT Prelevement prelevement S2Cash by Atlas vous alerte lorsque vous avez trop d’espèces dans votre tiroir, vous oblige à un prélèvement si votre palier maximum est dépassé."
     },
     {
         title : "Rabais sur total",
@@ -96,40 +96,40 @@ export default  {
         theme :"rabais sur Total TOTAL Le  ```reste à payer```  est mis à jour en haut de l’écran et sur la visu client. Si votre rabais est incorrect, recommencez la fonction ou saisissez  ```0```  pour l’annuler. Le Montant du rabais est **ventilé sur chaque produit** en proportion de sa valeur dans le ticket. Le rabais apparaît sur le ticket de caisse et sur la clôture de fin de journée."
     },
     {
-        title : "Réglement client",
+        title : "Règlement client",
         link : "/docs/caisse/reglement-client",
         description : "Le règlement client est un encaissement hors vente.",
-        theme :"Les clients dont les **paiements sont différés « En compte »** et qui règlent à posteriori Le règlement d’un client vient **se soustraire de son solde**. Après avoir sélectionné le client, saisissez **le montant réglé par le Client et le moyen de paiement utilisé**. Validez. La fenêtre de sélection du client s’affiche (cf. [Lien vers tutorial recherche et création client](https://aide.seg2inov.eu/docs/client/recherche))."
+        theme :"Reglement client reglement client règlement client réglement client Les clients dont les **paiements sont différés « En compte »** et qui règlent à posteriori Le règlement d’un client vient **se soustraire de son solde**. Après avoir sélectionné le client, saisissez **le montant réglé par le Client et le moyen de paiement utilisé**. Validez. La fenêtre de sélection du client s’affiche (cf. [Lien vers tutorial recherche et création client](https://aide.seg2inov.eu/docs/client/recherche))."
     },
     {
         title : "Remise sur total",
         link : "/docs/caisse/remise-sur-total",
         description : "Vous pouvez pratiquer une remise en pourcentage sur la totalité de la vente.",
-        theme :"S2Cash by Atlas vous demande alors de saisir le **motif de cette remise** avant de valider   Une nouvelle ligne apparaît avec le montant de la remise. Le  ```RESTE A PAYER``` est mis à jour en haut de l’écran et sur la visu client. Le système S2Cash by Atlas peut être configuré avec une remise total fixe. Dans ce cas, quel que soit le montant saisi de la remise, le système applique toujours le montant paramétré.Le Montant de la remise est **ventilé sur chaque produit** en proportion de sa valeur dans le ticket. La remise totale apparaît sur le ticket de caisse et sur la clôture de fin de journée."
+        theme :"remise sur total S2Cash by Atlas vous demande alors de saisir le **motif de cette remise** avant de valider   Une nouvelle ligne apparaît avec le montant de la remise. Le  ```RESTE A PAYER``` est mis à jour en haut de l’écran et sur la visu client. Le système S2Cash by Atlas peut être configuré avec une remise total fixe. Dans ce cas, quel que soit le montant saisi de la remise, le système applique toujours le montant paramétré.Le Montant de la remise est **ventilé sur chaque produit** en proportion de sa valeur dans le ticket. La remise totale apparaît sur le ticket de caisse et sur la clôture de fin de journée."
     },
     {
         title : "Vente de coupon",
         link : "/docs/caisse/vente-de-coupon",
         description : "Pour effectuer une vente de coupon, appuyez sur la touche VENTE COUPON.",
-        theme :"En fonction du paramétrage mis en place, vous avez aussi la possibilité de **vendre des coupons imprimés à l’avance** par S2Cash by Atlas (cf. ATLAS Gestion).  Dans ce cas, Atlas vous demande de **scanner les coupons pour les activer.** Lorsque le client présente son coupon au moment d’un règlement, il ne vous reste qu’à le scanner au moment du total ticket. "
+        theme :"vente sur total En fonction du paramétrage mis en place, vous avez aussi la possibilité de **vendre des coupons imprimés à l’avance** par S2Cash by Atlas (cf. ATLAS Gestion).  Dans ce cas, Atlas vous demande de **scanner les coupons pour les activer.** Lorsque le client présente son coupon au moment d’un règlement, il ne vous reste qu’à le scanner au moment du total ticket. "
     },
     {
-        title : "Duplicata de ticket et de facture",
-        link : "/docs/caisse/ticket/duplicata-ticket-facture",
+        title : "Duplicata & reimpression ticket ",
+        link : "/docs/caisse/ticket/duplicata-ticket",
         description : "Vous pouvez réimprimer une vente du jour ou d’une journée précédente à la demande.",
-        theme :"Caisse caisse facture facturette A5 un imprimante ticket multi fonction format A4 Dans les 3 cas, ATLAS affiche d’abord tous les tickets du jour par caissier ou caisse. "
+        theme :" duplicata & reimpression ticket  duplicata de tickeet et de facture DUPLICATA DE TICKET ET DE FACTURE Caisse caisse facture facturette A5 un imprimante ticket multi fonction format A4 Dans les 3 cas, ATLAS affiche d’abord tous les tickets du jour par caissier ou caisse. "
     },
     {
         title : "Ticket sans détail",
         link : "/docs/caisse/ticket/ticket-sans-detail",
         description : "Lors d’une vente de produit alimentaire vous pouvez, à la demande du client, imprimer un ticket sans détail.",
-        theme :"ticket SANS DETAIL detail Pour imprimer un ticket sans détail sur l’imprimante ticket, appuyer sur la touche :Ce libellé est modifiable dans les paramètres système : menu « ```PARAMETRES``` » du module ATLAS GESTION."
+        theme :"ticlet sans detail ticket SANS DETAIL detail Pour imprimer un ticket sans détail sur l’imprimante ticket, appuyer sur la touche :Ce libellé est modifiable dans les paramètres système : menu « ```PARAMETRES``` » du module ATLAS GESTION."
     },
     {
         title : "Total ticket",
         link : "/docs/caisse/ticket/total-ticket",
         description : "Lorsque vous avez fini de saisir la totalité des produits de votre Client, appuyez sur la touche TOTAL pour faire apparaître le montant à payer et les différents moyens de paiement acceptés.",
-        theme :"ticket Cette fonctionnalité est **impossible dans le cas de paiement partiel en carte bancaire**. total Le Rendu de monnaie est contrôlé pour chaque Moyen de paiement en fonction de vos paramètres. Pour ce faire, renseignez le montant à l’aide du clavier et le mode de paiement grâce à la touche correspondante. multi paiment"
+        theme :"total ticket ticket Cette fonctionnalité est **impossible dans le cas de paiement partiel en carte bancaire**. total Le Rendu de monnaie est contrôlé pour chaque Moyen de paiement en fonction de vos paramètres. Pour ce faire, renseignez le montant à l’aide du clavier et le mode de paiement grâce à la touche correspondante. multi paiment"
     },
     {
         title : "Commande siege",
@@ -165,7 +165,7 @@ export default  {
         title : "Recherche Client",
         link : "/docs/client/recherche",
         description : "Pour associer un Client à votre vente, vous devez le sélectionner avant le Total :",
-        theme :"CLIENT Client cilent apparaitre selection SELECTIONNER"
+        theme :"Recherche client recherche client RECHERCHE CLIENT CLIENT Client cilent apparaitre selection SELECTIONNER"
     },
     {
         title : "Remboursement client",
@@ -192,28 +192,34 @@ export default  {
         theme :"Au démarage Si S2Cash by ATLAS est configuré pour démarrer sur un vendeur standard, plusieurs configurations vendeur sont possibles (cf documentation S2Cash by ATLAS GESTION). Le système peut alors vous demander de vous identifier : configuration Configuration vendeurs La caisse va s’ouvrir et **imprimer un ticket d’ouverture caisse**. Veuillez-vous **identifier** en saisissant votre code et votre mot de passe ou passez votre Badge devant le lecteur de code à barre."
     },
     {
-        title : "Recherche et intégrer un produit à la vente en cours",
+        title : "Recette de caisse",
+        link : "/docs/caisse/recette-caisse",
+        description : "Une recette de caisse est une entrée d’espèces en dehors d’une vente. ",
+        theme :"recette de caisse RECETTE DE CAISSE recette caisese Recette caisse SVous devez conserver l’impression dans le tiroir. Cette opération apparaît sur le journal et la clôture de caisse."
+    },
+    {
+        title : "Rechercher et intégrer un produit à la vente en cours",
         link : "/docs/produit/recherche_et_integrer_un_produit_a_la_vente",
         description : "1ère méthode : Accès à partir de la liste des catégories visibles",
-        theme :"Sur la partie **gauche** de votre caisse, une zone bleue affiche plusieurs écrans contenant différentes catégories de produits. Vous pouvez naviguer entre ces écrans à l'aide des onglets situés à gauche, nommés ici 1, 2 et 3. Sélectionnez la **catégorie** qui vous intéresse. Une fois la **catégorie sélectionnée**, choisissez le produit qui vous intéresse. Le produit sélectionné apparaît maintenant dans **votre ticket**, en haut à **droite de l’écran**. Ces  boutons se trouvent **en haut à gauche de l’écran**. Une fois votre choix fait, validez avec le **bouton Vert** en haut. Le prix net à payer s’affiche directement sous la liste des produits sélectionnés."
+        theme :"recherche et intégrer un produit à la vente en cours recherche et integrer un produit a la Sur la partie **gauche** de votre caisse, une zone bleue affiche plusieurs écrans contenant différentes catégories de produits. Vous pouvez naviguer entre ces écrans à l'aide des onglets situés à gauche, nommés ici 1, 2 et 3. Sélectionnez la **catégorie** qui vous intéresse. Une fois la **catégorie sélectionnée**, choisissez le produit qui vous intéresse. Le produit sélectionné apparaît maintenant dans **votre ticket**, en haut à **droite de l’écran**. Ces  boutons se trouvent **en haut à gauche de l’écran**. Une fois votre choix fait, validez avec le **bouton Vert** en haut. Le prix net à payer s’affiche directement sous la liste des produits sélectionnés."
     },
     {
-        title : "Changement de quanité",
+        title : "Changement de quantité",
         link : "/docs/produit/changer-quantite",
         description : "Pour vendre un même produit en plusieurs exemplaires, il faut d’abord saisir ou scanner le produit puis modifier la quantité.",
-        theme :"Positionnez-vous sur la ligne du produit à modifier Vous pouvez à tout moment revenir sur le ticket en cours pour effectuer une modification de prix ou de quantité. Appuyez sur la touche ```MODIFIE QUANTITE```.Si vous devez à la fois modifier la quantité et forcer le prix sur un même produit, il faut d’abord modifier la quantité puis changer le prix et non l’inverse."
+        theme :"Changement de quantité changement de quantite Positionnez-vous sur la ligne du produit à modifier Vous pouvez à tout moment revenir sur le ticket en cours pour effectuer une modification de prix ou de quantité. Appuyez sur la touche ```MODIFIE QUANTITE```.Si vous devez à la fois modifier la quantité et forcer le prix sur un même produit, il faut d’abord modifier la quantité puis changer le prix et non l’inverse."
     },
     {
-        title : "Annulation poduit",
+        title : "Annulation produit",
         link : "/docs/produit/annuler",
         description : "Pour annuler un produit saisi que le client ne veut plus ou pour rectifier une erreur :",
-        theme :"S2Cash by Atlas rajoute une ligne au ticket à l’inverse de la ligne sélectionnée. SUPPRIMER supprimer Supprimer L’annulation de ligne apparaît sur le ticket de caisse et sur la clôture de fin de journée."
+        theme :"annulation produit ANNULATION PRODUIT S2Cash by Atlas rajoute une ligne au ticket à l’inverse de la ligne sélectionnée. SUPPRIMER supprimer Supprimer L’annulation de ligne apparaît sur le ticket de caisse et sur la clôture de fin de journée."
     },
     {
-        title : "Prix force",
+        title : "Prix forcé",
         link : "/docs/produit/prix-force",
         description : "Pour modifier le prix d’un produit, il faut d’abord saisir ou scanner le produit puis modifier le prix.",
-        theme :"Si une remise a été saisie au préalable, S2Cash by Atlas va le supprimer automatiquement. Si vous devez à la fois modifier la quantité et le prix sur un même produit, il faut d’abord modifier la quantité puis changer le prix, et non l’inverser. Vous pouvez à tout moment revenir sur le ticket en cours pour effectuer une modification de prix ou de quantité.  Appuyez sur la touche ```MODIF PRIX``` modif prix Modif prix"
+        theme :"Prix forcé prix force Prix force PRIX FORCE Si une remise a été saisie au préalable, S2Cash by Atlas va le supprimer automatiquement. Si vous devez à la fois modifier la quantité et le prix sur un même produit, il faut d’abord modifier la quantité puis changer le prix, et non l’inverser. Vous pouvez à tout moment revenir sur le ticket en cours pour effectuer une modification de prix ou de quantité.  Appuyez sur la touche ```MODIF PRIX``` modif prix Modif prix"
     },
     {
         title : "Remise sur produit",

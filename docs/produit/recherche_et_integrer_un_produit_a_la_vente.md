@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Recherche et intégrer un produit à la vente en cours
+# Rechercher et intégrer un produit à la vente en cours
 
 ## 1ère méthode : Accès à partir de la liste des catégories visibles
 
@@ -16,7 +16,7 @@ sidebar_position: 1
 
 Sur la partie **gauche** de votre caisse, une zone bleue affiche plusieurs écrans contenant différentes catégories de produits. Vous pouvez naviguer entre ces écrans à l'aide des onglets situés à gauche, nommés ici 1, 2 et 3. Sélectionnez la **catégorie** qui vous intéresse.
 
-### Séletion du produit
+### Sélection du produit
 
 
         <div className="contenaireImg">
@@ -28,14 +28,14 @@ Une fois la **catégorie sélectionnée**, choisissez le produit qui vous intér
 
 
 
-### Ticket 
+### Panier 
 
         <div className="contenaireImg">
     ![illustration aspect test](../../static/docs/produit/integrervente/3.PNG)
     </div>
 
 
-Le produit sélectionné apparaît maintenant dans **votre ticket**, en haut à **droite de l’écran**.
+Le produit sélectionné apparaît maintenant dans **votre Panier**, en haut à **droite de l’écran**.
 
 ## 2eme : Accès à partir du bouton Produit (5 possibilités pour rechercher un produit)
 
@@ -65,7 +65,13 @@ Exemple avec la recherche par Rayon et par Famille
 |-----------|-----------|
 |![illustration aspect test](../../static/docs/produit/rechercheproduit/4.PNG) Vous accédez à la liste des produits du rayon sélectionné.| ![illustration aspect test](../../static/docs/produit/rechercheproduit/8.PNG)  Vous obtenez la liste des produits triés par famille. |
 
-### Recherche global 
+
+<div className="contenaireImg">
+    ![illustration aspect test](../../static/docs/produit/rechercheproduit/8.5.PNG)
+</div>
+
+
+### Recherche globale 
 
 L’option **"Tous les produits"** en haut à gauche de l'écran affiche la liste complète des produits, triés par ordre alphabétique.
 

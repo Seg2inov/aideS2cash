@@ -46,7 +46,7 @@ Dans le cas d’une réponse négative un avoir est généré permettant une uti
 Les retours sont comptabilisés dans la clôture de caisse.
 
 
-Les avoirs non repris sont archivés dans le menu « TICKETS EN ATTENTE » du module ```ATLAS GESTION```.
+Les avoirs non repris sont archivés dans le menu « PANIERS EN ATTENTE » du module ```S2CASH BY ATLAS - GESTION```.
 
  <div className="contenaireImg">
     ![logo de seg2inov](./assets/ticketremboursement.PNG)

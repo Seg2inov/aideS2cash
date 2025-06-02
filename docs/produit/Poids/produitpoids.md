@@ -6,7 +6,7 @@ sidebar_position: 1
 
 S’il s’agit d’un **produit à peser**, le logiciel demande de mettre le ```produit sur la balance.```
 
-## Erreur poids égale à 0
+## Erreur poids égal à 0
 Si **aucun** produit n’est posé alors ce message s’affiche : 
 
 <div className="contenaireImg">
@@ -24,7 +24,7 @@ Si vous sélectionnez un autre produit sans avoir fait varier le plateau de la b
 
 ## Erreur Stabilité
 
-Tant que la balance n’est pas stabilité, le produit ne peut être vendu.
+Tant que la balance n’est pas stabilitée, le produit ne peut être vendu.
 
 <div className="contenaireImg">
     ![illustration aspect test](./assets/stabilité.PNG)

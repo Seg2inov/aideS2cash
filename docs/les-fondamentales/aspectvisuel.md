@@ -3,17 +3,24 @@ sidebar_position: 1
 ---
 
 # Aspect visuel
+
+
+:::note
+ATTENTION : Les fonctionnalités des touches et leurs libellés sont conformes aux diverses règlementations. Toute modification du libellé de votre part relève de votre responsabilité. Il en va de même concernant l’usage que vous faites du logiciel.
+:::
+
+
+
 ## Appuyez sur 1, 2 ou 3 pour accéder à l’un des trois écrans suivants :
 
 | ![illustration aspect test](../../static/docs/aspetVisuel/1.PNG) |  ![illustration aspect test](../../static/docs/aspetVisuel/2.PNG) | ![illustration aspect test](../../static/docs/aspetVisuel/4.PNG) | 
 |-----------|-----------|-----------|
-|Le 1er écran pour la **vente de produits**.| Le 2ème écran pour les fonctions diverses de caisse|Le 3ème écran pour les fonctionnalités
-propres à la caisse.   Pour basculer dans la **Gestion** appuyez sur le bouton : <div className="contenaireImg"><img src="/docs/aspetVisuel/3.PNG" /></div> |
+|Le 1er écran pour la **vente de produits**.| Le 2ème écran pour les fonctions diverses de caisse | Le 3ème écran pour les fonctionnalités propres à la caisse. Pour basculer dans la **Gestion** appuyez sur le bouton : <div className="contenaireImg"><img src="/docs/aspetVisuel/3.PNG" /></div> |
 
 
 | ![illustration aspect test](../../static/docs/aspetVisuel/8.PNG) | ![illustration aspect test](../../static/docs/aspetVisuel/9.PNG) |
 |-----------|-----------|
-|Le 4ème écran, accessible **après le Total du ticket** pour les remises sur le total et le règlement de la transaction. | En mode balance, on retrouve les mêmes configurations que le mode caisse en 3 ou 4 écrans, mais avec une barre de pesée en plus (située en haut ou sur le côté en fonction du modèle de la balance) |
+|Le 4ème écran, accessible **après le Total du panier** pour les remises sur le total et le règlement de la transaction. | En mode balance, on retrouve les mêmes configurations que le mode caisse en 3 ou 4 écrans, mais avec une barre de pesée en plus (située en haut ou sur le côté en fonction du modèle de la balance) |
 
 
 &nbsp;

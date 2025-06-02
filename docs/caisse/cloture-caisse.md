@@ -4,7 +4,7 @@ sidebar_position: 17
 
 # Cloture de caisse
 
-## Démarer la cloture 
+## Démarrer la clôture
 Pour clôturer votre journée ou votre caisse, appuyez sur la touche ```CLOTURE```:
 
 <div className="contenaireImg">
@@ -43,7 +43,7 @@ S2Cash by Atlas calcule au fur et à mesure de la saisie le **total réel de vot
 ## Ticket 
 
 
-A la fin du comptage, ATLAS imprime un **ticket de détail du comptage.**
+A la fin du comptage, le **détail du comptage** est imprimé. S’il y en a un, l’écart de caisse est imprimé
 
 
 Il indique un écart de caisse, s’il y en a un.
@@ -98,7 +98,7 @@ Les compteurs de vente et de règlements sont remis à zéro.
 L’application se ferme automatiquement.
 
 
-Les différents tickets imprimés au cours de la clôture doivent être joints aux encaissements et remis au responsable de magasin.
+Les différentes impressions liées à la clôture doivent être joints aux encaissements et remis au responsable de magasin.
 
 
 

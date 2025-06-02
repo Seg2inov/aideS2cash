@@ -18,5 +18,5 @@ S2Cash by Atlas affiche les éléments enregistrés depuis l’ouverture de cett
 
 
 :::note
-Il vous est possible de demander l’impression d’un ticket.
+Il vous est possible de demander une impression.
 :::

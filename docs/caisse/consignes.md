@@ -14,7 +14,7 @@ Lors d’un prêt d’un produit associé à une vente (cocotte, plateau, etc.),
 </div>
 
 
-Le système demande alors de **sélectionner un client**.
+Le système demande alors de **sélectionnez un client**.
 
 | Une fois votre client saisi, renseignez le **prix de la consigne**.       | Saisissez le **mode de règlement de la consigne**. | 
 |:-----------:|:----:|
@@ -24,24 +24,26 @@ Le système demande alors de **sélectionner un client**.
 La consigne n’est pas un encaissement, car ce règlement sera redonné au client lors du retour. Le moyen de paiement « CARTE BANCAIRE » n’est donc pas autorisé.
 :::
 
-| Validez la fonction  | 2 tickets sont alors imprimés : 1 pour le client et 1 à conserver avec le règlement | 
+| Validez la fonction  | 2 impressions : 1 pour le client et 1 à conserver avec le règlement | 
 |:-----------:|:----:|
 | ![logo de seg2inov](./assets/valideconsigne.PNG)      |  ![logo de seg2inov](./assets/ticketconsigne.PNG) |
 
 
 ## Retour de consigne
 
-Lorsque le client retourne la consigne, sélectionner la touche ```RETOUR CONSIGNE``` :
+Lorsque le client retourne la consigne, sélectionnez la touche ```RETOUR CONSIGNE``` :
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/boutonretourconsigne.PNG)
 </div>
 
-S2Cash by Atlas affiche une fenêtre afin de scanner le ticket de consigne retourné par le client.
+S2Cash by Atlas affiche une fenêtre afin descanner l’impression de consigne retournée par le client.
+
 
 
 :::note
-Vous pouvez aussi saisir le numéro du ticket si le code à barre est illisible.
+Vous pouvez aussi saisir le numéro de l’impression si le code à barre est illisible.
+
 :::
 
 <div className="contenaireImg">
@@ -53,7 +55,7 @@ Vous pouvez aussi saisir le numéro du ticket si le code à barre est illisible.
     ![logo de seg2inov](./assets/retourconsignevalide.PNG)
 </div>
 
-Après confirmation, le système imprime 2 tickets à signer par le client.
+Après confirmation, le système sort 2 impressions à signer par le client. 
 
 <li> 1 pour le client </li>
 <li> 1 pour le magasin à archiver </li>

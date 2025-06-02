@@ -51,3 +51,13 @@ Le **PUMP** et le **stock actuel du produit**.
 
 
 Le **stock Minimum** et le **stock Maximum** sert aux commandes **fournisseur** par alerte.
+
+
+:::tip
+A titre informatif, le PUMP est le **Prix Unitaire Moyen Pondéré**, aussi appelé parfois CUMP pour Coût Unitaire Moyen Pondéré. Cette valeur correspond à la moyenne des prix d’achats d’un produit, pour peu que les réceptions soient toutes saisies et validées.
+
+
+
+**Méthode de calcul du PUMP :** (valeur stock initial + valeur entrée) / (quantité stock initial + quantité entrée).
+Par exemple, une entreprise achète 1 000 unités d’un article à 10€HT pièce, elle achète ensuite 500 unités du même article pour 13€HT pièce.
+:::

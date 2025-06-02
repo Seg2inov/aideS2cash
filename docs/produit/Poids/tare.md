@@ -20,9 +20,9 @@ Les **différents poids** sont paramétrables mais ne peuvent pas être modifié
     ![illustration aspect test](./assets/selectionpoid.PNG)
 </div>
 
-Pour supprimer la tare, sélectionner ```0```.
+Pour supprimer la tare, sélectionnez ```0```.
 
-Le logiciel indique la présence d’une ```tare``` en clignotant **(rouge/gris)**.
+Le logiciel indique de la présence d'une ```tare``` en **couleur**.
 Sur le **prochain produit**, S2Cash by Atlas déduira le poids de cette tare au poids du produit pesé.
 
 <div className="contenaireImg">

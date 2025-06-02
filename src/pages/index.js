@@ -10,7 +10,7 @@ import React, { useEffect } from 'react';
 
 export default function Home() {
   useEffect(() => {
-    window.location.href = 'https://seg2inov.eu'; // Remplace par ton URL
+    window.location.href = 'https://www.seg2inov.fr';
   }, []);
 
   return null; // Rien ne s'affichera, juste la redirection
