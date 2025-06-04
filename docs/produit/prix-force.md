@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# Prix force
+# Prix forcé
 
 Pour modifier le prix d’un produit, il faut d’abord saisir ou scanner le produit puis modifier le prix.
 

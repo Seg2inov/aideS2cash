@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'SEG2 Inov',
-  tagline: 'Logiciel S2cash',
+  tagline: 'Logiciel S2Cash',
   favicon: 'img/logo.png',
 
 

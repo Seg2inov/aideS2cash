@@ -26,7 +26,7 @@ La colonne « P » indique si la commande est préparée en totalité.
 
 N.B : seules les commandes préparées en totalité peuvent être récupérées en caisse.
 
-Pour créer une nouvelle commande, vous devez sélectionner :
+Pour créer une nouvelle commande, vous devez sélectionnez :
     <div className="contenaireImg">
     ![logo de seg2inov](./assets/creationclinet.PNG)
     </div>
@@ -43,7 +43,7 @@ Une nouvelle fenêtre s’affiche alors vous permettant de renseigner des inform
 
 Une fois vos informations renseignées, validez avec la touche :
 
-Saisissez les produits ainsi que les quantités commandées. A ce niveau, vous pouvez :
+
     <div className="contenaireImg">
     ![logo de seg2inov](./assets/enregistre.PNG)
     </div>

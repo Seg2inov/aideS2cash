@@ -32,5 +32,5 @@ Le rabais apparaît sur le ticket de caisse et sur la clôture de fin de journé
 
 
 :::danger
-Le système ATLAS peut être configuré avec un **rabais fixe**, dans ce cas quel que soit le montant saisi du rabais, le système applique toujours **le montant paramétré**.
+Le système S2Cash by ATLAS peut être configuré avec un **rabais fixe**, dans ce cas quel que soit le montant saisi du rabais, le système applique toujours **le montant paramétré**.
 :::

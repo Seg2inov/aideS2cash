@@ -25,4 +25,4 @@ La fenêtre de sélection du client s’affiche (cf. [Lien vers tutorial recherc
 | ![logo de seg2inov](./assets/saisitmontantclient.PNG)| Après avoir sélectionné le client, saisissez le montant que vous souhaitez rembourser. Validez. |
 | ![logo de seg2inov](./assets/interdiction.PNG)| S2Cash by Atlas contrôle le montant maximum autorisé en remboursement par rapport au solde du client. |
 
-2 tickets s’impriment : 1 pour le client et 1 à conserver pour archive.
+2 impressions : 1 pour le client et 1 à conserver pour archive.

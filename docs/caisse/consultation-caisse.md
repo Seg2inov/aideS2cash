@@ -2,7 +2,7 @@
 sidebar_position: 14
 ---
 
-# Consulation de caisse
+# Consultation de caisse
 
 Pour consulter les éléments financiers en cours de journée, **appuyez sur la touche** ```X DE CAISSE``` :
 
@@ -18,5 +18,5 @@ S2Cash by Atlas affiche les éléments enregistrés depuis l’ouverture de cett
 
 
 :::note
-Il vous est possible de demander l’impression d’un ticket.
+Il vous est possible de demander une impression.
 :::

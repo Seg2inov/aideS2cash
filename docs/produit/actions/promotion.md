@@ -22,6 +22,6 @@ Créer une promotion sur une période de plusieurs jours, en complétant le form
 
 ### Promotion à la journée
 
-Pour ajouter une promotion à la journée : **Sélectionner un produit**
+Pour ajouter une promotion à la journée : **Sélectionnez un produit**
  ![illustration aspect test](./assets/promojourneepart1.PNG)
   ![illustration aspect test](./assets/promojourneepart2.PNG)

@@ -12,6 +12,8 @@ Pour effectuer une vente de coupon, appuyez sur la touche ```VENTE COUPON```.
 
  ## Faire le coupon
 
+ Dans un premier temps, vous devez sélectionner le client concerné.
+
 | Saisissez ensuite le **montant des bons**  | Ainsi que la **quantité de bons** | 
 |:-----------:|:----:|
 | ![logo de seg2inov](./assets/saisiemontantbon.PNG)      |  ![logo de seg2inov](./assets/saisiequantitémontantbon.PNG) |
@@ -20,22 +22,22 @@ Pour effectuer une vente de coupon, appuyez sur la touche ```VENTE COUPON```.
 |:-----------:|:----:|
 | ![logo de seg2inov](./assets/moderglementbon.PNG)      |  ![logo de seg2inov](./assets/validebon.PNG) |
 
-## Les tickets
+## Les impressions
 
-|S2Cash by Atlas imprime alors en premier lieu le **ticket d’achat des coupons** en double exemplaire | Puis les coupons à la suite | 
+|S2Cash by Atlas sort en premier lieu une impression d’achat des coupons en double exemplaire.| Puis les coupons à la suite | 
 |:-----------:|:----:|
 | ![logo de seg2inov](./assets/ticketachatcoupon.PNG)      |  ![logo de seg2inov](./assets/ticketcoupon.PNG) |
 
 
-Lorsque le client présente son coupon au moment d’un règlement, il ne vous reste qu’à le scanner au moment du total ticket.
+Lorsque le client présente son coupon au moment d’un règlement, il ne vous reste qu’à le scanner au moment du total panier.
 
 
 ## Vente de coupon externe
 
-En fonction du paramétrage mis en place, vous avez aussi la possibilité de **vendre des coupons imprimés à l’avance** par S2Cash by Atlas (cf. ATLAS Gestion). 
+En fonction du paramétrage mis en place, vous avez aussi la possibilité de **vendre des coupons imprimés à l’avance** par S2Cash by Atlas (cf. S2Cash by ATLAS Gestion). 
 
 
-Dans ce cas, Atlas vous demande de **scanner les coupons pour les activer.**
+Dans ce cas, S2Cash by Atlas vous demande de **scanner les coupons pour les activer.**
 
 A ce moment-là, vous avez la possibilité :
 

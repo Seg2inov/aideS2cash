@@ -20,7 +20,7 @@ Une fenêtre s’affiche alors pour effectuer un comptage du tiroir avec le sold
     ![logo de seg2inov](./assets/ecrancontroleespecetiroir.PNG)
 </div>
 
-Un ticket s’imprime alors avec le **détail du comptage** que vous venez d’effectuer.
+Le **détail du comptage** que vous venez d’effectuer s’imprime alors.
 
 
 <div className="contenaireImg">

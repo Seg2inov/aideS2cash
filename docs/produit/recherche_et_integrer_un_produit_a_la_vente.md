@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Recherche et intégrer un produit à la vente en cours
+# Rechercher et intégrer un produit à la vente en cours
 
 ## 1ère méthode : Accès à partir de la liste des catégories visibles
 
@@ -16,7 +16,7 @@ sidebar_position: 1
 
 Sur la partie **gauche** de votre caisse, une zone bleue affiche plusieurs écrans contenant différentes catégories de produits. Vous pouvez naviguer entre ces écrans à l'aide des onglets situés à gauche, nommés ici 1, 2 et 3. Sélectionnez la **catégorie** qui vous intéresse.
 
-### Séletion du produit
+### Sélection du produit
 
 
         <div className="contenaireImg">
@@ -28,14 +28,14 @@ Une fois la **catégorie sélectionnée**, choisissez le produit qui vous intér
 
 
 
-### Ticket 
+### Panier 
 
         <div className="contenaireImg">
     ![illustration aspect test](../../static/docs/produit/integrervente/3.PNG)
     </div>
 
 
-Le produit sélectionné apparaît maintenant dans **votre ticket**, en haut à **droite de l’écran**.
+Le produit sélectionné apparaît maintenant dans **votre Panier**, en haut à **droite de l’écran**.
 
 ## 2eme : Accès à partir du bouton Produit (5 possibilités pour rechercher un produit)
 

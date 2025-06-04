@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# Réglement client
+# Règlement client
 
 Le règlement client est un **encaissement hors vente**.
 Il est utilisé pour :
@@ -38,4 +38,4 @@ Après avoir sélectionné le client, saisissez **le montant réglé par le Clie
 | ![logo de seg2inov](./assets/saisitmontantclient.PNG)| ![logo de seg2inov](./assets/listereglement.PNG) |
 
 
-2 tickets s’impriment : 1 pour le client et 1 à conserver pour archive.
+2 impressions : 1 pour le client et 1 à conserver pour archive
