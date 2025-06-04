@@ -20,7 +20,7 @@ Une fonction de **contrôle de CRC** est présente sur le clavier de caisse, uni
 | ![logo de seg2inov](./assets/messagecrc.PNG)      |  En cas de différence un message d’information est affiché à l’utilisateur et aucune pesée n’est possible sur la balance. |
 
 
-:::warning
+:::danger
 En cas de contrôle des autorités compétentes (DIRRECTE/DREETS), cette information est à fournir obligatoirement et cette touche ne doit jamais être ôtée du clavier de caisse sous peine de mise en non-conformité et d’être soumis à « vignette rouge » voire pire à « interdiction temporaire ».
 :::
 

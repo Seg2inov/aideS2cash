@@ -7,8 +7,8 @@ sidebar_position: 10
 Le client ramène un produit :
 
 
-    <div className="contenaireImg">
-    ![logo de seg2inov](./assets/retour.PNG)
+<div className="contenaireImg">
+    ![logo de seg2inov](./assets/retourproduit.PNG)
     </div>
 
 

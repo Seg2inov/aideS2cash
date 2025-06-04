@@ -8,7 +8,7 @@ sidebar_position: 9
 Cette fonction vous permet de mettre une vente en attente, de manière à libérer la caisse et passer à un autre client.
 
     <div className="contenaireImg">
-        ![logo de seg2inov](./assets/caisse.PNG) 
+        ![logo de seg2inov](./assets/enattente.PNG) 
     </div>
 
 ### Par exemple :

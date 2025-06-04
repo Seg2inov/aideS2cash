@@ -7,8 +7,8 @@ sidebar_position: 9
 Pour annuler un produit saisi que le client ne veut plus ou pour rectifier une erreur :
 
 
-    <div className="contenaireImg"> 
-    ![logo de seg2inov](./assets/supprproduit.PNG)
+<div className="contenaireImg"> 
+    ![logo de seg2inov](./assets/annulproduit.PNG)
     </div>
 
 
@@ -21,11 +21,11 @@ Pour annuler un produit saisi que le client ne veut plus ou pour rectifier une e
     ![logo de seg2inov](./assets/buttonsupprimer.PNG)
     </div>
 
-S2Cash by Atlas rajoute une ligne à l’inverse de la ligne sélectionnée.
+S2Cash rajoute une ligne à l’inverse de la ligne sélectionnée.
 
 
-    <div className="contenaireImg">
-    ![logo de seg2inov](./assets/resultsupprprod.PNG)
+<div className="contenaireImg">
+    ![logo de seg2inov](./assets/ligneinverse.PNG)
     </div>
 
 
