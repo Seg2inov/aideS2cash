@@ -29,25 +29,10 @@ La ligne passe en **négatif**.
 
 Vous pouvez vendre d’autres produits
 
-Si le total de la vente est négatif, S2Cash by Atlas vous demande si vous remboursez le client en espèces.
+Si le total de la vente est négatif, S2Cash by Atlas vous demande si vous avez bien remboursé le client. 
 
-
-Si la caisse n’accepte pas les avoirs, ce message n’apparaît pas.
-
-
-    <div className="contenaireImg">
+<div className="contenaireImg">
     ![logo de seg2inov](./assets/rembourseclient.PNG)
     </div>
 
-
-Dans le cas d’une réponse négative un avoir est généré permettant une utilisation future.
-
-
 Les retours sont comptabilisés dans la clôture de caisse.
-
-
-Les avoirs non repris sont archivés dans le menu « TICKETS EN ATTENTE » du module ```ATLAS GESTION```.
-
- <div className="contenaireImg">
-    ![logo de seg2inov](./assets/ticketremboursement.PNG)
-    </div>

@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Total ticket
+# Total panier
 
 
 Lorsque vous avez fini de saisir la totalité des produits de votre Client, appuyez sur la touche ```TOTAL``` pour faire apparaître le **montant à payer** et les différents **moyens de paiement acceptés**.

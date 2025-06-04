@@ -65,7 +65,11 @@ Exemple avec la recherche par Rayon et par Famille
 |-----------|-----------|
 |![illustration aspect test](../../static/docs/produit/rechercheproduit/4.PNG) Vous accédez à la liste des produits du rayon sélectionné.| ![illustration aspect test](../../static/docs/produit/rechercheproduit/8.PNG)  Vous obtenez la liste des produits triés par famille. |
 
-### Recherche global 
+<div className="contenaireImg">
+    ![illustration aspect test](../../static/docs/produit/rechercheproduit/11.PNG)
+</div>
+
+### Recherche globale
 
 L’option **"Tous les produits"** en haut à gauche de l'écran affiche la liste complète des produits, triés par ordre alphabétique.
 
