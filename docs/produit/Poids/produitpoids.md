@@ -22,9 +22,9 @@ Si vous sélectionnez un autre produit sans avoir fait varier le plateau de la b
     ![illustration aspect test](./assets/poidpaschage.PNG)
 </div>
 
-## Erreur Stabilité
+## Erreur stabilité
 
-Tant que la balance n’est pas stabilitée, le produit ne peut être vendu.
+Tant que la balance n’est pas stabilisée, le produit ne peut être vendu.
 
 <div className="contenaireImg">
     ![illustration aspect test](./assets/stabilité.PNG)

@@ -26,8 +26,6 @@ Sur la partie **gauche** de votre caisse, une zone bleue affiche plusieurs écra
 
 Une fois la **catégorie sélectionnée**, choisissez le produit qui vous intéresse.
 
-
-
 ### Panier 
 
         <div className="contenaireImg">
@@ -37,7 +35,7 @@ Une fois la **catégorie sélectionnée**, choisissez le produit qui vous intér
 
 Le produit sélectionné apparaît maintenant dans **votre Panier**, en haut à **droite de l’écran**.
 
-## 2eme : Accès à partir du bouton Produit (5 possibilités pour rechercher un produit)
+## 2ème : Accès à partir du bouton Produit
 
 ### Onglet recherche
 
@@ -65,13 +63,9 @@ Exemple avec la recherche par Rayon et par Famille
 |-----------|-----------|
 |![illustration aspect test](../../static/docs/produit/rechercheproduit/4.PNG) Vous accédez à la liste des produits du rayon sélectionné.| ![illustration aspect test](../../static/docs/produit/rechercheproduit/8.PNG)  Vous obtenez la liste des produits triés par famille. |
 
-<div className="contenaireImg">
-    ![illustration aspect test](../../static/docs/produit/rechercheproduit/11.PNG)
-</div>
-
 ### Recherche globale
 
-L’option **"Tous les produits"** en haut à gauche de l'écran affiche la liste complète des produits, triés par ordre alphabétique.
+L’option **"Tous les produits"** en haut à gauche de l'écran affiche la liste complète des produits, triés par **ordre alphabétique**.
 
 <div className="contenaireImg">
     ![illustration aspect test](../../static/docs/produit/rechercheproduit/10.PNG)
@@ -82,9 +76,6 @@ Grâce au clavier numérique, vous pouvez filtrer et accélérer votre recherche
 <div className="contenaireImg">
     ![illustration aspect test](../../static/docs/produit/rechercheproduit/9.PNG)
 </div>
-
-
-
 
 ## Affichage du prix
 

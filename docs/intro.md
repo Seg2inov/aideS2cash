@@ -10,7 +10,7 @@ sidebar_position: 1
 Bienvenue dans la documentation de **S2Cash**.
 
 **S2Cash** est un logiciel de caisse conçu spécialement pour **les commerces alimentaires** et les enseignes utilisant **des systèmes de pesée**.
-La gestion des données de base permet de **collecter**, **centraliser**, **organiser**, sécuriser et maintenir à jour les données de l’entreprise.
+La gestion des données de base permet de **collecter**, **centraliser**, **organiser**, **sécuriser** et **maintenir à jour** les données de l’entreprise.
 
 
 

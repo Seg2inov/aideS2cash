@@ -1,8 +1,8 @@
 {
-  "label": "Actions possibles sur les Produits",
+  "label": "Actions possibles sur les produits",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "Découvrez les actions possibles que l'on peut faire avec les produits."
+    "description": "Découvrez les actions que l'on peut faire avec les produits."
   }
 }

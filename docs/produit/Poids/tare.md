@@ -13,12 +13,16 @@ Pour affecter une tare à la vente d’un produit, appuyez sur le bouton ```Tare
 
 
 
-Vous sélectionnez ensuite la tare qui correspond à votre **emballage** (cagette, barquette, caisse…)
-Les **différents poids** sont paramétrables mais ne peuvent pas être modifiés en caisse.
+Vous sélectionnez ensuite la tare qui correspond à votre **emballage** (cagette, barquette, caisse…). 
+
 
 <div className="contenaireImg">
     ![illustration aspect test](./assets/selectionpoid.PNG)
 </div>
+
+:::note
+Les **différents poids** sont paramétrables mais ne peuvent pas être modifiés en caisse.
+:::
 
 Pour supprimer la tare, sélectionnez ```0```.
 
@@ -55,6 +59,6 @@ Lors de l’appel de ce produit en caisse, S2Cash by Atlas va a**utomatiquement 
 </div>
 
 | Partie écran       | Explication | 
-|-----------|----|
+|:-----------:|----|
 | ![illustration aspect test](./assets/kiloecran.PNG)    |  Poids du produit, Tare déduite. |
-|  ![illustration aspect test](./assets/kilonetecran.PNG)        |  Poids du produit, Tare comprise |
+|  ![illustration aspect test](./assets/kilonetecran.PNG)        |  Poids du produit, Tare comprise. |

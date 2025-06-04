@@ -24,13 +24,14 @@ Dans l’exemple donné, ce produit est vendu
 :::
 
 ## Code vente
+
+Les différents codes de vente et codes à barres du produit apparaissent. 
+
 <div className="contenaireImg">
     ![illustration aspect test](./assets/codeVente.PNG)
 </div>
 
-Les différents codes de vente et codes à barre du produit.
 Le code coché P (Principal) est envoyé aux balances et imprimé sur les étiquettes.
-
 
 ## Fournisseur
     ![illustration aspect test](./assets/listeproduit.PNG)

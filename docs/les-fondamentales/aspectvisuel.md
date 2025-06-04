@@ -5,8 +5,8 @@ sidebar_position: 1
 # Aspect visuel
 
 
-:::note
-ATTENTION : Les fonctionnalités des touches et leurs libellés sont conformes aux diverses règlementations. Toute modification du libellé de votre part relève de votre responsabilité. Il en va de même concernant l’usage que vous faites du logiciel.
+:::warning
+Attention : Les fonctionnalités des touches et leurs libellés sont conformes aux diverses règlementations. Toute modification du libellé de votre part relève de votre responsabilité. Il en va de même concernant l’usage que vous faites du logiciel.
 :::
 
 

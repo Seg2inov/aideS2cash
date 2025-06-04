@@ -20,17 +20,16 @@ Dans le cas où vous possédez de la monétique intégrée, la liaison va s’ef
     ![illustration aspect test](../../static/docs/beggingday/2.PNG)
     </div>
 
-Conservez l’impression dans le tiroir.
-L’écran de caisse apparaît. Vous pouvez commencer votre journée de vente.
+Veuillez ensuite **saisir** le montant de votre **fonds de caisse** pour **comptabiliser** les espèces et contrôler le tiroir en fin de journée.
 
-
-    <div className="contenaireImg">
+<div className="contenaireImg">
     ![illustration aspect test](../../static/docs/beggingday/3.PNG)
     </div>
 
-Un ticket s’imprime. Veuillez ensuite **saisir** le montant de votre **fonds de caisse** pour **comptabiliser** les espèces et contrôler le tiroir en fin de journée.
+Conservez l’impression dans le tiroir.
 
-
-    <div className="contenaireImg">
+<div className="contenaireImg">
     ![illustration aspect test](../../static/docs/beggingday/4.PNG)
     </div>
+
+L’écran de caisse apparaît. Vous pouvez commencer votre journée de vente.
