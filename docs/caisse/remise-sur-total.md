@@ -31,9 +31,9 @@ Vous pouvez pratiquer une **remise en pourcentage sur la totalité de la vente**
   
   Si votre remise est incorrecte, recommencez la fonction ou saisissez  ```0```  pour l’annuler.
   
-   Le Montant de la remise est **ventilé sur chaque produit** en proportion de sa valeur dans le ticket. La remise totale apparaît sur le ticket de caisse et sur la clôture de fin de journée.
+   Le montant de la remise est **ventilé sur chaque produit** en proportion de sa valeur dans le ticket. La remise totale apparaît sur le ticket de caisse et sur la clôture de fin de journée.
 
 
 :::danger
-Le système S2Cash by Atlas peut être configuré avec une remise total fixe. Dans ce cas, quel que soit le montant saisi de la remise, le système applique toujours le montant paramétré.
+Le système S2Cash by Atlas peut être configuré avec une remise totale fixe. Dans ce cas, quel que soit le montant saisi de la remise, le système applique toujours le montant paramétré.
 ::: 

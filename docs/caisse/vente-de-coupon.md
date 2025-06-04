@@ -41,7 +41,7 @@ Dans ce cas, S2Cash by Atlas vous demande de **scanner les coupons pour les acti
 
 A ce moment-là, vous avez la possibilité :
 
-<li> Soit de scanner le code à barre du coupon déjà imprimé </li>
+<li> Soit de scanner le code à barres du coupon déjà imprimé </li>
 <li> Soit de le saisir manuellement. </li>
 
 <div className="contenaireImg">

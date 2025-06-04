@@ -6,7 +6,7 @@ sidebar_position: 7
 
 Le règlement client est un **encaissement hors vente**.
 Il est utilisé pour :
-<li> Les clients dont les **paiements sont différés « En compte »** et qui règlent à posteriori </li>
+<li> Les clients dont les **paiements sont différés « En compte »** et qui règlent à posteriori, </li>
 <li> Les clients qui règlent un **acompte sur une commande.** </li> 
 
 Le règlement d’un client vient **se soustraire de son solde**.
@@ -24,18 +24,20 @@ Appuyez sur la touche :
 
 La fenêtre de sélection du client s’affiche (cf. [Lien vers tutorial recherche et création client](https://aide.seg2inov.eu/docs/client/recherche)).
 
-Vous pouvez à ce niveau créer un client
-
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/reglementclient.PNG)
 </div>
 
-Après avoir sélectionné le client, saisissez **le montant réglé par le Client et le moyen de paiement utilisé**. Validez.
+:::note 
+A ce niveau, vous pouvez créer un nouveua client si besoin. 
+:::
+
+Après avoir sélectionné le client, saisissez **le montant réglé par le client et le moyen de paiement utilisé**. Validez.
 
 
-| Montant réglé par le Client       | Moyen de paiement utilisé |
+| Montant réglé par le client       | Moyen de paiement utilisé |
 |--------------|--------|
 | ![logo de seg2inov](./assets/saisitmontantclient.PNG)| ![logo de seg2inov](./assets/listereglement.PNG) |
 
 
-2 impressions : 1 pour le client et 1 à conserver pour archive
+2 impressions : 1 pour le client et 1 à conserver pour archive.

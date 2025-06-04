@@ -28,12 +28,12 @@ Une fois la **catégorie sélectionnée**, choisissez le produit qui vous intér
 
 ### Panier 
 
+Le produit sélectionné apparaît maintenant dans **votre Panier**, en haut à **droite de l’écran**.
+
         <div className="contenaireImg">
     ![illustration aspect test](../../static/docs/produit/integrervente/3.PNG)
     </div>
 
-
-Le produit sélectionné apparaît maintenant dans **votre Panier**, en haut à **droite de l’écran**.
 
 ## 2ème : Accès à partir du bouton Produit
 
@@ -50,7 +50,7 @@ Vous arrivez alors sur la page de recherche des produits :
     </div>
 
 
-### Recherche Triée  
+### Recherche triée  
 Vous pouvez affiner votre recherche en sélectionnant un critère de tri :
 <li>Rayon</li><li>Famille</li><li>Le fournisseur</li><li>Le code bar</li>
 Ces  boutons se trouvent **en haut à gauche de l’écran**. Une fois votre choix fait, validez avec le **bouton Vert** en haut. 
@@ -65,7 +65,7 @@ Exemple avec la recherche par Rayon et par Famille
 
 ### Recherche globale
 
-L’option **"Tous les produits"** en haut à gauche de l'écran affiche la liste complète des produits, triés par **ordre alphabétique**.
+La touche **"produits"** en haut à gauche de l'écran affiche la liste complète des produits, triés par **ordre alphabétique**.
 
 <div className="contenaireImg">
     ![illustration aspect test](../../static/docs/produit/rechercheproduit/10.PNG)

@@ -26,7 +26,7 @@ Le  ```reste à payer```  est mis à jour en haut de l’écran et sur la visu c
 
 Si votre rabais est incorrect, recommencez la fonction ou saisissez  ```0```  pour l’annuler. 
 
-Le Montant du rabais est **ventilé sur chaque produit** en proportion de sa valeur dans le ticket.
+Le montant du rabais est **ventilé sur chaque produit** en proportion de sa valeur dans le ticket.
 
 Le rabais apparaît sur le ticket de caisse et sur la clôture de fin de journée.
 

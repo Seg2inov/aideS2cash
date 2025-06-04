@@ -7,14 +7,14 @@ sidebar_position: 12
 ## Ajouter un paiement de consigne
 
 
-Lors d’un prêt d’un produit associé à une vente (cocotte, plateau, etc.), on a la possibilité d’encaisser un paiement de consigne.
+Lors du prêt d’un produit associé à une vente (cocotte, plateau, etc.), il y a la possibilité d’encaisser un paiement de consigne.
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/boutoncosigne.PNG)
 </div>
 
 
-Le système demande alors de **sélectionnez un client**.
+Le système demande alors de **sélectionner un client**.
 
 | Une fois votre client saisi, renseignez le **prix de la consigne**.       | Saisissez le **mode de règlement de la consigne**. | 
 |:-----------:|:----:|
@@ -37,12 +37,12 @@ Lorsque le client retourne la consigne, sélectionnez la touche ```RETOUR CONSIG
     ![logo de seg2inov](./assets/boutonretourconsigne.PNG)
 </div>
 
-S2Cash by Atlas affiche une fenêtre afin descanner l’impression de consigne retournée par le client.
+S2Cash by Atlas affiche une fenêtre afin de scanner l’impression de consigne retournée par le client.
 
 
 
 :::note
-Vous pouvez aussi saisir le numéro de l’impression si le code à barre est illisible.
+Vous pouvez aussi saisir le numéro de l’impression si le code à barres est illisible.
 
 :::
 

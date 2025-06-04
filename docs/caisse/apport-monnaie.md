@@ -11,7 +11,7 @@ Cette fonction permet d’ajouter de la monnaie dans le tiroir en cours de journ
 </div>
 
 Il est important d’utiliser cette fonction pour que le tiroir soit juste en fin de journée et que la gestion coffre soit équilibrée.
-<li> appuyez sur la touche : </li>
+<li> Appuyez sur la touche : </li>
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/buttonapportmonnaie.PNG)

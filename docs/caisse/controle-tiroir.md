@@ -5,6 +5,7 @@ sidebar_position: 14
 
 Vous pouvez effectuer un contrôle de votre tiroir en cours de journée, afin de vérifier votre tiroir sur les règlements autres que les espèces.
 Le Contrôle Tiroir est recommandé avant de clôturer votre caisse.
+
 Pour pointer tous les règlements autres que les espèces, appuyez sur la touche ```CONTROLE TIROIR```.
 
 <div className="contenaireImg">

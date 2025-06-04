@@ -22,7 +22,7 @@ Les différents motifs de dépense s’affichent :
     ![logo de seg2inov](./assets/depense.PNG)
 </div>
 
-Sélectionnez celle qui vous convient, puis saisissez le montant et validez par la touche : 
+Sélectionnez celui qui vous convient, puis saisissez le montant et validez par la touche : 
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/valide.PNG)

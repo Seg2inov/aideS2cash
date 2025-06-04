@@ -4,7 +4,7 @@ sidebar_position: 14
 
 # Consultation de caisse
 
-Pour consulter les éléments financiers en cours de journée, **appuyez sur la touche** ```X DE CAISSE``` :
+Pour consulter les éléments financiers en cours de journée, **appuyez sur la touche** ```CONSULTATION CAISSE``` ou ```X DE CAISSE``` :
 
     <div className="contenaireImg">
         ![logo de seg2inov](./assets/boutonxdecaisse.PNG) 

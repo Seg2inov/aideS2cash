@@ -22,7 +22,7 @@ Vous pouvez **réimprimer une vente du jour ou d’une journée précédente** �
 |![logo de seg2inov](../assets/ticketA4.PNG)| Pour imprimer un ticket de caisse sur l’imprimante A4 en réseau avec la caisse, appuyez sur la touche ```TICKET A4```|
 |![logo de seg2inov](../assets/ticketA5.PNG)|Pour imprimer un ticket de caisse en format A5 sur l’imprimante multifonction de la caisse, appuyez sur la touche ```TICKET A5```|
 
-Dans les 3 cas, S2Cash by ATLAS affiche d’abord tous les tickets du jour par caissier ou caisse.
+Dans les 3 cas, S2Cash by ATLAS affiche d’abord tous les tickets du jour par caissier ou par caisse.
 
 | Ecran | Description | 
 |:-----------:|-----------|

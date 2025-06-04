@@ -42,10 +42,10 @@ L’impression du panier en attente reprend :
 <li> Le détail de la vente et son total </li>
 <li> La date et l’heure de la mise en attente </li>
 
-### Impression avec code à barre
+### Impression avec code à barres
 
 
-Si l’impression possède un code à barre, vous pouvez le reprendre en le scannant. Sinon, appuyez sur la touche ```REPRISE ATTENTE```.
+Si l’impression possède un code à barres, vous pouvez le reprendre en le scannant. Sinon, appuyez sur la touche ```REPRISE ATTENTE```.
 
 
     <div className="contenaireImg">
@@ -53,30 +53,26 @@ Si l’impression possède un code à barre, vous pouvez le reprendre en le scan
     </div>
 
 
-La liste des paniers en attente d’affiche. Vous sélectionnez le panier souhaité et validez par la touche : 
+La liste des paniers en attente s’affiche. Sélectionnez le panier souhaité et validez par la touche : 
 
     <div className="contenaireImg">
         ![logo de seg2inov](./assets/valide.PNG) 
     </div>
 
-## Liste des impressions en attente
+## Liste des paniers en attente
 
-
-Cette fonction peut également être utilisée pour la **préparation de commandes**.
-
-
-Une fois la commande préparée et saisie en caisse, l’impression du panier en attente est accrochée sur le paquet.
-
-
-:::note
-Vous pouvez consulter la liste des paniers non encore repris dans S2CASH BY ATLAS - GESTION.
-:::
-
+Cette fenêtre affiche tous les paniers mis en attente, et non repris en caisse. 
 
     <div className="contenaireImg">
         ![logo de seg2inov](./assets/ecrancloturecaisse.PNG) 
     </div>
 
+Cette fonction peut également être utilisée pour la **préparation de commandes**.
 
+Une fois la commande préparée et saisie en caisse, l’impression du panier en attente est accrochée sur le paquet.
+
+:::note
+Vous pouvez consulter la liste des paniers non encore repris dans S2CASH BY ATLAS - GESTION.
+:::
 
 Dès que le panier est repris, il disparaît de cette liste.

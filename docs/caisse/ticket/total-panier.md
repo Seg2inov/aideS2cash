@@ -18,9 +18,9 @@ Vous pouvez, à tout moment, revenir en vente et effacer le Total avec la touche
     ![logo de seg2inov](../assets/retouralavente.PNG)
     </div>
 
-
-Cette fonctionnalité est **impossible dans le cas de paiement partiel en carte bancaire**.
-
+:::warning
+Cette fonctionnalité est **impossible en cas de paiement partiel en carte bancaire**.
+:::
 
 Lors de l’encaissement, vous avez la possibilité de faire du **multi paiement**.
 
@@ -40,8 +40,7 @@ Le Rendu de monnaie est contrôlé pour chaque Moyen de paiement en fonction de 
 Pour rester en conformité avec la loi, un avoir sera généré pour les tickets restaurants dans le cas de trop perçu.
 :::
 
-| Ticket       | Explication |
+| Affichage       | Explication |
 |-----------|-----|
-| ![logo de seg2inov](../assets/ticketpart0.PNG) ![logo de seg2inov](../assets/ticketpart1.PNG)     |  Rendu Monnaie affiché sur la caisse |
-| ![logo de seg2inov](../assets/ticketpart2.PNG)       |  Différents modes de paiement et leurs montants associés |
-| ![logo de seg2inov](../assets/ticketpart3.PNG)   |  Rendu monnaie sur ticket de caisse |
+| ![logo de seg2inov](../assets/ticketpart0.PNG) | La caisse affiche le rendu monnaie à effectuer. |
+| ![logo de seg2inov](../assets/ticketpaiement.PNG)       |  Le ticket indique les différents modes de paiement et leurs montants associés, ainsi que le rendu monnaie. |

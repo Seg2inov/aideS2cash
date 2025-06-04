@@ -31,7 +31,7 @@ Une nouvelle ligne apparaît indiquant le pourcentage et le montant de la remise
 Si votre remise est incorrecte, vous pouvez recommencer la fonction ou saisir « 0 » pour l’annuler.
 Les remises sont comptabilisées et apparaissent sur la clôture de caisse.
 
-Différents types de remise sont possibles.
+**Différents types de remise sont possibles.**
 
     <div className="contenaireImg">
     ![logo de seg2inov](./assets/modifremise.PNG)
