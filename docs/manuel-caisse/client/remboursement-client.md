@@ -5,7 +5,10 @@ sidebar_position: 3
  # Remboursement client
 
  Le remboursement client est un **décaissement pour ajuster un solde client.**
-<li> Il ne peut être utilisé que si le solde du client est négatif. </li>
+
+:::note
+Il ne peut être utilisé que si le **solde du client est négatif**.
+:::
 
 Appuyez sur la touche :
 

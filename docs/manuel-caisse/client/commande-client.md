@@ -31,7 +31,7 @@ Ensuite, vous pouvez sélectionner :
 |-----------|-----------|-----------|
 |![logo de seg2inov](./assets/leclinet.PNG)| ![logo de seg2inov](./assets/type-de-cmmande.PNG)|![logo de seg2inov](./assets/type-de-retrait.PNG)|
 
-Une nouvelle fenêtre s’affiche alors vous permettant de renseigner des informations diverses telles qu’un nom et une adresse de livraison différente de celle du client qui passe la commande ; ou encore de renseigner un commentaire libre ainsi qu’une heure de livraison.
+Une nouvelle fenêtre s’affiche alors vous permettant de renseigner des informations diverses telles qu’un **nom** et une **adresse de livraison** différente de celle du client qui passe la commande ; ou encore de renseigner un **commentaire libre** ainsi qu’une **heure de livraison**.
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/complementcommande.PNG)
@@ -51,10 +51,10 @@ Une fois vos informations renseignées, validez avec la touche :
 
 | Ecran | Description  | 
 |:-----------:|-----------|
-|![logo de seg2inov](./assets/boutonproduit.PNG)| Consulter la fiche produit|
+|![logo de seg2inov](./assets/boutonproduit.PNG)| Ajouter des produits à la commande|
 |![logo de seg2inov](./assets/bouttonModification.PNG)|Modifier le produit sélectionné |
 |![logo de seg2inov](./assets/zonesaisiecommande.PNG)|Consulter les commentaires saisis lors de la commande |
-|![logo de seg2inov](./assets/bouton%20complément.PNG)|La touche complément permet de **modifier les informations saisies** lors de la création de la commande (comme l’adresse ou les commentaires). Pensez à enregistrer vos modifications. |
+|![logo de seg2inov](./assets/bouton%20complément.PNG)|La touche complément permet de **modifier les informations saisies** lors de la création de la commande (comme l’adresse ou les commentaires). ```Pensez à enregistrer vos modifications.``` |
 
 Lorsque vous enregistrez votre saisie, S2Cash by Atlas vous demande si la préparation est terminée.
     <div className="contenaireImg">
