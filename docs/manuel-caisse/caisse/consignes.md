@@ -2,7 +2,7 @@
 sidebar_position: 12
 ---
 
-# Consignes
+# Consigne
 
 ## Ajouter un paiement de consigne
 
@@ -10,7 +10,7 @@ sidebar_position: 12
 Lors du prêt d’un produit associé à une vente (cocotte, plateau, etc.), il y a la possibilité d’encaisser un paiement de consigne.
 
 <div className="contenaireImg">
-    ![logo de seg2inov](./assets/boutoncosigne.PNG)
+    ![logo de seg2inov](./assets/boutonconsigne.PNG)
 </div>
 
 

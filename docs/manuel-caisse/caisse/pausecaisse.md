@@ -4,10 +4,10 @@ sidebar_position: 13
 
 # Pause caisse
 
-Pour mettre la caisse en pause, sans la clôturer, appuyer sur la touche ```POLYVALENCE```.
+Pour mettre la caisse en pause, sans la clôturer, appuyer sur la touche ```PAUSE CAISSE```.
 
 <div className="contenaireImg">
-    ![logo de seg2inov](./assets/boutonpolyvalence.PNG)
+    ![logo de seg2inov](./assets/boutonpausecaisse.PNG)
 </div>
 
 Une fenêtre affiche l’utilisateur et le temps de pause s’incrémente.
