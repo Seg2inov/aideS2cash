@@ -10,7 +10,7 @@ sidebar_position: 3
 En fonction du paramétrage, S2Cash by Atlas peut soit **démarrer sur un vendeur standard** (généralement appelé CAISSE ou BALANCE) ou vous demander de **sélectionner un vendeur** pour ouvrir le logiciel.
 
 <div className="contenaireImg">
-![illustration aspect test](../../static/docs/selectVendeur/1.PNG)
+![illustration aspect test](./assets/selectVendeur/1.PNG)
 </div>
 Veuillez-vous **identifier** en saisissant votre code et votre mot de passe ou passez votre Badge devant le lecteur de code à barres.
 
@@ -35,6 +35,6 @@ Si S2Cash by ATLAS est configuré pour démarrer sur un vendeur standard, plusie
 
 Dans ces 3 cas, 2 modes d’identification sont possibles :
 
-| ![illustration aspect test](../../static/docs/beggingday/1.PNG) | ![illustration aspect test](../../static/docs/selectVendeur/1.PNG) | 
+| ![illustration aspect test](./assets/beggingday/1.PNG) | ![illustration aspect test](./assets/selectVendeur/1.PNG) | 
 |:-----------:|:-----------:|
 |Soit une identification vendeur par nom| Soit une identification vendeur par badge et/ou code |

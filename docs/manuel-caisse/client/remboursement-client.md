@@ -13,7 +13,7 @@ Appuyez sur la touche :
     ![logo de seg2inov](./assets/bouttonremboursementclient.PNG)
 </div>
 
-La fenêtre de sélection du client s’affiche (cf. [Lien vers tutorial recherche et création client](https://aide.seg2inov.eu/docs/client/recherche)).
+La fenêtre de sélection du client s’affiche (cf. [Lien vers tutorial recherche et création client](/docs/manuel-caisse/client/recherche)).
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/rechercheclient.PNG)
