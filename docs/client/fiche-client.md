@@ -12,7 +12,7 @@ La fiche client se compose ainsi :
     </div>
 
 
-## Modification possible
+## Modifications possibles
 
 Vous pouvez **consulter** ou **modifier** les élements suivants :
 
@@ -78,21 +78,18 @@ Consulter ou modifier son solde de points, le crédit maximum autorisé et le so
     ![logo de seg2inov](./assets/tarif.PNG)
     </div>
 
-### Numéro de badge externe
-
-
-Vous avez ici la possibilité de renseigner un numéro de badge externe, si vous ne gérez pas les cartes client avec S2Cash by Atlas.
-
+### Cartes clients
 
     <div className="contenaireImg">
     ![logo de seg2inov](./assets/badge.PNG)
     </div>
 
-### Cartes Clients
+Dans le cas où c’est S2Cash qui gère vos cartes client, ce bouton permet d’imprimer un badge client sur une imprimante badge.
+
+Si vous ne gérez pas les cartes client avec S2Cash, la ligne vide vous permet de renseigner un numéro de badge externe, 
 
 
-Dans le cas où c’est S2Cash by Atlas qui gère vos cartes Clients, ce bouton permet d’imprimer un badge client sur une imprimante badge.
-
+### En compte
 
     <div className="contenaireImg">
     ![logo de seg2inov](./assets/encompte.PNG)

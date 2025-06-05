@@ -17,7 +17,7 @@ Une fonction de **contrôle de CRC** est présente sur le clavier de caisse, uni
 |:-----------:|----|
 | ![logo de seg2inov](./assets/ecrancontrolecertificat.PNG)      |  En appuyant sur Calculer, le système contrôle que l’application installée est conforme à l’agrément LNE. S2Cash by Atlas recalcule la clé de contrôle et la compare au CRC fixé dans l’application. |
 | ![logo de seg2inov](./assets/ticketcrs.PNG)      |  Il y a alors une impression de contrôle. |
-| ![logo de seg2inov](./assets/messagecrc.PNG)      |  En cas de différence un message d’information est affiché à l’utilisateur et aucune pesée n’est possible sur la balance. |
+| ![logo de seg2inov](./assets/messagecrc.PNG)      |  En cas de différence, un message d’information est affiché à l’utilisateur et aucune pesée n’est possible sur la balance. |
 
 
 :::danger

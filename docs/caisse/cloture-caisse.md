@@ -37,22 +37,24 @@ Vous pouvez vous positionner directement sur une ligne pour saisir une quantité
 
 S2Cash by Atlas calcule au fur et à mesure de la saisie le **total réel de votre tiroir-caisse**.
 
-
 **Enregistrez votre saisie.**
+
+## Le détail
+
+Le **détail de la clôture** s’affiche à l’écran.
+
+<div className="contenaireImg">
+    ![logo de seg2inov](./assets/ecrancloturecaisse.PNG)
+</div>
+
 
 ## Impression détail
 
-
-A la fin du comptage, le **détail du comptage** est imprimé. S’il y en a un, l’écart de caisse est imprimé
-
-
-Il indique un écart de caisse, s’il y en a un.
+A la fin du comptage, s'il y a un écrat de caisse, ce dernier est imprimé et ce message s'affiche sur la caisse :
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/choixrecontertiroirvalide.PNG)
 </div>
-
-En même temps, un message s’affiche vous indiquant la valeur et le sens de l’écart constaté par S2Cash by Atlas.
 
 
 **3 possibilités suivant vos paramètres :**
@@ -66,23 +68,14 @@ En même temps, un message s’affiche vous indiquant la valeur et le sens de l�
 
 <li> Il n’y a pas d’écart de caisse : le message n’apparaît pas, la clôture se poursuit.</li>
 
+Le **détail du comptage** est imprimé.
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/ticketcontroleespece.PNG)
 </div>
 
-## Les détails
-
-
-Le **détail de la clôture** s’affiche à l’écran.
-
-
-<div className="contenaireImg">
-    ![logo de seg2inov](./assets/ecrancloturecaisse.PNG)
-</div>
 
 ## Quitter 
-
 
 Appuyez sur ```QUITTER``` pour obtenir l'impression de clôture : 
 

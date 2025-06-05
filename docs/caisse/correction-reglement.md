@@ -33,6 +33,8 @@ S2Cash by Atlas vous demande de **sélectionner le nouveau moyen de paiement**. 
     ![logo de seg2inov](./assets/listereglement.PNG)
 </div>
 
+Veuillez conserver les impressions dans le tiroir.
+
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/ticketcorrectionreglement.PNG)
 </div>
