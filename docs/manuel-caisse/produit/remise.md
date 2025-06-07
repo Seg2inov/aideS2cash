@@ -9,7 +9,7 @@ Vous pouvez pratiquer une remise en pourcentage sur un produit de la vente en co
 
 
     <div className="contenaireImg">
-    ![logo de seg2inov](./assets/remise.PNG)
+    ![logo de seg2inov](./assets/remiseproduit.PNG)
     </div>
 
 

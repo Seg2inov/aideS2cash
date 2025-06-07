@@ -6,23 +6,19 @@ sidebar_position: 10
 Vous pouvez **réimprimer une vente du jour ou d’une journée précédente** à la demande.
 
 
-3 possibilités vous sont offertes suivant votre configuration :
+2 possibilités vous sont offertes suivant votre configuration :
 
 <li> Imprimer un duplicata de ticket de caisse </li>
 
 <li> Imprimer un ticket de caisse en format A4 </li>
-
-<li> Imprimer un ticket de caisse en format A5 si vous possédez un imprimante ticket multi fonction  </li> 
-
 
 
 | Bouton | Description | 
 |:-----------:|-----------|
 |![logo de seg2inov](../assets/buttonduplicataticket.PNG)| Pour réimprimer un ticket, appuyez sur la touche ```DUPLICATA TICKET```. Un ticket inscrit **DUPLICATA** s’imprime |
 |![logo de seg2inov](../assets/ticketA4.PNG)| Pour imprimer un ticket de caisse sur l’imprimante A4 en réseau avec la caisse, appuyez sur la touche ```TICKET A4```|
-|![logo de seg2inov](../assets/ticketA5.PNG)|Pour imprimer un ticket de caisse en format A5 sur l’imprimante multifonction de la caisse, appuyez sur la touche ```TICKET A5```|
 
-Dans les 3 cas, S2Cash by ATLAS affiche d’abord tous les tickets du jour par caissier ou par caisse.
+Dans les 2 cas, S2Cash by ATLAS affiche d’abord tous les tickets du jour par caissier ou par caisse.
 
 | Ecran | Description | 
 |:-----------:|-----------|

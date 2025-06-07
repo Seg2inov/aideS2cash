@@ -8,7 +8,7 @@ Le client ramène un produit :
 
 
 <div className="contenaireImg">
-    ![logo de seg2inov](./assets/retourproduit.PNG)
+    ![logo de seg2inov](./assets/arproduit.PNG)
     </div>
 
 

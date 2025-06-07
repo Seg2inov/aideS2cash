@@ -8,7 +8,7 @@ sidebar_position: 9
 Cette fonction vous permet de mettre une vente en attente, de manière à libérer la caisse et passer à un autre client.
 
     <div className="contenaireImg">
-        ![logo de seg2inov](./assets/enattente.PNG) 
+        ![logo de seg2inov](./assets/miseenattente.PNG) 
     </div>
 
 ### Par exemple :
@@ -33,7 +33,7 @@ Si vous aviez sélectionné un client lors de la vente, son nom apparaît sur le
 
 
     <div className="contenaireImg">
-        ![logo de seg2inov](./assets/ticket.PNG) 
+        ![logo de seg2inov](./assets/panierenattente.PNG) 
     </div>
 
 

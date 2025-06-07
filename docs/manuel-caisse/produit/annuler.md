@@ -8,7 +8,7 @@ Pour annuler un produit saisi que le client ne veut plus ou pour rectifier une e
 
 
 <div className="contenaireImg"> 
-    ![logo de seg2inov](./assets/annulproduit.PNG)
+    ![logo de seg2inov](./assets/arproduit.PNG)
     </div>
 
 
