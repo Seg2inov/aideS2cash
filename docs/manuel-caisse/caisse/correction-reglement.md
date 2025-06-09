@@ -33,8 +33,6 @@ S2Cash by Atlas vous demande de **sélectionner le nouveau moyen de paiement**. 
     ![logo de seg2inov](./assets/listereglement.PNG)
 </div>
 
-Veuillez conserver les impressions dans le tiroir.
+La correction de règlement passe par **l’annulation de la 1e vente**, puis par une 2e vente avec le nouveau moyen de règlement. 
 
-<div className="contenaireImg">
-    ![logo de seg2inov](./assets/ticketcorrectionreglement.PNG)
-</div>
+Après la correction de règlement, 2 tickets sont alors imprimés : 1 ticket d’annulation et 1 nouveau ticket de vente avec le nouveau mode de règlement. 

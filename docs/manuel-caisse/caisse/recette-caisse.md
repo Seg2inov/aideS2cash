@@ -26,6 +26,6 @@ Puis saisissez le montant et validez par la touche :
 
 | Action       | Impression |
 |--------------|--------|
-| ![logo de seg2inov](./assets/achattimbre.PNG)| ![logo de seg2inov](./assets/timbreticket.PNG) |
+| ![logo de seg2inov](./assets/achattimbre.PNG)| ![logo de seg2inov](./assets/ticketrecette.PNG) |
 
 Vous devez conserver l’impression dans le tiroir. Cette opération apparaît sur le journal et la clôture de caisse.
