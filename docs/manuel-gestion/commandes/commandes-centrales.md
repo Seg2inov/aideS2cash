@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Les commandes centrales
 
-L’expression de besoins, ou "commande centrale", permet au magasin d’envoyer au siège une demande d’approvisionnement de marchandise. 
+L’expression de besoins, ou "commande centrale", permet au magasin **d’envoyer au siège une demande d’approvisionnement de marchandise**. 
 
 Selon le paramétrage, l’accès à l’interface d’expression de besoins diffère :
 
@@ -28,7 +28,7 @@ Vous pouvez alors :
 
 Le siège a ainsi la possibilité de **répondre à cette expression de besoins** de différentes manières :
 
--	Etablir une commande fournisseur pour le compte du magasin, ou de façon centralisée pour l’ensemble ou une partie des magasins ;
--	Livrer le magasin à partir d’un stock siège ou entrepôt (stockage entrepôt ou production interne par exemple) ;
--	Livrer le magasin à partir du stock d’un autre magasin, en réalisant un transfert de stock.
+<li> Etablir une **commande fournisseur pour le compte du magasin**, ou de façon **centralisée** pour l’ensemble ou une partie des magasins ; </li>
+<li> Livrer le magasin **à partir d’un stock siège ou entrepôt** (stockage entrepôt ou production interne par exemple) ; </li>
+<li> Livrer le magasin **à partir du stock d’un autre magasin**, en réalisant un transfert de stock. </li>
 
