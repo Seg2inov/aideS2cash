@@ -8,7 +8,7 @@ Cette fenêtre vous permet de **gérer vos produits**.
 
 ## Afficher la liste des produits
 
-Les boutons suivants vous permettent d’afficher la liste de vos produits selon des filtres :
+Les boutons suivants vous permettent d’afficher la liste de vos produits selon des **filtres** :
 
 |Bouton |Fonctionnalité |
 |:--:|---------------|
@@ -120,27 +120,88 @@ Le PUMP est le **Prix Unitaire Moyen Pondéré**, aussi appelé parfois CUMP pou
 **Par exemple**, une entreprise achète 1 000 unités d’un article à 10€HT pièce, elle achète ensuite 500 unités du même article pour 13€HT pièce. 
 :::
 
+## Informations complémentaires 
 
-
-### Paramètres 
-
-Vous pouvez également accéder à différents paramtères du produit : 
-
-<div className="contenaireImg">
-    ![logo de seg2inov](./assets/parametres.PNG)
-    </div>
-
-|Paramètre |Explication |
-|:--:|---------------|
-| **A commander** | Le produit pourra être **commandé via les interfaces** de commandes, de réceptions, d’expression de besoins, etc. |
-| **Actif** | Le produit est **actif**, il peut être **vendu**. Si cette case est décochée le produit n’apparaitra pas en caisse/balance. |
-| **Etiquette produit** | A chaque modification du prix de vente, une étiquette sera générée dans l’interface Etiquette CAB. |
-| **Lot-composition** | Le produit est de type lot, panier. Un **nouveau bouton** va apparaitre sur la fiche produit : « FICHE TECHNIQUE », lorsque ce produit sera vendu, la **liste des composants produits sera déstockée**. |
-| **Pesé en vente** | Le produit est pesé au moment de la vente. |
+D'autres informations et fonctionnalités sont accessibles. 
 
 :::note
 Ces paramètres sont modifiables, et la liste peut être adaptée et étendue par notre support. 
 :::
 
+<div className="contenaireImg">
+    ![logo de seg2inov](./assets/parametres.PNG)
+    </div>
 
-PRODUIT INACTIF
+### A commander
+
+Le produit pourra être **commandé via les interfaces** de commandes, de réceptions, d’expression de besoins, etc.
+
+### Actif
+
+Le produit est **actif**, il peut être **vendu**. 
+
+Si cette case est **décochée** le produit n’apparaitra pas en caisse/balance.
+
+En caisse, si vous scannez le code à barres d'un **produit dit inactif** (c'est-à-dire dont la case "actif" n'est pas cochée), ce message apparaitra :
+
+<div className="contenaireImg">
+    ![logo de seg2inov](./assets/interdit.PNG)
+    </div>
+
+
+### Etiquette produit
+
+A chaque modification du prix de vente, une étiquette sera générée dans l’interface Etiquette CAB.
+
+### Lot-composition 
+
+Le produit est de type lot, panier. Un **nouveau bouton** va apparaitre sur la fiche produit : « FICHE TECHNIQUE », lorsque ce produit sera vendu, la **liste des composants produits sera déstockée**.
+
+### Pesé en vente
+
+Le produit est pesé au moment de la vente.
+
+### Code du badge 
+
+<div className="contenaireImg">
+    ![logo de seg2inov](./assets/autresinfos.PNG)
+    </div>
+
+Le code du BADGE pour afficher la photo associée est : 
+
+| Numéro | Image |
+|:----:|----|
+| 0 - 1 | Pas d’image |
+| 2 | Logo magasin |
+| 3 | Image du produit |
+| 4 | Vache |
+| 5 | Brebis |
+| 6 | Chèvre |
+| 7 | Bufflonne |
+| 8 | Agneau |
+| 9 | Lapin |
+| 10 | Volaille |
+| 11 | Veau |
+| 12 | Porc |
+| 13 | Poisson plat |
+| 14 | Poisson milieu |
+| 15 |  Crustacé |
+| 16 | Coquillage |
+| 17 | Boeuf |
+| 18 | Fruit exotique |
+| 19 | Fruit |
+| 20 | Légumes |
+
+## Autres fonctionnalités
+
+|Bouton |Fonctionnalité |
+|:--:|---------------|
+| ![illustration aspect test](./assets/image.PNG) | Ajouter ou enlever l’image du produit. L’image sera affichée en caisse. |
+| ![illustration aspect test](./assets/affiche2.PNG) | Créer une affiche produit.  |
+| ![illustration aspect test](./assets/media.PNG) | Ajouter ce produit au media. |
+| ![illustration aspect test](./assets/historique.PNG) | Consulter l’historique des mouvements. |
+| ![illustration aspect test](./assets/recap.PNG) | Consulter le récapitulatif par mois des mouvements. |
+| ![illustration aspect test](./assets/promotion.PNG) | Créer directement une promotion (voir fiche PROMOTIONS). |
+| ![illustration aspect test](./assets/recette.PNG) | Créer une recette. Le bouton apparait lors de la vente et permet au vendeur d’imprimer la recette sur l’imprimante ticket. |
+| ![illustration aspect test](./assets/composition.PNG) | Saisir la composition du produit. La composition est imprimée sur les étiquettes. |
+	
