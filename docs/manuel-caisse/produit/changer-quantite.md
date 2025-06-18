@@ -5,7 +5,7 @@ sidebar_position: 6
 # Changement de quantité
 
 
-Pour vendre un même produit en plusieurs exemplaires, il faut d’abord saisir ou scanner le produit puis modifier la quantité.
+Pour vendre un même produit en plusieurs exemplaires, il faut d’abord **saisir ou scanner le produit** puis **modifier la quantité**.
 
 
     <div className="contenaireImg">
@@ -24,8 +24,8 @@ Pour vendre un même produit en plusieurs exemplaires, il faut d’abord saisir 
     ![logo de seg2inov](./assets/buttonmodifiequantitz.PNG)
     </div>
 
-Vous pouvez à tout moment revenir sur le ticket en cours pour effectuer une modification de prix ou de quantité.
+Vous pouvez à tout moment revenir sur le panier en cours pour effectuer une **modification de prix ou de quantité**.
 
-:::danger
+:::warning
 Si vous devez à la fois modifier la quantité et forcer le prix sur un même produit, il faut d’abord modifier la quantité puis changer le prix et non l’inverse.
 :::

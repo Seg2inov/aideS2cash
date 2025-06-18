@@ -4,8 +4,7 @@ sidebar_position: 10
 
 # Retour produit
 
-Le client ramène un produit :
-
+Lorsque le client souhaite retourner un produit :  
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/arproduit.PNG)
@@ -26,13 +25,16 @@ Le client ramène un produit :
 
 La ligne passe en **négatif**.
 
+:::note
+Vous pouvez vendre d’autres produits. 
+:::
 
-Vous pouvez vendre d’autres produits
-
-Si le total de la vente est négatif, S2Cash by Atlas vous demande si vous avez bien remboursé le client. 
+Si le total de la vente est **négatif**, S2Cash vous demande si vous avez bien remboursé le client. 
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/rembourseclient.PNG)
     </div>
 
-Les retours sont comptabilisés dans la clôture de caisse.
+:::note
+Les retours sont comptabilisés dans la **clôture de caisse**.
+:::

@@ -4,13 +4,13 @@ sidebar_position: 9
 
 # Annulation produit
 
-Pour annuler un produit saisi que le client ne veut plus ou pour rectifier une erreur :
-
+Vous pouvez **annuler un produit saisi** que le client ne veut plus ou pour rectifier une erreur. 
 
 <div className="contenaireImg"> 
     ![logo de seg2inov](./assets/arproduit.PNG)
     </div>
 
+Pour cela : 
 
 - 1/  Positionnez-vous sur la ligne du produit à modifier
 
@@ -28,7 +28,6 @@ S2Cash rajoute une ligne à l’inverse de la ligne sélectionnée.
     ![logo de seg2inov](./assets/ligneinverse.PNG)
     </div>
 
-
-
-
-L’annulation de ligne apparaît sur le ticket de caisse et sur la clôture de fin de journée.
+:::note
+L’annulation de ligne apparaît sur le **ticket de caisse** et sur la **clôture de fin de journée**.
+:::

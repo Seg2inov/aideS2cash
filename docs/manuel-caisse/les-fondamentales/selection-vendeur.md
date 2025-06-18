@@ -15,14 +15,14 @@ Veuillez-vous **identifier** en saisissant votre code et votre mot de passe ou p
 
  
 :::warning
-S2Cash by ATLAS contrôle que vous n’êtes pas déjà assigné à une autre caisse.
+S2Cash contrôle que vous n’êtes pas déjà assigné à une autre caisse.
 :::
 
 La caisse va s’ouvrir et une **impression d’ouverture de caisse** va s’effectuer.
 
 ## Configurations vendeur
 
-Si S2Cash by ATLAS est configuré pour démarrer sur un vendeur standard, plusieurs configurations vendeur sont possibles ([Manuel de gestion - Gestion des utilisateurs](https://aide.seg2inov.fr/docs/category/gestion-des-utilisateurs)). Le système peut alors vous demander de vous identifier :
+Si S2Cash est configuré pour démarrer sur un vendeur standard, plusieurs configurations vendeur sont possibles (Pour plus d'informations, cliquez sur le lien suivant : [Manuel de gestion - Gestion des utilisateurs](https://aide.seg2inov.fr/docs/category/gestion-des-utilisateurs)). Le système peut alors vous demander de vous identifier :
 
 
 ⦁	soit au début de la vente,
