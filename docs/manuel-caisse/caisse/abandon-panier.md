@@ -4,13 +4,13 @@ sidebar_position: 10
 
 # Abandon panier
 
-Pour abandonner une vente en cours (un panier), appuyez sur la touche :
+Pour **abandonner une vente en cours** (un panier), appuyez sur la touche :
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/toucheab.PNG)
 </div>
 
-S2Cash vous demande une confirmation : 
+S2Cash vous demande une **confirmation** : 
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/confirmationabandon.PNG)
@@ -20,4 +20,6 @@ S2Cash vous demande une confirmation :
 Cette fonction n’est pas accessible après le total. 
 :::
 
-L’abandon de vente n’apparaît pas sur la clôture de caisse mais est enregistrée dans le journal électronique. 
+:::note
+L’abandon de vente n’apparaît pas sur la clôture de caisse, mais est enregistrée dans le **journal électronique**. 
+:::

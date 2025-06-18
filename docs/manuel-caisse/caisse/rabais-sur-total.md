@@ -22,15 +22,16 @@ Vous pouvez pratiquer **un rabais en valeur sur la totalité de la vente.**
 Une nouvelle ligne apparaît avec le montant déduit.
 
 
-Le  ```reste à payer```  est mis à jour en haut de l’écran et sur la visu client.
+Le ***reste à payer*** est mis à jour en haut de l’écran et sur la visu client.
 
-Si votre rabais est incorrect, recommencez la fonction ou saisissez  ```0```  pour l’annuler. 
+Si votre rabais est **incorrect**, recommencez la fonction ou saisissez  ```0```  pour l’annuler. 
 
 Le montant du rabais est **ventilé sur chaque produit** en proportion de sa valeur dans le ticket.
 
-Le rabais apparaît sur le ticket de caisse et sur la clôture de fin de journée.
+:::note
+Le rabais apparaît sur le **ticket de caisse** et sur la **clôture de fin de journée**.
+:::
 
-
-:::danger
-Le système S2Cash by ATLAS peut être configuré avec un **rabais fixe**, dans ce cas quel que soit le montant saisi du rabais, le système applique toujours **le montant paramétré**.
+:::warning
+Le système S2Cash peut être configuré avec un **rabais fixe**, dans ce cas quel que soit le montant saisi du rabais, le système applique toujours **le montant paramétré**.
 :::

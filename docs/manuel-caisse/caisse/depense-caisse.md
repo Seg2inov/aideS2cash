@@ -8,30 +8,38 @@ Une dépense de caisse est une **sortie d’espèces pour des opérations divers
 
 Pour effectuer une dépense de caisse,  appuyez sur la touche :
 
-
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/buttondepense.PNG)
 </div>
 
-
-
-Les différents motifs de dépense s’affichent : 
-
+Les différents **motifs** de dépense s’affichent : 
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/depense.PNG)
 </div>
 
-Sélectionnez celui qui vous convient, puis saisissez le montant et validez par la touche : 
+:::tip
+La liste des motifs de dépenses est modifiable depuis la gestion. Pour plus d'informations, cliquez sur le lien suivant : [Manuel de gestion - Mise à jour des dépenses](https://aide.seg2inov.fr/docs/manuel-gestion/gestion-de-caisse/maj-depenses).
+:::
+
+Sélectionnez celui qui vous convient, puis saisissez le **montant** : 
+
+<div className="contenaireImg">
+    ![logo de seg2inov](./assets/saisieprixoumontant.PNG)
+</div>
+
+Et **validez** par la touche : 
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/valide.PNG)
 </div>
 
-| Action       | Impression |
-|--------------|--------|
-| ![logo de seg2inov](./assets/saisieprixoumontant.PNG)| ![logo de seg2inov](./assets/ticketdepense.PNG) |
+Cela génère une **impression**, à conserver dans le tiroir. 
 
+<div className="contenaireImg">
+    ![logo de seg2inov](./assets/ticketdepense.PNG)
+</div>
 
-
-Vous devez conserver l’impression dans le tiroir. Cette opération apparaît sur le journal et la clôture de caisse.
+:::note
+Cette opération apparaît sur le **journal** et la **clôture de caisse**.
+:::
