@@ -6,8 +6,6 @@ sidebar_position: 2
 
 Les commandes peuvent être **reprises en caisse** au moment où les clients viennent les chercher et les régler. 
 
-## Depuis la touche REPRISE COMMANDE
-
 Appuyez sur la touche :
 
 <div className="contenaireImg">
@@ -40,16 +38,6 @@ Le **nom du client** apparait.
         ![logo de seg2inov](./assets/caisse.PNG) 
     </div>
 
-## Depuis la sélection d'une fiche client
-
-Depuis la **caisse**, vous pouvez **rechercher un client**, puis appuyez sur la touche ```MODIFICATION``` pour entrer dans une commande en cours, afin de la **compléter ou de la modifier**.
-
-<div className="contenaireImg">
-    ![logo de seg2inov](./assets/commandedebrief.PNG)
-    </div>
-
------------------------------------
-
-Dans les 2 cas, vous pouvez **vendre d’autres produits, en annuler ou apporter des modifications de prix ou de quantité** comme sur une transaction classique.
+Vous pouvez **vendre d’autres produits, en annuler ou apporter des modifications de prix ou de quantité** comme sur une transaction classique.
 
 Clôturez votre vente comme une vente standard. Les commandes reprises **disparaissent** de la liste.

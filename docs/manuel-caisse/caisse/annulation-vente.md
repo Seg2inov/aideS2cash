@@ -4,16 +4,22 @@ sidebar_position: 10
 
 # Annulation vente
 
-Cette fonctionnalité vous permet **d’annuler un ticket**, c’est-à-dire une vente après que la transaction ait été réalisée. 
+Cette fonctionnalité vous permet d’**annuler un ticket**, c’est-à-dire d'**annuler une vente après que la transaction ait été réalisée**. 
 
-Appuyez sur la touche ```ANNULATION VENTE```, la liste des ventes du jour apparaît : 
+Appuyez sur la touche :
+
+<div className="contenaireImg">
+    ![logo de seg2inov](./assets/annulvente.PNG)
+</div>
+
+La liste des **ventes du jour** apparaît : 
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/listeticketannule.PNG)
 </div>
 
 :::warning
-Vous ne pouvez annuler que les tickets du jour en cours, vous ne pouvez pas annuler un ticket d'un jour précédent. 
+Vous ne pouvez annuler que les tickets du **jour en cours**, vous ne pouvez pas annuler un ticket d'un jour précédent. 
 :::
 
 Veuillez **sélectionner le ticket que vous souhaitez annuler**, et appuyez sur ```SELECTIONNER``` en haut à droite. 
@@ -32,4 +38,4 @@ Le ticket de vente d’origine n’est pas supprimé, la vente a simplement ét�
     ![logo de seg2inov](./assets/ticketannule.PNG)
 </div>
 
-Veuillez conserver le ticket. 
+Veuillez **conserver** le ticket. 
