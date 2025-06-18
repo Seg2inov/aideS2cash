@@ -11,3 +11,7 @@ Sur les périodes où vous avez activé la **saisie du code postal en caisse**, 
     </div>
 
 Renseignez une période puis cliquez sur ```RECHERCHE```. 
+
+<div className="contenaireImg">
+    ![logo de seg2inov](./assets/analysegeo.png)
+    </div>

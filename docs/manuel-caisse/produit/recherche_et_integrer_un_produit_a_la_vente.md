@@ -14,7 +14,9 @@ sidebar_position: 1
     </div>
 
 
-Sur la partie **gauche** de votre caisse, une zone bleue affiche plusieurs écrans contenant différentes catégories de produits. Vous pouvez naviguer entre ces écrans à l'aide des onglets situés à gauche, nommés ici 1, 2 et 3. Sélectionnez la **catégorie** qui vous intéresse.
+Sur la partie **gauche** de votre caisse, une zone bleue affiche plusieurs écrans contenant différentes catégories de produits. Vous pouvez naviguer entre ces écrans à l'aide des onglets situés à gauche, nommés ici 1, 2 et 3. 
+
+Sélectionnez la **catégorie** qui vous intéresse.
 
 ### Sélection du produit
 
@@ -24,22 +26,22 @@ Sur la partie **gauche** de votre caisse, une zone bleue affiche plusieurs écra
     </div>
 
 
-Une fois la **catégorie sélectionnée**, choisissez le produit qui vous intéresse.
+Une fois la catégorie sélectionnée, choisissez le **produit** qui vous intéresse.
 
 ### Panier 
 
-Le produit sélectionné apparaît maintenant dans **votre Panier**, en haut à **droite de l’écran**.
+Le produit sélectionné apparaît maintenant dans **votre Panier**, **en haut à droite de l’écran**.
 
         <div className="contenaireImg">
     ![illustration aspect test](./assets/integrervente/3.PNG)
     </div>
 
 
-## 2ème : Accès à partir du bouton Produit
+## 2ème méthode : Accès à partir du bouton Produit
 
 ### Onglet recherche
 
-Pour accéder à la liste des produits, cliquez sur le bouton Produit, situé en bas à droite de l’écran.
+Pour accéder à la liste des produits, cliquez sur le bouton ```PRODUIT```, situé **en bas à droite de l’écran**.
     <div className="contenaireImg">
     ![illustration aspect test](./assets/integrervente/1.PNG)
     </div>
@@ -60,8 +62,9 @@ Exemple avec la recherche par Rayon et par Famille
 :::
 
 |<div className="contenaireImg"> ![illustration aspect test](./assets/rechercheproduit/3.PNG) </div>| <div className="contenaireImg"> ![illustration aspect test](./assets/rechercheproduit/5.PNG) </div>|
-|-----------|-----------|
-|![illustration aspect test](./assets/rechercheproduit/4.PNG) Vous accédez à la liste des produits du rayon sélectionné.| ![illustration aspect test](./assets/rechercheproduit/8.PNG)  Vous obtenez la liste des produits triés par famille. |
+|:-----------:|:-----------:|
+| Vous accédez à la liste des produits du rayon sélectionné. | Vous obtenez la liste des produits triés par famille. |
+|![illustration aspect test](./assets/rechercheproduit/4.PNG) | ![illustration aspect test](./assets/rechercheproduit/8.PNG)   |
 
 ### Recherche globale
 

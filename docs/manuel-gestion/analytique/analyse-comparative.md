@@ -14,7 +14,7 @@ S2Cash vous offre la possibilité de **suivre les courbes d’évolution** :
 Ces courbes sont mises en parallèle avec celles des **2 années précédentes**.
 
 <div className="contenaireImg">
-    ![logo de seg2inov](./assets/analysecourbe.png)
+    ![logo de seg2inov](./assets/analysecompca.png)
     </div>
 
 Vous avez également un onglet affichant un tableau récapitulatif de ces données. 

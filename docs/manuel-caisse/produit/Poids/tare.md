@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 # Tare
 ## Tare sur ventes en fonction caisse avec balance plateau
@@ -26,8 +26,8 @@ Les **différents poids** sont paramétrables mais ne peuvent pas être modifié
 
 Pour supprimer la tare, sélectionnez ```0```.
 
-Le logiciel indique de la présence d'une ```tare``` en **couleur**.
-Sur le **prochain produit**, S2Cash by Atlas déduira le poids de cette tare au poids du produit pesé.
+Le logiciel indique de la présence d'une tare en **couleur**.
+Sur le **prochain produit**, S2Cash déduira le poids de cette tare au poids du produit pesé.
 
 <div className="contenaireImg">
     ![illustration aspect test](./assets/tareclignotant.PNG)
@@ -44,15 +44,15 @@ Exemple :
 Le logiciel a déduit du poids total le poids de la cagette.
 :::
 
-## Tare automatique sur Produit
+## Tare automatique sur produit
 
-Il y a la possibilité de définir une tare propre au produit directement dans la fiche du produit concerné.
+Il y a la possibilité de définir une **tare propre au produit** directement dans la fiche du produit concerné.
 
 <div className="contenaireImg">
     ![illustration aspect test](./assets/tareautomatique.PNG)
 </div>
 
-Lors de l’appel de ce produit en caisse, S2Cash by Atlas va a**utomatiquement appliquer** une tare sur le **poids de ce produit**.
+Lors de l’appel de ce produit en caisse, S2Cash va **automatiquement appliquer une tare** sur le poids de ce produit.
 
 <div className="contenaireImg">
     ![illustration aspect test](./assets/ecran.PNG)

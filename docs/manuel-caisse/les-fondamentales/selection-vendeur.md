@@ -4,8 +4,7 @@ sidebar_position: 3
 
 # Sélection d'un vendeur
 
-## Au Démarrage
-
+## Au démarrage
 
 En fonction du paramétrage, S2Cash by Atlas peut soit **démarrer sur un vendeur standard** (généralement appelé CAISSE ou BALANCE) ou vous demander de **sélectionner un vendeur** pour ouvrir le logiciel.
 
@@ -23,7 +22,7 @@ La caisse va s’ouvrir et une **impression d’ouverture de caisse** va s’eff
 
 ## Configurations vendeur
 
-Si S2Cash by ATLAS est configuré pour démarrer sur un vendeur standard, plusieurs configurations vendeur sont possibles (cf documentation S2Cash by ATLAS GESTION). Le système peut alors vous demander de vous identifier :
+Si S2Cash by ATLAS est configuré pour démarrer sur un vendeur standard, plusieurs configurations vendeur sont possibles ([Manuel de gestion - Gestion des utilisateurs](https://aide.seg2inov.fr/docs/category/gestion-des-utilisateurs)). Le système peut alors vous demander de vous identifier :
 
 
 ⦁	soit au début de la vente,
@@ -32,9 +31,10 @@ Si S2Cash by ATLAS est configuré pour démarrer sur un vendeur standard, plusie
 
 ⦁	soit au moment du total du ticket.
 
+## Mode d'identificaction 
 
 Dans ces 3 cas, 2 modes d’identification sont possibles :
 
-| ![illustration aspect test](./assets/beggingday/1.PNG) | ![illustration aspect test](./assets/selectVendeur/1.PNG) | 
-|:-----------:|:-----------:|
 |Soit une identification vendeur par nom| Soit une identification vendeur par badge et/ou code |
+|:-----------:|:-----------:|
+| ![illustration aspect test](./assets/beggingday/1.PNG) | ![illustration aspect test](./assets/selectVendeur/1.PNG) | 
