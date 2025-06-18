@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Commande siège
+# Commande centralisée
 
 Dans le cadre d’un magasin multisites ou d’une enseigne multi-magasins, la touche ```COMMANDE CENTRALISEE``` permet d’enregistrer une commande et de l’envoyer au siège pour qu’elle soit préparée.
 
