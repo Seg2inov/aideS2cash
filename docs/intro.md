@@ -6,7 +6,6 @@ sidebar_position: 1
 
 ## Introduction
 
-
 Bienvenue dans la documentation de **S2Cash**.
 
 **S2Cash** est un logiciel de caisse conçu spécialement pour **les commerces alimentaires** et les enseignes utilisant **des systèmes de pesée**.

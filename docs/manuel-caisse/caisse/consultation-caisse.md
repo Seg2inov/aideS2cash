@@ -10,9 +10,9 @@ Pour consulter les éléments financiers en cours de journée, **appuyez sur la 
         ![logo de seg2inov](./assets/boutonxdecaisse.PNG) 
     </div>
 
-S2Cash by Atlas affiche les éléments enregistrés depuis l’ouverture de cette caisse ou de ce caissier.
+S2Cash affiche les **éléments enregistrés depuis l’ouverture** de cette caisse ou de ce caissier.
 
-    <div className="contenaireImg">
+<div className="contenaireImg">
         ![logo de seg2inov](./assets/ecranconsultationcaisse.PNG) 
     </div>
 

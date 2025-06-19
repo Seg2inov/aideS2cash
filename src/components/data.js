@@ -9,13 +9,13 @@ export default  {
         title : "Balance - Affichage CRC Balance",
         link : "/docs/manuel-caisse/caisse/balance-affichage-crc",
         description : "Effectuer un contrôle de CRC.",
-        theme : 'balance - affichage crc des devis clients déjà réalisés En cas de contrôle des autorités compétentes (DIRRECTE/DREETS), cette information est à fournir obligatoirement et cette touche ne doit jamais être ôtée du clavier de caisse sous peine de mise en non-conformité et d’être soumis à « vignette rouge » voire pire à « interdiction temporaire ».'
+        theme : 'contrôle balance contrôler balance Contrôle balance controle balance Controle balance balance - affichage crc des devis clients déjà réalisés En cas de contrôle des autorités compétentes (DIRRECTE/DREETS), cette information est à fournir obligatoirement et cette touche ne doit jamais être ôtée du clavier de caisse sous peine de mise en non-conformité et d’être soumis à « vignette rouge » voire pire à « interdiction temporaire ».'
     },
     {
         title : "Clôture de caisse",
         link : "/docs/manuel-caisse/caisse/cloture-caisse",
         description : "Clôturer votre journée ou votre caisse.",
-        theme : 'Cloture de causse cloture de caisse cloture caisse CLOTURE DE CAISSE cloture-caisse cloture de caisse devis produits prix commandes Imprimer Comptez et saisissez le détail des pièces et billets contenus dans votre tiroir-caisse. S2Cash by Atlas calcule au fur et à mesure de la saisie le **total réel de votre tiroir-caisse**. A la fin du comptage, ATLAS imprime un ticket de détail du comptage.'
+        theme : 'Cloture de causse clôture de caisse cloture de caisse cloture caisse CLOTURE DE CAISSE cloture-caisse cloture de caisse devis produits prix commandes Imprimer Comptez et saisissez le détail des pièces et billets contenus dans votre tiroir-caisse. S2Cash by Atlas calcule au fur et à mesure de la saisie le **total réel de votre tiroir-caisse**. A la fin du comptage, ATLAS imprime un ticket de détail du comptage.'
     },
     {
         title : "Consignes",
@@ -73,9 +73,9 @@ export default  {
     },
     {
         title : " Monétique Integrée – Init CB et Duplicata CB",
-        link : "/docs/manuel-caisse/caisse/monetique-integrer",
+        link : "/docs/manuel-caisse/caisse/monetique-integreE",
         description : "Initialiser un terminal de paiement et imprimer un duplicata CB.",
-        theme : " Monetique integree MONETIQUE INTEGREE monetique tntegree – init cb et duplicata cb Lors de l’appel au serveur monétique, la fenêtre ci-dessous apparait : On ne peut réimprimer **QUE le ticket de la dernière transaction**. Si vous utilisez au préalable la touche ```INIT CB```, aucun ticket ne sera imprimé. a touche ```DUPLICATA CB``` permet de réimprimer le dernier ticket de transaction bancaire :",
+        theme : " Monetique integree ticket de carte bancaire ticket de carte bleue ticket carte bancaire ticket carte bleue ticket de cb ticket cb ticket CB TICKET CB Ticket de carte bleue Ticket de carte bancaire duplicata ticket carte bancaire Duplicata ticket CB tpe TPE MONETIQUE INTEGREE monetique tntegree – init cb et duplicata cb Lors de l’appel au serveur monétique, la fenêtre ci-dessous apparait : On ne peut réimprimer **QUE le ticket de la dernière transaction**. Si vous utilisez au préalable la touche ```INIT CB```, aucun ticket ne sera imprimé. a touche ```DUPLICATA CB``` permet de réimprimer le dernier ticket de transaction bancaire :",
     },
     {
         title : "Pause caisse",
@@ -117,7 +117,7 @@ export default  {
         title : "Duplicata & réimpression ticket ",
         link : "/docs/manuel-caisse/caisse/ticket/duplicata-ticket",
         description : "Réimprimer une vente du jour ou d’une journée précédente à la demande.",
-        theme :" Duplicata & reimpression ticket duplicata & reimpression ticket  duplicata de tickeet et de facture DUPLICATA DE TICKET ET DE FACTURE Caisse caisse facture facturette A5 un imprimante ticket multi fonction format A4 Dans les 3 cas, ATLAS affiche d’abord tous les tickets du jour par caissier ou caisse. "
+        theme :" Duplicata & reimpression ticket duplicata ticket DUPLICATA TICKET Duplicata ticket duplicata & reimpression ticket  duplicata de tickeet et de facture DUPLICATA DE TICKET ET DE FACTURE Caisse caisse facture facturette A5 un imprimante ticket multi fonction format A4 Dans les 3 cas, ATLAS affiche d’abord tous les tickets du jour par caissier ou caisse. "
     },
     {
         title : "Total Panier",
@@ -604,6 +604,12 @@ export default  {
         link : "/docs/manuel-gestion/gestion-utilisateurs/maj-vendeurs-balance",
         description : "Définir les vendeurs envoyés dans les rayons balance.",
         theme : "mise a jour des vendeurs balance mise à jour vendeurs balance mise à jour des vendeurs balance mise a jour des vendeurs balance mise à jour des des vendeurs balance mise à jour des vendeurs balance MISE A JOUR DES VENDEURS BALANCE mise a jour vendeurs balance Mise à jour vendeurs balance Mise a jour vendeurs balance"
+    },
+    {
+        title : "Consultation du chiffre d'affaires",
+        link : "/docs/manuel-caisse/caisse/consultation-ca",
+        description : "Consulter le chiffre d’affaires du poste en temps réel.",
+        theme : "consultation du chiffre d'affaires consultation du CA consulter chiffre d'affaires consulter CA Consultation CA Consultation chiffre d'affaires Consulter CA Consulter CA CONSULTATION CA CONSULTATION CHIFFRE D'AFFAIRES CONSULTATION DU CHIFFRE D'AFFAIRES CONSULTATION DU CA consultation du ca consultation du chiffre d'affaires"
     },
     ]
 }

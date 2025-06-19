@@ -5,7 +5,7 @@ sidebar_position: 15
 # Contrôle espèces
 
 
-Vous avez la possibilité d’effectuer un comptage tiroir en cours de journée pour **contrôler le solde.**
+Vous avez la possibilité d’effectuer un **comptage tiroir** en cours de journée pour **contrôler le solde.**
 
 Pour cela, **appuyez sur la touche** ```CONTROLE ESPECES``` :
 
@@ -13,7 +13,7 @@ Pour cela, **appuyez sur la touche** ```CONTROLE ESPECES``` :
     ![logo de seg2inov](./assets/boutonespece.PNG)
 </div>
 
-Une fenêtre s’affiche alors pour effectuer un comptage du tiroir avec le solde théorique en caisse.
+Une fenêtre s’affiche alors pour effectuer un comptage du tiroir avec le **solde théorique en caisse**.
 
 
 <div className="contenaireImg">
@@ -27,8 +27,8 @@ Le **détail du comptage** que vous venez d’effectuer s’imprime alors.
     ![logo de seg2inov](./assets/ticketcontroleespece.PNG)
 </div>
 
-
 Ce comptage est effectué à titre de contrôle à un moment T.
 
-
-S2Cash by Atlas vous redemande d’effectuer un comptage lors de la Clôture de caisse.
+:::note
+S2Cash vous redemande d’effectuer un comptage lors de la clôture de caisse.
+:::
