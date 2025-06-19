@@ -8,13 +8,13 @@ Cette interface vous permet de **gérer le coffre**, les **mouvements d’argent
 
 Si la gestion du coffre est activée, les mouvements d’argent en caisse sont enregistrés et suivis au niveau du coffre. Ainsi, lorsque vous saisissez votre fonds de caisse, un apport monnaie, ou un prélèvement, **les sommes sont mouvementées dans le coffre et le solde est recalculé en permanence**.
 
+## Rechercher les mouvements du coffre
+
+Pour rechercher les mouvements du coffre, sélectionnez une **date** et cliquez sur ```RECHERCHE```. 
+
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/recherchecoffre.PNG)
     </div>  
-
-## Rechercher les mouvements du coffre
-
-Pour rechercher les mouvements du coffre, sélectionnez une date et cliquez sur ```RECHERCHE```. 
 
 La liste des **mouvements de la journée** apparaît.
 
@@ -39,7 +39,7 @@ Pour les **espèces**, une **aide au comptage** s’affiche :
 
 Saisissez le nombre de pièces et de billet.
 
- ![illustration aspect test](./assets/enregistrercoffre.PNG)   Puis valider avec la touche ```ENREGISTRER```.
+ ![illustration aspect test](./assets/enregistrercoffre.PNG)   Puis validez avec la touche ```ENREGISTRER```.
 
  :::warning
  Si vous n’enregistrez pas, la remise en banque ne sera pas comptabilisée.

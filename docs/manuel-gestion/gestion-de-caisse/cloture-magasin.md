@@ -4,11 +4,11 @@ sidebar_position: 11
 
 # Clôture magasin
 
-S2Cash by Atlas vous permet de **clôturer vos caisses** à partir du Back Office ou de **ressortir une clôture d’une date antérieure**.
+S2Cash vous permet de **clôturer vos caisses** à partir du Back Office ou de **ressortir une clôture d’une date antérieure**.
 
 L’écran vide s’affiche avec, par défaut, la date du jour. 
 
-Vous pouvez saisir une date antérieure et appuyer sur RECHERCHE pour afficher la clôture de la date choisie.  
+Vous pouvez saisir une **date antérieure** et appuyer sur ```RECHERCHE``` pour afficher la clôture de la date choisie.  
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/datecloture.PNG)

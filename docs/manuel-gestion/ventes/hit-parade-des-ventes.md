@@ -6,13 +6,13 @@ sidebar_position: 2
 
 Cette option regroupe toutes les **statistiques nécessaires au bon suivi de votre point de vente**.
 
-Déterminez les dates de début et de fin de la période recherchée, et cliquez sur l’analyse que vous souhaitez afficher :
+Déterminez les **dates de début et de fin** de la période recherchée, et cliquez sur l’analyse que vous souhaitez afficher :
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/hitparadecategories.png)
     </div>
 
-    Pour chaque analyse, S2Cash affiche les données par ligne et un récapitulatif en bas d’écran pour la totalité des informations sur la période sélectionnée.
+    Pour chaque analyse, S2Cash affiche les **données par ligne** et un **récapitulatif en bas d’écran** pour la totalité des informations sur la période sélectionnée.
 
     |Bouton |Action |
     |:--:|------|

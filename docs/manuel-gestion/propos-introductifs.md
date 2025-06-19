@@ -7,7 +7,7 @@ sidebar_position: 1
 Ce manuel a pour but d’expliquer les différentes actions gérées par le module GESTION.
 Ce module est un **système d’organisation, de consultation, de gestion de données associé à l’encaissement**. 
 
-La page d’accueil affiche la date et l’heure, ainsi que la date du dernier arrêté fiscal et de la dernière sauvegarde effectuée.
+La page d’accueil affiche la **date** et l’**heure**, ainsi que la date du **dernier arrêté fiscal** et de la **dernière sauvegarde effectuée**.
 
 |Ecran 1 | Ecran 2|
 |--------|--------|
@@ -23,6 +23,7 @@ En outre, il est possible que sur votre poste, **certains boutons n’apparaisse
 <li> Votre matériel n’est pas compatible avec la fonction ; </li>
 <li> Le paramétrage de votre point de vente ne vous permet pas d’accéder à cette fonctionnalité. </li>
 
+------------------------------
 
 :::danger
 Les fonctionnalités des touches et leurs libellés sont conformes aux diverses règlementations. **Toute modification du libellé de votre part relève de votre responsabilité.** 

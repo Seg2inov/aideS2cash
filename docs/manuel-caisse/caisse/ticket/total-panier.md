@@ -25,6 +25,10 @@ Cette fonctionnalité est **impossible en cas de paiement partiel en carte banca
 
 Lors de l’encaissement, vous avez la possibilité de faire du **multi paiement**. Pour ce faire, renseignez le montant à l’aide du clavier et le mode de paiement grâce à la touche correspondante.
 
+:::tip
+Vous pouvez paramétrer la liste des paiements autorisés en caisse depuis le module de gestion. Pour plus d'informations, cliquez sur le lien suivant : [Manuel de gestion - Mise à jour des règlements](https://aide.seg2inov.fr/docs/manuel-gestion/gestion-de-caisse/maj-reglements).
+:::
+
 ## Ticket restaurant 
 
 Dans le cas des tickets restaurants, vous pouvez aussi les **scanner**. 

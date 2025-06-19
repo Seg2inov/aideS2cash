@@ -12,7 +12,7 @@ Vous avez 2 possibilités pour créer une vente en compte pour une client.
 
 ![illustration aspect test](./assets/nouveau.PNG)    Cliquer sur ```NOUVEAU```. 
 
-Cette fenêtre s’affiche alors. 
+Cette fenêtre s’affiche :
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/ventesencompte.png)
@@ -33,7 +33,7 @@ Vous pouvez alors :
 
 Une fois la vente en compte saisie, vous pouvez ```ENREGISTRER```. 
 
-S2Cash by Atlas vous alors demande si la commande a été **complètement préparée**. 
+S2Cash vous alors demande si la commande a été **complètement préparée**. 
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/commandepreparee.png)
@@ -43,7 +43,7 @@ S2Cash by Atlas vous alors demande si la commande a été **complètement prépa
 
 Si vous cliquez sur ```NON```, la vente en compte sera enregistrée et apparaitra sur la **page d’accueil des ventes en compte**, avec la liste des ventes en compte ```A PREPARER```. 
 
-Vous pouvez alors, **modifier** ou **supprimer** une vente en compte **non complétée**. 
+Vous pouvez alors **modifier** ou **supprimer** une vente en compte **non complétée**. 
 
 ### Commande préparée
 
@@ -58,10 +58,10 @@ Saisissez **en caisse les produits choisis**, et associez la vente à un **clien
     </div>
 
 :::note
-Lorsque le client est renseigné comme étant un professionnel dans sa fiche client, la vente sera automatiquement une vente en compte. 
+Lorsque le client est renseigné comme étant un **professionnel** dans sa fiche client, la vente sera **automatiquement** une vente en compte. 
 :::
 
-Lorsque vous appuyez sur ```TOTAL```, S2Cash by Atlas ne vous permet pas de procéder au règlement. Un **bon de livraison** est imprimé, et **le panier est alors transféré dans les ventes en compte**, dans l’onglet ```A FACTURER```. 
+Lorsque vous appuyez sur ```TOTAL```, S2Cash ne vous permet pas de procéder au règlement. Un **bon de livraison** est imprimé, et **le panier est alors transféré dans les ventes en compte**, dans l’onglet ```A FACTURER```. 
 
 
 ## Accéder aux ventes en compte préparées

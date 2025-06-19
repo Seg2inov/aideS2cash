@@ -6,13 +6,13 @@ sidebar_position: 1
 
 S2Cash enregistre **tous les mouvements de vente et de gestion dans un journal électronique** qui pourra être utilisé comme **pièce justificative lors de contrôle** comptable – financier – juridique – fiscal. 
 
-Saisissez la date recherchée et lancez le traitement par la touche ```RECHERCHE```.
+Saisissez la **date recherchée** et lancez le traitement par la touche ```RECHERCHE```.
 
     <div className="contenaireImg">
     ![logo de seg2inov](./assets/journaldesventes1.png)
     </div>
 
-La partie basse de l’écran affiche le détail de la ligne du mouvement sur laquelle vous êtes positionné.
+La partie basse de l’écran affiche le **détail de la ligne du mouvement** sur laquelle vous êtes positionné.
 
 |Bouton |Action |
 |:----:|----------|
