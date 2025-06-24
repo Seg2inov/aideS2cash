@@ -2,7 +2,7 @@
 sidebar_position: 10
 ---
 
-# Mise à jour des badges et états
+# Mise à jour des badges
 
 Cette fenêtre vous permet de gérer la **liste des badges actifs** dans votre magasin.
 
