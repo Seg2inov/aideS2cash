@@ -67,6 +67,8 @@ Le lancement de l’alerte de stocks permet la **génération des commandes pour
 
 <li> En validant cette alerte, S2Cash génère les **pré commandes en attente de confirmation**. </li>
 
+----------------
+
 :::note
 Lors de la **validation de la commande**, un mail est envoyé avec cette dernière si l’information de correspondance est **enregistrée sur la fiche Fournisseur**. 
 :::

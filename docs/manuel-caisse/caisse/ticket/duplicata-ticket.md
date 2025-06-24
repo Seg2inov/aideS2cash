@@ -37,3 +37,10 @@ Positionnez-vous sur le **ticket recherché** et appuyez sur :
 <div className="contenaireImg">
     ![logo de seg2inov](../assets/boutonglobalticket.PNG)
 </div>
+
+Vous devez alors sélectionner un **motif d’impression de duplicata**. 
+
+:::tip
+La **liste des motifs de duplicata** est modifiable depuis la gestion. Pour plus d’informations, cliquez sur le lien suivant : [Manuel de gestion - Mise à jour des motifs de duplicata](https://aide.seg2inov.fr/docs/manuel-gestion/gestion-de-caisse/maj-motifs-duplicata). 
+:::
+ 

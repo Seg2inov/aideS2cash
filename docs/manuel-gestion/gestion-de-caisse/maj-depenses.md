@@ -11,5 +11,5 @@ Cette fenêtre vous permet de gérer les **libellés de vos dépenses**.
     </div> 
 
 :::note
-Pensez à enregistrer votre saisie !
+Pensez à **enregistrer** votre saisie !
 :::

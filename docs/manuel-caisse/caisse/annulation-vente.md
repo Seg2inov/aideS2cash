@@ -24,6 +24,14 @@ Vous ne pouvez annuler que les tickets du **jour en cours**, vous ne pouvez pas 
 
 Veuillez **sélectionner le ticket que vous souhaitez annuler**, et appuyez sur ```SELECTIONNER``` en haut à droite. 
 
+------------------------------
+
+Vous devez alors sélectionner un **motif d'annulation de la vente**. 
+
+:::tip
+La **liste des motifs d'annulation de vente** est modifiable depuis la gestion. Pour plus d’informations, cliquez sur le lien suivant : [Manuel de gestion - Mise à jour des motifs d'annulation](https://aide.seg2inov.fr/docs/manuel-gestion/gestion-de-caisse/maj-motifs-annulation).
+:::
+
 S2Cash vous rappelle de **rendre la monnaie** : 
 
 <div className="contenaireImg">

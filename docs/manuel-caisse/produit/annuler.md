@@ -21,8 +21,8 @@ Pour cela :
     ![logo de seg2inov](./assets/buttonsupprimer.PNG)
     </div>
 
-S2Cash rajoute une ligne à l’inverse de la ligne sélectionnée.
 
+S2Cash rajoute une ligne **à l’inverse** de la ligne sélectionnée.
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/ligneinverse.PNG)
