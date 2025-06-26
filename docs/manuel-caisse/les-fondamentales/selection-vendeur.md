@@ -38,3 +38,7 @@ Dans ces 3 cas, 2 modes d’identification sont possibles :
 |Soit une identification vendeur par nom| Soit une identification vendeur par badge et/ou code |
 |:-----------:|:-----------:|
 | ![illustration aspect test](./assets/beggingday/1.PNG) | ![illustration aspect test](./assets/selectVendeur/1.PNG) | 
+
+:::warning
+Toute action effectuée en caisse sera **tracée dans le journal des évènements techniques**, et associée au vendeur sélectionné lors de cette action. 
+:::

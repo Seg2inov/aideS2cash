@@ -195,7 +195,7 @@ export default  {
         title : "Rechercher et intégrer un produit à la vente en cours",
         link : "/docs/manuel-caisse/produit/recherche_et_integrer_un_produit_a_la_vente",
         description : "Ajouter un produit au panier.",
-        theme :"vendre un produit ajouter produit au panier ajouter un produit rechercher et intégrer un produit à la vente en cours recherche et integrer un produit a la Sur la partie **gauche** de votre caisse, une zone bleue affiche plusieurs écrans contenant différentes catégories de produits. Vous pouvez naviguer entre ces écrans à l'aide des onglets situés à gauche, nommés ici 1, 2 et 3. Sélectionnez la **catégorie** qui vous intéresse. Une fois la **catégorie sélectionnée**, choisissez le produit qui vous intéresse. Le produit sélectionné apparaît maintenant dans **votre ticket**, en haut à **droite de l’écran**. Ces  boutons se trouvent **en haut à gauche de l’écran**. Une fois votre choix fait, validez avec le **bouton Vert** en haut. Le prix net à payer s’affiche directement sous la liste des produits sélectionnés."
+        theme :"produit inconnu Produit inconnu PRODUIT INCONNU le produit est inconnu Le produit est inconnu LE PRODUIT EST INCONNU vendre un produit ajouter produit au panier ajouter un produit rechercher et intégrer un produit à la vente en cours recherche et integrer un produit a la Sur la partie **gauche** de votre caisse, une zone bleue affiche plusieurs écrans contenant différentes catégories de produits. Vous pouvez naviguer entre ces écrans à l'aide des onglets situés à gauche, nommés ici 1, 2 et 3. Sélectionnez la **catégorie** qui vous intéresse. Une fois la **catégorie sélectionnée**, choisissez le produit qui vous intéresse. Le produit sélectionné apparaît maintenant dans **votre ticket**, en haut à **droite de l’écran**. Ces  boutons se trouvent **en haut à gauche de l’écran**. Une fois votre choix fait, validez avec le **bouton Vert** en haut. Le prix net à payer s’affiche directement sous la liste des produits sélectionnés."
     },
     {
         title : "Changement de quantité",
@@ -614,8 +614,20 @@ export default  {
     {
         title : "Affichage du QR CODE",
         link : "/docs/manuel-gestion/gestion-de-caisse/qr-code",
-        description : "Consulter le chiffre d’affaires du poste en temps réel.",
+        description : "Afficher le QR CODE attaché à votre poste pour accéder aux tickets électroniques",
         theme : "qr code QR CODE Qr Code Qr code ticket électronique ticket electronique ticket dématérialisé ticket dematerialise TICKET ELECTRONIQUE TICKET DEMATERIALISE"
+    },
+    {
+        title : "Fermeture de session",
+        link : "/docs/manuel-caisse/caisse/fermeture-session",
+        description : "Fermer votre session, sans clôturer la caisse.",
+        theme : "Fermeture de session fermeture de session FERMETURE DE SESSION Fermeture de caisse fermeture de caisse FERMETURE DE CAISSE fermer la caisse FERMER LA CAISSE Fermer la caisse"
+    },
+    {
+        title : "Ticket papier et ticket électronique",
+        link : "/docs/manuel-caisse/caisse/ticket-papier-ticket-electronique",
+        description : "Toutes les informations relatives à l'impression ou la non-impression de ticket, ainsi que la génération de ticket électronique.",
+        theme : "impression de ticket Impression de ticket IMPRESSION DE TICKET Impression du ticket impression du ticket IMPRESSION DU TICKET non-impression du ticket non-impression de ticket Non-impression de ticket Non-impression du ticket NON-IMPRESSION DE TICKET NON-IMPRESSION DU TICKET ticket électronique ticjet electronique ticket dematerialise ticket dématérialisé Ticket électronique Ticket dématérialisé TICKET ELECTRONIQUE TICKET DEMATERIALISE QR CODE QR code qr code"
     },
     ]
 }

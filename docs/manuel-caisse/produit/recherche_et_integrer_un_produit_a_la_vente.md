@@ -87,3 +87,13 @@ Le prix net à payer s’affiche directement sous la liste des produits sélecti
 <div className="contenaireImg">
     ![illustration aspect test](./assets/rechercheproduit/7.PNG)
 </div>
+
+------------------------------
+
+## Message d'erreur
+
+Si vous **scannez** un produit que la caisse **ne connait pas**, ou que vous **saisissez le code d’un produit** qui n’est **pas enregistré dans la caisse**, un message d’erreur s’affiche : 
+
+<div className="contenaireImg">
+    ![illustration aspect test](./assets/produitinconnu.PNG)
+</div>
