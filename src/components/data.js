@@ -611,5 +611,11 @@ export default  {
         description : "Consulter le chiffre d’affaires du poste en temps réel.",
         theme : "ticket en cours TICKET EN COURS Ticket en cours un ticket est déjà en cours Un ticket est déjà en cours UN TICKET EST DEJA EN COURS un ticket est deja en cours Un ticket est deja en cours consultation du chiffre d'affaires consultation du CA consulter chiffre d'affaires consulter CA Consultation CA Consultation chiffre d'affaires Consulter CA Consulter CA CONSULTATION CA CONSULTATION CHIFFRE D'AFFAIRES CONSULTATION DU CHIFFRE D'AFFAIRES CONSULTATION DU CA consultation du ca consultation du chiffre d'affaires"
     },
+    {
+        title : "Affichage du QR CODE",
+        link : "/docs/manuel-gestion/gestion-de-caisse/qr-code",
+        description : "Consulter le chiffre d’affaires du poste en temps réel.",
+        theme : "qr code QR CODE Qr Code Qr code ticket électronique ticket electronique ticket dématérialisé ticket dematerialise TICKET ELECTRONIQUE TICKET DEMATERIALISE"
+    },
     ]
 }
