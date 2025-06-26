@@ -50,3 +50,13 @@ Pour rester en conformité avec la loi, un avoir sera généré pour les tickets
 :::note
 Le rendu de monnaie est contrôlé pour chaque moyen de paiement en fonction de vos paramètres.
 :::
+
+## Message d'erreur 
+
+Le total panier n'est accessible que si vous avez sélectionné **au moins un produit**. Ainsi, si vous appuyez sur la touche ```TOTAL``` alors que le **panier est vide**, ce message d'erreur s'affiche : 
+
+<div className="contenaireImg">
+    ![logo de seg2inov](../assets/aucunproduit.PNG)
+    </div>
+
+ Pour accéder au total panier, sélectionnez un ou plusieurs produits. 

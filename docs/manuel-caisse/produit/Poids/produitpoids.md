@@ -29,3 +29,11 @@ Tant que la balance n’est pas **stabilisée**, le produit ne peut être vendu.
 <div className="contenaireImg">
     ![illustration aspect test](./assets/stabilité.PNG)
 </div>
+
+## Erreur modification du poids
+
+Sur une caisse avec un plateau de pesé, si vous **modifiez manuellement la quantité**, ce message d'erreur s'affiche : 
+
+<div className="contenaireImg">
+    ![illustration aspect test](./assets/quantitepoids.PNG)
+</div>

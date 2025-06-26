@@ -3,6 +3,8 @@ sidebar_position: 10
 ---
 # Duplicata & réimpression ticket 
 
+## Imprimer un duplicata
+
 Vous pouvez **réimprimer une vente du jour ou d’une journée précédente** à la demande.
 
 
@@ -44,3 +46,12 @@ Vous devez alors sélectionner un **motif d’impression de duplicata**.
 La **liste des motifs de duplicata** est modifiable depuis la gestion. Pour plus d’informations, cliquez sur le lien suivant : [Manuel de gestion - Mise à jour des motifs de duplicata](https://aide.seg2inov.fr/docs/manuel-gestion/gestion-de-caisse/maj-motifs-duplicata). 
 :::
  
+## Message d'erreur
+
+Si vous appuyez sur la touche ```DUPLICATA``` ou ```TICKET A4``` alors qu'un **panier est en cours** (c'est-à-dire que des produits ont été sélectionnés en caisse), ce message d'erreur s'affiche : 
+
+<div className="contenaireImg">
+    ![logo de seg2inov](../assets/ticketencours.PNG)
+</div>
+
+Vous ne pouvez imprimer un duplicata que si le **panier est vide**. Finalisez la transaction ou faites ```ABANDON PANIER```. 

@@ -93,6 +93,12 @@ Cochez cette case pour **mettre le client en compte**. Le numéro de compte est 
     ![logo de seg2inov](./assets/encompte.png)
     </div>
 
+Si vous renseignez un code comptable déjà attribué à un autre client, ce message s'affiche : 
+
+<div className="contenaireImg">
+    ![logo de seg2inov](./assets/codecomptable.png)
+    </div>
+
 ### Historique du client 
 
 Ce bouton vous permet d’accéder à l’historique du client.

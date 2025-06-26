@@ -15,7 +15,7 @@ export default  {
         title : "Clôture de caisse",
         link : "/docs/manuel-caisse/caisse/cloture-caisse",
         description : "Clôturer votre journée ou votre caisse.",
-        theme : 'Cloture de causse clôture de caisse cloture de caisse cloture caisse CLOTURE DE CAISSE cloture-caisse cloture de caisse devis produits prix commandes Imprimer Comptez et saisissez le détail des pièces et billets contenus dans votre tiroir-caisse. S2Cash by Atlas calcule au fur et à mesure de la saisie le **total réel de votre tiroir-caisse**. A la fin du comptage, ATLAS imprime un ticket de détail du comptage.'
+        theme : 'ticket en cours TICKET EN COURS Ticket en cours un ticket est déjà en cours Un ticket est déjà en cours UN TICKET EST DEJA EN COURS un ticket est deja en cours Un ticket est deja en cours Cloture de causse clôture de caisse cloture de caisse cloture caisse CLOTURE DE CAISSE cloture-caisse cloture de caisse devis produits prix commandes Imprimer Comptez et saisissez le détail des pièces et billets contenus dans votre tiroir-caisse. S2Cash by Atlas calcule au fur et à mesure de la saisie le **total réel de votre tiroir-caisse**. A la fin du comptage, ATLAS imprime un ticket de détail du comptage.'
     },
     {
         title : "Consignes",
@@ -117,13 +117,13 @@ export default  {
         title : "Duplicata & réimpression ticket ",
         link : "/docs/manuel-caisse/caisse/ticket/duplicata-ticket",
         description : "Réimprimer une vente du jour ou d’une journée précédente à la demande.",
-        theme :" Duplicata & reimpression ticket duplicata ticket DUPLICATA TICKET Duplicata ticket duplicata & reimpression ticket  duplicata de tickeet et de facture DUPLICATA DE TICKET ET DE FACTURE Caisse caisse facture facturette A5 un imprimante ticket multi fonction format A4 Dans les 3 cas, ATLAS affiche d’abord tous les tickets du jour par caissier ou caisse. "
+        theme :"ticket en cours TICKET EN COURS Ticket en cours un ticket est déjà en cours Un ticket est déjà en cours UN TICKET EST DEJA EN COURS un ticket est deja en cours Un ticket est deja en cours Duplicata & reimpression ticket duplicata ticket DUPLICATA TICKET Duplicata ticket duplicata & reimpression ticket  duplicata de tickeet et de facture DUPLICATA DE TICKET ET DE FACTURE Caisse caisse facture facturette A5 un imprimante ticket multi fonction format A4 Dans les 3 cas, ATLAS affiche d’abord tous les tickets du jour par caissier ou caisse. "
     },
     {
         title : "Total Panier",
         link : "/docs/manuel-caisse/caisse/ticket/total-panier",
         description : "Afficher le total panier et procéder au règlement.",
-        theme :"total panier Total panier TOTAL PANIER total ticket ticket Cette fonctionnalité est **impossible dans le cas de paiement partiel en carte bancaire**. total Le Rendu de monnaie est contrôlé pour chaque Moyen de paiement en fonction de vos paramètres. Pour ce faire, renseignez le montant à l’aide du clavier et le mode de paiement grâce à la touche correspondante. multi paiment"
+        theme :"aucun produit n'a été saisi AUCUN PRODUIT N'A ETE SAISI Aucun produit n'a été saisi total panier Total panier TOTAL PANIER total ticket ticket Cette fonctionnalité est **impossible dans le cas de paiement partiel en carte bancaire**. total Le Rendu de monnaie est contrôlé pour chaque Moyen de paiement en fonction de vos paramètres. Pour ce faire, renseignez le montant à l’aide du clavier et le mode de paiement grâce à la touche correspondante. multi paiment"
     },
     {
         title : "Commande centralisée",
@@ -201,25 +201,25 @@ export default  {
         title : "Changement de quantité",
         link : "/docs/manuel-caisse/produit/changer-quantite",
         description : "Vendre un même produit en plusieurs exemplaires.",
-        theme :"Changement de quantité changement de quantite Positionnez-vous sur la ligne du produit à modifier Vous pouvez à tout moment revenir sur le ticket en cours pour effectuer une modification de prix ou de quantité. Appuyez sur la touche ```MODIFIE QUANTITE```.Si vous devez à la fois modifier la quantité et forcer le prix sur un même produit, il faut d’abord modifier la quantité puis changer le prix et non l’inverse."
+        theme :"aucun produit n'a ete saisi Aucun produit n'a ete saisi aucun produit n'a été saisi AUCUN PRODUIT N'A ETE SAISI Changement de quantité changement de quantite Positionnez-vous sur la ligne du produit à modifier Vous pouvez à tout moment revenir sur le ticket en cours pour effectuer une modification de prix ou de quantité. Appuyez sur la touche ```MODIFIE QUANTITE```.Si vous devez à la fois modifier la quantité et forcer le prix sur un même produit, il faut d’abord modifier la quantité puis changer le prix et non l’inverse."
     },
     {
         title : "Annulation produit",
         link : "/docs/manuel-caisse/produit/annuler",
         description : "Annuler un produit saisi dans le panier.",
-        theme :"annulation produit ANNULATION PRODUIT S2Cash by Atlas rajoute une ligne au ticket à l’inverse de la ligne sélectionnée. SUPPRIMER supprimer Supprimer L’annulation de ligne apparaît sur le ticket de caisse et sur la clôture de fin de journée."
+        theme :"aucun produit n'a ete saisi Aucun produit n'a ete saisi aucun produit n'a été saisi AUCUN PRODUIT N'A ETE SAISI annulation produit ANNULATION PRODUIT S2Cash by Atlas rajoute une ligne au ticket à l’inverse de la ligne sélectionnée. SUPPRIMER supprimer Supprimer L’annulation de ligne apparaît sur le ticket de caisse et sur la clôture de fin de journée."
     },
     {
         title : "Prix forcé",
         link : "/docs/manuel-caisse/produit/prix-force",
         description : "Modifier le prix d'un produit en caisse.",
-        theme :"Prix forcé prix force Prix force PRIX FORCE Si une remise a été saisie au préalable, S2Cash by Atlas va le supprimer automatiquement. Si vous devez à la fois modifier la quantité et le prix sur un même produit, il faut d’abord modifier la quantité puis changer le prix, et non l’inverser. Vous pouvez à tout moment revenir sur le ticket en cours pour effectuer une modification de prix ou de quantité.  Appuyez sur la touche ```MODIF PRIX``` modif prix Modif prix"
+        theme :"aucun produit n'a ete saisi Aucun produit n'a ete saisi aucun produit n'a été saisi AUCUN PRODUIT N'A ETE SAISI Aucun produit n'a été saisi Prix forcé prix force Prix force PRIX FORCE Si une remise a été saisie au préalable, S2Cash by Atlas va le supprimer automatiquement. Si vous devez à la fois modifier la quantité et le prix sur un même produit, il faut d’abord modifier la quantité puis changer le prix, et non l’inverser. Vous pouvez à tout moment revenir sur le ticket en cours pour effectuer une modification de prix ou de quantité.  Appuyez sur la touche ```MODIF PRIX``` modif prix Modif prix"
     },
     {
         title : "Remise sur produit",
         link : "/docs/manuel-caisse/produit/remise",
         description : "Effectuer une remise en pourcentage sur un produit de la vente en cours.",
-        theme :" remise REMISE Le système vous demandera alors de saisir le **motif de la remise**. Une nouvelle ligne apparaît indiquant le pourcentage et le montant de la remise.  votre remise est incorrecte, vous pouvez recommencer la fonction ou saisir « 0 » pour l’annuler. Les remises sont comptabilisées et apparaissent sur la clôture de caisse."
+        theme :"aucun produit n'a ete saisi Aucun produit n'a ete saisi aucun produit n'a été saisi AUCUN PRODUIT N'A ETE SAISI remise REMISE Le système vous demandera alors de saisir le **motif de la remise**. Une nouvelle ligne apparaît indiquant le pourcentage et le montant de la remise.  votre remise est incorrecte, vous pouvez recommencer la fonction ou saisir « 0 » pour l’annuler. Les remises sont comptabilisées et apparaissent sur la clôture de caisse."
     },
     {
         title : "Retour produit",
@@ -249,7 +249,7 @@ export default  {
         title : "Les erreurs",
         link : "/docs/manuel-caisse/produit/Poids/produitpoids",
         description : "Consulter les erreurs courrantes concernant la pesée.",
-        theme :" Si **aucun** produit n’est posé alors ce message s’affiche : Une fois le produit vendu, vous pouvez l’enlever de la balance.Si vous sélectionnez un autre produit sans avoir fait varier le plateau de la balance, ce message s’affiche : Tant que la balance n’est pas stabilité, le produit ne peut être vendu."
+        theme :"vous ne pouvez pas changer la quantite du produit pese Vous ne pouvez pas changer la quantite du produit pese Vous ne pouvez pas changer la quantité du produit pesé VOUS NE POUVEZ PAS CHANGER LA QUANTITE DU PRODUIT PESE Si **aucun** produit n’est posé alors ce message s’affiche : Une fois le produit vendu, vous pouvez l’enlever de la balance.Si vous sélectionnez un autre produit sans avoir fait varier le plateau de la balance, ce message s’affiche : Tant que la balance n’est pas stabilité, le produit ne peut être vendu."
     },
     {
         title : "Tare",
@@ -279,7 +279,7 @@ export default  {
         title : "Mise à jour des clients",
         link : "/docs/manuel-gestion/clients/maj-clients",
         description : "Gérer tout ce qui concerne vos clients.",
-        theme : "mise a jour Mise à Jour Informations fidélité  information fidelite En compte en compte historique HISTORIQUE Historique Badge client badge client Coupons coupons coupon Conpon NPAI npai Prix spécifiques prix specifiques Chiffre d'affaires du client chiffre d'affaire  Vous pouvez rechercher un client en saisissant son nom, son code client ou son code postal de résidence."
+        theme : "ce code comptable est déjà attribué au client Ce code compte est deja attribue mise a jour Mise à Jour Informations fidélité  information fidelite En compte en compte historique HISTORIQUE Historique Badge client badge client Coupons coupons coupon Conpon NPAI npai Prix spécifiques prix specifiques Chiffre d'affaires du client chiffre d'affaire  Vous pouvez rechercher un client en saisissant son nom, son code client ou son code postal de résidence."
     },
     {
         title : "Relevé des clients",
@@ -609,7 +609,7 @@ export default  {
         title : "Consultation du chiffre d'affaires",
         link : "/docs/manuel-caisse/caisse/consultation-ca",
         description : "Consulter le chiffre d’affaires du poste en temps réel.",
-        theme : "consultation du chiffre d'affaires consultation du CA consulter chiffre d'affaires consulter CA Consultation CA Consultation chiffre d'affaires Consulter CA Consulter CA CONSULTATION CA CONSULTATION CHIFFRE D'AFFAIRES CONSULTATION DU CHIFFRE D'AFFAIRES CONSULTATION DU CA consultation du ca consultation du chiffre d'affaires"
+        theme : "ticket en cours TICKET EN COURS Ticket en cours un ticket est déjà en cours Un ticket est déjà en cours UN TICKET EST DEJA EN COURS un ticket est deja en cours Un ticket est deja en cours consultation du chiffre d'affaires consultation du CA consulter chiffre d'affaires consulter CA Consultation CA Consultation chiffre d'affaires Consulter CA Consulter CA CONSULTATION CA CONSULTATION CHIFFRE D'AFFAIRES CONSULTATION DU CHIFFRE D'AFFAIRES CONSULTATION DU CA consultation du ca consultation du chiffre d'affaires"
     },
     ]
 }

@@ -93,3 +93,13 @@ Les différentes impressions liées à la clôture doivent être **joints aux en
 Les compteurs de vente et de règlements sont remis à zéro. L’application se ferme automatiquement.
 
 **Une nouvelle journée ou session peut commencer.**
+
+## Message d'erreur
+
+Si vous appuyez sur la touche ```CLÔTURE``` alors qu'un **panier est en cours** (c'est-à-dire que des produits ont été sélectionnés en caisse), ce message d'erreur s'affiche : 
+
+<div className="contenaireImg">
+    ![logo de seg2inov](./assets/ticketencours.PNG)
+</div>
+
+Vous ne pouvez faire une clôture que si le **panier est vide**. Finalisez la transaction ou faites ```ABANDON PANIER```. 
