@@ -3,7 +3,7 @@ export default  {
         title : "Apport de monnaie",
         link : "/docs/manuel-caisse/caisse/apport-monnaie",
         description : "Ajouter de la monnaie dans le tiroir en cours de journée.",
-        theme : 'montant total tiroir clôture journée apport DE MONNAIE '
+        theme : 'apport DE MONNAIE apport de monnaie Apport de monnaie caisse'
     },
     {
         title : "Balance - Affichage CRC Balance",
@@ -27,7 +27,7 @@ export default  {
         title : "Consultation de caisse",
         link : "/docs/manuel-caisse/caisse/consultation-caisse",
         description : "Consulter les éléments financiers en cours de journée.",
-        theme : 'consultationS2Cash by Atlas affiche les éléments enregistrés depuis l’ouverture de cette caisse ou de ce caissier.Il vous est possible de demander l’impression d’un ticket.'
+        theme : 'consultation de caisse CONSULTATION DE CAISSE Consultation de caisse consulter CONSULTER Consulter consultationS2Cash by Atlas affiche les éléments enregistrés depuis l’ouverture de cette caisse ou de ce caissier.Il vous est possible de demander l’impression d’un ticket.'
     },
     {
         title : "Contrôle espèces",
@@ -51,13 +51,13 @@ export default  {
         title : "Dépense de caisse",
         link : "/docs/manuel-caisse/caisse/depense-caisse",
         description : "Effectuer une sortie d’espèces pour des opérations diverses.",
-        theme : "depense de caisse Depense de caisse Dépense De CaisseLes différents motifs de dépense s’affichent, sélectionnez celle qui vous convient, puis saisissez le montant et validez par la touche : Un ticket s’imprime. Vous devez le conserver dans le tiroir. "
+        theme : "depense de caisse dépense de caisse Depense de caisse Dépense De CaisseLes différents motifs de dépense s’affichent, sélectionnez celle qui vous convient, puis saisissez le montant et validez par la touche : Un ticket s’imprime. Vous devez le conserver dans le tiroir. "
     },
     {
         title : "Le sous-total",
         link : "/docs/manuel-caisse/caisse/le-sous-total",
         description : "Effectuer une valorisation des produits saisis à un ou plusieurs endroit(s) donné(s) sur le ticket de caisse.",
-        theme : 'sous SOUS TOTAL total '
+        theme : 'sous SOUS TOTAL total sous total SOUS-TOTAL sous-total Sous total Sous-total '
     },
     {
         title : "Devis client",
@@ -96,6 +96,12 @@ export default  {
         theme :"rabais sur Total TOTAL Le  ```reste à payer```  est mis à jour en haut de l’écran et sur la visu client. Si votre rabais est incorrect, recommencez la fonction ou saisissez  ```0```  pour l’annuler. Le Montant du rabais est **ventilé sur chaque produit** en proportion de sa valeur dans le ticket. Le rabais apparaît sur le ticket de caisse et sur la clôture de fin de journée."
     },
     {
+        title : "Abandon panier",
+        link : "/docs/manuel-caisse/caisse/abandon-panier",
+        description : "Abandonner un panier avant la transaction.",
+        theme :"abandon panier ABANDON PANIER Abandon panier abandon du panier ABANDON DU PANIER Abandon du panier supprimer panier Supprimer panier ABANDON TICKET Abandon ticket abandon ticket"
+    },
+    {
         title : "Règlement client",
         link : "/docs/manuel-caisse/caisse/reglement-client",
         description : "Encaisser un client hors vente.",
@@ -111,7 +117,7 @@ export default  {
         title : "Vente de coupon",
         link : "/docs/manuel-caisse/caisse/vente-de-coupon",
         description : "Vendre un coupon.",
-        theme :"vente sur total En fonction du paramétrage mis en place, vous avez aussi la possibilité de **vendre des coupons imprimés à l’avance** par S2Cash by Atlas (cf. ATLAS Gestion).  Dans ce cas, Atlas vous demande de **scanner les coupons pour les activer.** Lorsque le client présente son coupon au moment d’un règlement, il ne vous reste qu’à le scanner au moment du total ticket. "
+        theme :"vente de coupons VENTE DE COUPONS Vente de coupons vente sur total En fonction du paramétrage mis en place, vous avez aussi la possibilité de **vendre des coupons imprimés à l’avance** par S2Cash by Atlas (cf. ATLAS Gestion).  Dans ce cas, Atlas vous demande de **scanner les coupons pour les activer.** Lorsque le client présente son coupon au moment d’un règlement, il ne vous reste qu’à le scanner au moment du total ticket. "
     },
     {
         title : "Duplicata & réimpression ticket ",
@@ -127,19 +133,19 @@ export default  {
     },
     {
         title : "Commande centralisée",
-        link : "/docs/manuel-caisse/caisse/commande/commande-siege",
+        link : "/docs/manuel-caisse/caisse/commande/commande-centralisee",
         description : "Enregistrer une commande magasin et de l’envoyer au siège pour qu’elle soit préparée.",
         theme :"Commande siege commande Siege commande centrale commande centralisee commande centralisée COMMANDE CENTRALE COMMANDE CENTRALISE COMMANDE SIEGE"
     },
     {
         title : "Reprise de commande",
-        link : "/docs/manuel-caisse/caisse/commande/reprise-siege",
+        link : "/docs/manuel-caisse/caisse/commande/reprise-commande",
         description : "Reprendre une commande en caisse.",
-        theme :"commande Seules les commandes préparées complètement apparaissent liste commande Liste commande Vous pouvez vendre d’autres produits, en annuler ou apporter des modifications de prix ou de quantité comme sur une transaction classique."
+        theme :"reprise de commande REPRISE DE COMMANDE Reprise de commande Reprise comande REPRISE COMMANDE reprise commande commande Seules les commandes préparées complètement apparaissent liste commande Liste commande Vous pouvez vendre d’autres produits, en annuler ou apporter des modifications de prix ou de quantité comme sur une transaction classique."
     },
     {
         title : "Commande client",
-        link : "/docs/manuel-caisse/client/commande-client",
+        link : "/docs/manuel-caisse/caisse/commande/commande-client",
         description : "Saisir une commande client depuis la caisse.",
         theme :"commande Une nouvelle fenêtre s’affiche alors vous permettant de renseigner des informations diverses telles qu’un nom et une adresse de livraison différente de celle du client qui passe la commande ; ou encore de renseigner un commentaire libre ainsi qu’une heure de livraison. ciasse caisse Saisissez les produits ainsi que les quantités commandées. A ce niveau, vous pouvez : modifier entrer supprimer"
     },
@@ -165,25 +171,31 @@ export default  {
         title : "Remboursement client",
         link : "/docs/manuel-caisse/client/remboursement-client",
         description : "Rembourser un client.",
-        theme :"CLIENT Client cilent La fenêtre de sélection du client s’affiche (cf. [Lien vers tutorial recherche et création client](https://aide.seg2inov.eu/docs/manuel-caisse/client/recherche)). La fenêtre de sélection du client s’affiche (cf. [Lien vers tutorial recherche et création client](https://aide.seg2inov.eu/docs/manuel-caisse/client/recherche))."
+        theme :"remboursement client REMBOURSEMENT CLIENT Remboursement client rembourser un client rembourser client REMBOURSER UN CLIENT REMBOURSER CLIENT Rembourser CLIENT Client cilent La fenêtre de sélection du client s’affiche (cf. [Lien vers tutorial recherche et création client](https://aide.seg2inov.eu/docs/manuel-caisse/client/recherche)). La fenêtre de sélection du client s’affiche (cf. [Lien vers tutorial recherche et création client](https://aide.seg2inov.eu/docs/manuel-caisse/client/recherche))."
     },
     {
         title : "Aspect visuel",
         link : "/docs/manuel-caisse/les-fondamentales/aspectvisuel",
         description : "Détail visuel des écrans",
-        theme :"Accéder aux écrans après le Total du ticket Ces configurations d’écrans ne sont que des exemples. Toutes les touches sont modifiables via le module S2Cash by ATLAS GESTION. Comme pour les ventes, toutes les opérations qui nécessitent une manipulation des espèces sont enregistrées dans la Caisse, de façon à ce que le tiroir soit juste en fin de journée. Le 4ème écran, accessible **après le Total du ticket** pour les remises sur le total et le règlement de la transaction. | En mode balance, on retrouve les mêmes configurations que le mode caisse en 3 ou 4 écrans, mais avec une barre de pesée en plus (située en haut ou sur le côté en fonction du modèle de la balance)"
+        theme :"aspect visuel écrans ecran ecrans écran ECRAN Accéder aux écrans après le Total du ticket Ces configurations d’écrans ne sont que des exemples. Toutes les touches sont modifiables via le module S2Cash by ATLAS GESTION. Comme pour les ventes, toutes les opérations qui nécessitent une manipulation des espèces sont enregistrées dans la Caisse, de façon à ce que le tiroir soit juste en fin de journée. Le 4ème écran, accessible **après le Total du ticket** pour les remises sur le total et le règlement de la transaction. | En mode balance, on retrouve les mêmes configurations que le mode caisse en 3 ou 4 écrans, mais avec une barre de pesée en plus (située en haut ou sur le côté en fonction du modèle de la balance)"
     },
     {
         title : "Début de journée",
-        link : "/docs/manuel-caisse/les-fondamentales/debut_de_journee",
+        link : "/docs/manuel-caisse/les-fondamentales/debut-journee",
         description : "Démarrer la journée sur le logiciel S2Cash.",
-        theme :"Sélection d'un vendeur selection Selection Monetique intégrée monetique integrée Veuillez ensuite **saisir le montant de votre fonds de caisse** pour comptabiliser les espèces et contrôler le tiroir en fin de journée. Dans le cas où vous possédez de la monétique intégrée, la liaison va s’effectuer avec le centre bancaire et initialiser le terminal Carte Bancaire. Un ticket s’imprime. Veuillez ensuite **saisir** le montant de votre **fonds de caisse** pour **comptabiliser** les espèces et contrôler le tiroir en fin de journée."
+        theme :"debut de journée Début de journée début de journée DEBUT DE JOURNEE Sélection d'un vendeur selection Selection Monetique intégrée monetique integrée Veuillez ensuite **saisir le montant de votre fonds de caisse** pour comptabiliser les espèces et contrôler le tiroir en fin de journée. Dans le cas où vous possédez de la monétique intégrée, la liaison va s’effectuer avec le centre bancaire et initialiser le terminal Carte Bancaire. Un ticket s’imprime. Veuillez ensuite **saisir** le montant de votre **fonds de caisse** pour **comptabiliser** les espèces et contrôler le tiroir en fin de journée."
+    },
+    {
+        title : "Les produits vendus au poids",
+        link : "/docs/category/les-produits-vendus-au-poids",
+        description : "La Tare et les messages d'erreur liés à la balance ou au plateau balance.",
+        theme :"produits au poids produitrs vendus au poids Produits vendus au poids Produits au poids produit au poids Produit au poids Prduit vendus au poids PRODUITS AU POIDS PRODUITS VENDUS AU POIDS"
     },
     {
         title : "Sélection d'un vendeur",
         link : "/docs/manuel-caisse/les-fondamentales/selection-vendeur",
         description : "Sélectionner le vendeur qui utilise la caisse.",
-        theme :"Au démarage Si S2Cash by ATLAS est configuré pour démarrer sur un vendeur standard, plusieurs configurations vendeur sont possibles (cf documentation S2Cash by ATLAS GESTION). Le système peut alors vous demander de vous identifier : configuration Configuration vendeurs La caisse va s’ouvrir et **imprimer un ticket d’ouverture caisse**. Veuillez-vous **identifier** en saisissant votre code et votre mot de passe ou passez votre Badge devant le lecteur de code à barre."
+        theme :"sélection d'un vendeur Au démarage Si S2Cash by ATLAS est configuré pour démarrer sur un vendeur standard, plusieurs configurations vendeur sont possibles (cf documentation S2Cash by ATLAS GESTION). Le système peut alors vous demander de vous identifier : configuration Configuration vendeurs La caisse va s’ouvrir et **imprimer un ticket d’ouverture caisse**. Veuillez-vous **identifier** en saisissant votre code et votre mot de passe ou passez votre Badge devant le lecteur de code à barre."
     },
     {
         title : "Recette de caisse",
@@ -204,6 +216,12 @@ export default  {
         theme :"aucun produit n'a ete saisi Aucun produit n'a ete saisi aucun produit n'a été saisi AUCUN PRODUIT N'A ETE SAISI Changement de quantité changement de quantite Positionnez-vous sur la ligne du produit à modifier Vous pouvez à tout moment revenir sur le ticket en cours pour effectuer une modification de prix ou de quantité. Appuyez sur la touche ```MODIFIE QUANTITE```.Si vous devez à la fois modifier la quantité et forcer le prix sur un même produit, il faut d’abord modifier la quantité puis changer le prix et non l’inverse."
     },
     {
+        title : "Annulation vente",
+        link : "/docs/manuel-caisse/caisse/annulation-vente",
+        description : "Annuler un ticket, annuler une transaction déjà effectuée.",
+        theme :"annulation vente Annulation vente ANNULATION VENTE annuler une vente Annuler une vente ANNULER UNE VENTE annuler un ticket Annuler un ticket ANNULER UN TICKET Supprimer ticket supprimer ticket SUPPRIMER TICKET Supprimer un ticket supprimer un ticket SUPPRIMER UN TICKET"
+    },
+    {
         title : "Annulation produit",
         link : "/docs/manuel-caisse/produit/annuler",
         description : "Annuler un produit saisi dans le panier.",
@@ -219,7 +237,7 @@ export default  {
         title : "Remise sur produit",
         link : "/docs/manuel-caisse/produit/remise",
         description : "Effectuer une remise en pourcentage sur un produit de la vente en cours.",
-        theme :"aucun produit n'a ete saisi Aucun produit n'a ete saisi aucun produit n'a été saisi AUCUN PRODUIT N'A ETE SAISI remise REMISE Le système vous demandera alors de saisir le **motif de la remise**. Une nouvelle ligne apparaît indiquant le pourcentage et le montant de la remise.  votre remise est incorrecte, vous pouvez recommencer la fonction ou saisir « 0 » pour l’annuler. Les remises sont comptabilisées et apparaissent sur la clôture de caisse."
+        theme :"remise sur produit Remise sur produit REMISE SUR PRODUIT REMISE PRODUIT Remise produit remise produit aucun produit n'a ete saisi Aucun produit n'a ete saisi aucun produit n'a été saisi AUCUN PRODUIT N'A ETE SAISI remise REMISE Le système vous demandera alors de saisir le **motif de la remise**. Une nouvelle ligne apparaît indiquant le pourcentage et le montant de la remise.  votre remise est incorrecte, vous pouvez recommencer la fonction ou saisir « 0 » pour l’annuler. Les remises sont comptabilisées et apparaissent sur la clôture de caisse."
     },
     {
         title : "Retour produit",
@@ -241,7 +259,7 @@ export default  {
     },
     {
         title : "Actions possibles sur la fiche d’un produit",
-        link : "/docs/manuel-caisse/produit/actions/actions-possible",
+        link : "/docs/manuel-caisse/produit/actions/actions-possibles",
         description : "Consulter la liste des actions possibles sur les produits.",
         theme :" **Ajouter ou enlever** une **image** pour ce **produit**. L’image sera affichée en **caisse** et sur les **affiches** ou **étiquettes**. Consulter **l’historique** des mouvements **effectués** sur ce produit. Consulter le **récapitulatif** par **mois** des **mouvements** de ce **produit**.  **Ajouter** ce produit dans la **liste des médias**.  **Saisir** la composition du **produit**. La composition sera imprimée sur les **étiquettes de traçabilité**. Accéder aux **informations** saisies sur ce **produit** lorsque le vendeur réalise la **vente**. Accéder aux **informations** saisies sur ce **produit** lorsque le vendeur réalise la **vente**.  Accéder aux **informations** saisies sur ce **produit** lorsque le vendeur réalise la **vente**. Accéder aux **informations** saisies sur ce **produit** lorsque le vendeur réalise la **vente**. "
     },
@@ -279,7 +297,7 @@ export default  {
         title : "Mise à jour des clients",
         link : "/docs/manuel-gestion/clients/maj-clients",
         description : "Gérer tout ce qui concerne vos clients.",
-        theme : "ce code comptable est déjà attribué au client Ce code compte est deja attribue mise a jour Mise à Jour Informations fidélité  information fidelite En compte en compte historique HISTORIQUE Historique Badge client badge client Coupons coupons coupon Conpon NPAI npai Prix spécifiques prix specifiques Chiffre d'affaires du client chiffre d'affaire  Vous pouvez rechercher un client en saisissant son nom, son code client ou son code postal de résidence."
+        theme : "mise a jour des clients Mise à jour des clients Mise a jour des clients mise à jour des clients mise a jour clients mise à jour client ce code comptable est déjà attribué au client Ce code compte est deja attribue mise a jour Mise à Jour Informations fidélité  information fidelite En compte en compte historique HISTORIQUE Historique Badge client badge client Coupons coupons coupon Conpon NPAI npai Prix spécifiques prix specifiques Chiffre d'affaires du client chiffre d'affaire  Vous pouvez rechercher un client en saisissant son nom, son code client ou son code postal de résidence."
     },
     {
         title : "Relevé des clients",
@@ -319,15 +337,15 @@ export default  {
     },
     {
         title : "Init. étiquettes électroniques",
-        link : "/docs/manuel-gestion/etiquettes/etiquettes-electroniques",
+        link : "/docs/manuel-gestion/gestion-produits/etiquettes-electroniques",
         description : "Initialiser vos étiquettes électroniques, si votre magasin en est équipé.",
-        theme : "init etiquette electroniue etiquettes electroniques"
+        theme : "init etiquette electroniue etiquettes electroniques étiquettes etiquettes ETIQUETTES ELECTRONIQUES ETIQUETTE ELECTRONIQUE étiquettes électroniques etiquettes electronique"
     },
      {
         title : "Etiquettes produits",
-        link : "/docs/manuel-gestion/etiquettes/etiquettes-produits",
+        link : "/docs/manuel-gestion/gestion-produits/etiquettes-produits",
         description : "Créer, récupérer et imprimer les étiquettes produits.",
-        theme : "etiquette Etiquettes produits Dans le cas de modification du prix de vente ou de création de produit, S2Cash enregistre automatiquement une étiquette. Permet de supprimer un produit de la liste. Astuce : pour supprimer tous les produits de la liste, utilisez le raccourci clavier windows CTRL+A et cliquez sur supprimer. 	Remplir le tableau des étiquettes en récupérant les produits et les quantités depuis un terminal de saisie (si paramétrée). 	Accéder directement à la fiche du produit sélectionné en mode modification. 	Ajouter un produit à la liste. Vous pouvez également ajouter un produit en saisissant directement son code dans la colonne CODE. Lorsque vous cliquez sur ETIQUETTES, vous pouvez choisir la taille souhaitée."
+        theme : "étiquettes étiquette etiquette Etiquettes produits Dans le cas de modification du prix de vente ou de création de produit, S2Cash enregistre automatiquement une étiquette. Permet de supprimer un produit de la liste. Astuce : pour supprimer tous les produits de la liste, utilisez le raccourci clavier windows CTRL+A et cliquez sur supprimer. 	Remplir le tableau des étiquettes en récupérant les produits et les quantités depuis un terminal de saisie (si paramétrée). 	Accéder directement à la fiche du produit sélectionné en mode modification. 	Ajouter un produit à la liste. Vous pouvez également ajouter un produit en saisissant directement son code dans la colonne CODE. Lorsque vous cliquez sur ETIQUETTES, vous pouvez choisir la taille souhaitée."
     },
     {
         title : "Achat fournisseur",
@@ -339,13 +357,13 @@ export default  {
         title : "Livraison fournisseur",
         link : "/docs/manuel-gestion/gestion-fournisseurs/livraison-fournisseur",
         description : "Gérer et valider les réceptions de marchandises et de mettre à jour les stocks des produits.",
-        theme : "Lorsque vous validez une commande, elle est automatiquement basculée dans les attentes de réception. Vous pouvez également créer une nouvelle réception directement ici, sans passer par l’interface de commande fournisseur. Au lancement de la fenêtre, la liste des réceptions en attente apparait à l’écran cr éer une nouvelle réception sans passer par l'interface de commande 	Enregistrer la réception sans la valider, et ainsi pouvoir revenir dessus à tout moment. 	Insérer une ligne vide dans la réception. 	Ajouter un produit à la réception. Vous pouvez également ajouter un produit en saisissant directement son code dans la colonne CODE. fiche produit"
+        theme : "livraison fournisseur LIVRAISON FOURNISSEUR Livraison fournisseur livraisons fournisseurs LIVRAISONS FOURNISSEURS Lorsque vous validez une commande, elle est automatiquement basculée dans les attentes de réception. Vous pouvez également créer une nouvelle réception directement ici, sans passer par l’interface de commande fournisseur. Au lancement de la fenêtre, la liste des réceptions en attente apparait à l’écran cr éer une nouvelle réception sans passer par l'interface de commande 	Enregistrer la réception sans la valider, et ainsi pouvoir revenir dessus à tout moment. 	Insérer une ligne vide dans la réception. 	Ajouter un produit à la réception. Vous pouvez également ajouter un produit en saisissant directement son code dans la colonne CODE. fiche produit"
     },
     {
         title : "Mise à jour des fournisseurs",
         link : "/docs/manuel-gestion/gestion-fournisseurs/maj-fournisseurs",
         description : "Gérer tout ce qui concerne vos fournisseurs.",
-        theme : "mise a jour Mise à Jour Vous pouvez faire une recherche par nom, par code fournisseur ou code postal. Il est important de renseigner correctement le délai fournisseur ainsi que les jours de commande, ce qui va optimiser au maximum les stocks et les commandes de réapprovisionnement au plus juste. La gestion des marques permet de commander les produits aux fournisseurs par groupe de produits. "
+        theme : "mise a jour des fournisseurs mise a jour fournisseurs MISE A JOUR DES FOURNISSEURS MISE A JOUR FOURNISSEURS Mise à jour fournisseurs mise à jour des fournisseursmise a jour Mise à Jour Vous pouvez faire une recherche par nom, par code fournisseur ou code postal. Il est important de renseigner correctement le délai fournisseur ainsi que les jours de commande, ce qui va optimiser au maximum les stocks et les commandes de réapprovisionnement au plus juste. La gestion des marques permet de commander les produits aux fournisseurs par groupe de produits. "
     },
     {
         title : "Ajustement de stocks",
@@ -384,10 +402,34 @@ export default  {
         theme : "mise a jour mise à jour motifs de remise mise à jour des motifs de remise mise à jour MISE A JOUR  Saisissez un code disponible en suivant ceux déjà en place, Attribuez un nom à ce motif de remise, Renseignez éventuellement le pourcentage de la remise qui sera impacté au fournisseur (sur ETATS DE RETROCESSION). Vous pouvez enregistrer les modifications, ou supprimer un enregistrement. retrocession Retrocession Rétrocession "
     },
     {
+        title : "Mise à jour des motifs de retour",
+        link : "/docs/manuel-gestion/gestion-de-caisse/maj-motifs-retour",
+        description : "Gérer les motifs de retour produit.",
+        theme : "mise a jour mise à jour motifs de retour mise à jour des motifs de retour mise à jour MISE A JOUR mise a jour motifs retour retour produit mise à jour motifs retour mise à jour motifs de retour produit MISE A JOUR MOTIFS DE RETOUR MISE A JOUR MOTIFS RETOUR MISE A JOUR DES MOTIFS DE RETOUR PRODUIT"
+    },
+    {
+        title : "Mise à jour des motifs d'annulation de vente",
+        link : "/docs/manuel-gestion/gestion-de-caisse/maj-motifs-annulation",
+        description : "Gérer les motifs d'annulation de vente.",
+        theme : "mise a jour mise à jour motifs d'annulation de vente mise à jour des motifs d'annulation de vente mise à jour MISE A JOUR mise a jour motifs retour d'annulation mise à jour motifs annulation mise à jour motifs d'annulation MISE A JOUR MOTIFS D'ANNULATION MISE A JOUR MOTIFS ANNNULATION MISE A JOUR DES MOTIFS D'ANNULATION DE VENTE"
+    },
+    {
+        title : "Mise à jour des motifs de duplicata",
+        link : "/docs/manuel-gestion/gestion-de-caisse/maj-motifs-duplicata",
+        description : "Gérer les motifs de duplicata ticket, format ticket et format A4.",
+        theme : "mise a jour mise à jour motifs de duplicata de vente mise à jour des motifs d'de duplicata de vente mise à jour MISE A JOUR mise a jour motifs duplicata ticket mise à jour motifs de duplicata ticket mise à jour motifs duplicata ticket MISE A JOUR MOTIFS DE DUPLICATA TICKET MISE A JOUR MOTIFS DUPLICATA TICKET MISE A JOUR DES MOTIFS DE DUPLICATA TICKET"
+    },
+    {
         title : "Suivi des promotions",
         link : "/docs/manuel-gestion/prix-promotions/suivi-des-promotions",
         description : "Préparer vos promotions et changements de prix à l’avance.",
         theme : "suivi promotions suivi des promotions Suivi des promotions Suivi promotions SUIVI DES PROMOTIONS SUIVI PROMOTIONS"
+    },
+    {
+        title : "Affichage du QR CODE",
+        link : "/docs/manuel-gestion/gestion-de-caisse/qr-code",
+        description : "Afficher ou imprimer le QR CODE associé à votre caisse.",
+        theme : "QR CODE qr code QR Code QR code afficher qr code affichage qr code Affichage QR Code AFFICHAGE QR CODE AFFICHER QR CODE"
     },
     {
         title : "Suivi des coupons",
@@ -469,7 +511,7 @@ export default  {
     },
     {
         title : "Mise à jour des badges et états",
-        link : "/docs/manuel-gestion/gestion-de-caisse/maj-badges-etats",
+        link : "/docs/manuel-gestion/gestion-de-caisse/maj-badges",
         description : "Gérer la liste des badges actifs dans votre magasin.",
         theme : "mise a jour badges mise à jour des badges et états mise à jour badge et états MISE A JOUR BADGES ET ETATS"
     },  
@@ -564,6 +606,12 @@ export default  {
         theme : "mise a jour rayon mise à jour rayon mise a jour rayons mise à jour des rayons mise à jour rayons MISE A JOUR RAYONS mise a jour des rayons Mise à jour rayons Mise a jour rayons"
     },
     {
+        title : "Mise à jour des marques",
+        link : "/docs/manuel-gestion/gestion-produits/maj-marques",
+        description : "Gérer la liste de vos marques.",
+        theme : "mise a jour marques mise à jour marques mise a jour marques mise à jour des marques mise à jour marques MISE A JOUR MARQUES mise a jour des marques Mise à jour marques Mise a jour marques"
+    },
+    {
         title : "Mise à jour des TVA",
         link : "/docs/manuel-gestion/gestion-produits/maj-tva",
         description : "Gérer vos taux de TVA.",
@@ -577,7 +625,7 @@ export default  {
     },
     {
         title : "Mise à jour des mouvements",
-        link : "/docs/manuel-gestion/gestion-stocks/maj-mouvements",
+        link : "/docs/manuel-gestion/gestion-stocks/maj-mouvement",
         description : "Gérer les types de mouvements.",
         theme : "mise a jour des mouvements mise à jour des mouvements mise a jour des mouvements mise à jour des des mouvements mise à jour des mouvements MISE A JOUR DES MOUVEMENTS mise a jour mouvements Mise à jour mouvements Mise a jour mouvements"
     },
@@ -625,9 +673,21 @@ export default  {
     },
     {
         title : "Ticket papier et ticket électronique",
-        link : "/docs/manuel-caisse/caisse/ticket-papier-ticket-electronique",
+        link : "/docs/manuel-caisse/caisse/ticket/ticket-papier-ticket-electronique",
         description : "Toutes les informations relatives à l'impression ou la non-impression de ticket, ainsi que la génération de ticket électronique.",
-        theme : "impression de ticket Impression de ticket IMPRESSION DE TICKET Impression du ticket impression du ticket IMPRESSION DU TICKET non-impression du ticket non-impression de ticket Non-impression de ticket Non-impression du ticket NON-IMPRESSION DE TICKET NON-IMPRESSION DU TICKET ticket électronique ticjet electronique ticket dematerialise ticket dématérialisé Ticket électronique Ticket dématérialisé TICKET ELECTRONIQUE TICKET DEMATERIALISE QR CODE QR code qr code"
+        theme : "ticket papier impression de ticket Impression de ticket IMPRESSION DE TICKET Impression du ticket impression du ticket IMPRESSION DU TICKET non-impression du ticket non-impression de ticket Non-impression de ticket Non-impression du ticket NON-IMPRESSION DE TICKET NON-IMPRESSION DU TICKET ticket électronique ticjet electronique ticket dematerialise ticket dématérialisé Ticket électronique Ticket dématérialisé TICKET ELECTRONIQUE TICKET DEMATERIALISE QR CODE QR code qr code"
+    },
+    {
+        title : "Consultation de caisse",
+        link : "/docs/manuel-gestion/gestion-de-caisse/consultation-caisse",
+        description : "Consulter les élements financiers au cours de la journée depuis la gestion.",
+        theme : "consultation de caisse CONSULTATION DE CAISSE Consultation de caisse consulter CONSULTER Consulter consultationS2Cash by Atlas affiche les éléments enregistrés depuis l’ouverture de cette caisse ou de ce caissier.Il vous est possible de demander l’impression d’un ticket"
+    },
+    {
+        title : "Sauvegarde",
+        link : "/docs/manuel-gestion/gestion-des-donnees/sauvegarde",
+        description : "Sauvegarder les données de votre caisse.",
+        theme : "sauvegarder SAUVEGARDER Sauvegarder Sauvegarde des données sauvegarde des données SAUVEGARDE DES DONNEES"
     },
     ]
 }
