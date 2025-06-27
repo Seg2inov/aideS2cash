@@ -181,7 +181,7 @@ export default  {
     },
     {
         title : "Sélection d'un vendeur",
-        link : "/docs/manuel-caisse/les-fondamentales/selection_vendeur",
+        link : "/docs/manuel-caisse/les-fondamentales/selection-vendeur",
         description : "Sélectionner le vendeur qui utilise la caisse.",
         theme :"Au démarage Si S2Cash by ATLAS est configuré pour démarrer sur un vendeur standard, plusieurs configurations vendeur sont possibles (cf documentation S2Cash by ATLAS GESTION). Le système peut alors vous demander de vous identifier : configuration Configuration vendeurs La caisse va s’ouvrir et **imprimer un ticket d’ouverture caisse**. Veuillez-vous **identifier** en saisissant votre code et votre mot de passe ou passez votre Badge devant le lecteur de code à barre."
     },
