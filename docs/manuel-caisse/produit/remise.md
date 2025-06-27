@@ -49,10 +49,20 @@ Les motifs de remises sont **paramétrables depuis la gestion**. Pour plus d'inf
 Le système S2Cash peut être configuré avec une **remise ligne fixe**, dans ce cas quel que soit le montant saisi de la remise, le système applique toujours le **montant paramétré**.
 :::
 
-## Message d'erreur 
+## Messages d'erreur 
+
+### Aucun produit saisi
 
 Pour **remiser un produit**, il faut sélectionner le produit concerné depuis le panier. Ainsi, si vous appuyez sur la touche ```REMISE LIGNE``` alors que le **panier est vide**, ce message d'erreur s'affiche : 
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/aucunproduit.PNG)
+    </div>
+
+### Remise incorrecte
+
+Dans le cas où vous saisissez un **montant de remise incorrect** (par exemple, 150%), la caisse affiche ce message : 
+
+<div className="contenaireImg">
+    ![logo de seg2inov](./assets/remiseincorrecte.PNG)
     </div>

@@ -1,7 +1,9 @@
 {
-  "label": "Les fournisseurs",
-  "position": 7,
-  "link": {
-    "type": "generated-index"
+    "label": "Les fournisseurs",
+    "position": 7,
+    "link": {
+      "type": "generated-index",
+      "description": "Découvrez les spécificités liées aux fournisseurs depuis la gestion."
+    }
   }
-}
+ 

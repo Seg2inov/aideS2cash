@@ -3,6 +3,8 @@ sidebar_position: 16
 ---
 # Correction de règlement 
 
+## Corriger un règlement 
+
 En cas d’erreur lors de l’encaissement, vous pouvez **ventiler le moyen de paiement sur un autre règlement** sans toucher au montant encaissé.
 
 Cette fonction n’est accessible **que sur la journée en cours**, et sur une **caisse non clôturée**.
@@ -38,3 +40,15 @@ Après la correction de règlement, 2 tickets sont alors imprimés : 1 ticket d�
 :::note
 Veuillez conserver l'impression d'annulation dans le tiroir.
 :::
+
+## Message d'erreur
+
+La fonction "Correction de règlement" affiche la **liste des tickets de la journée en cours**. 
+
+Si vous souhaitez faire une correction de règlement mais qu'**aucune transaction n'a été effectuée**, la caisse affiche ce message : 
+
+<div className="contenaireImg">
+    ![logo de seg2inov](./assets/erreurcorrection.PNG)
+</div>
+
+Vous ne pouvez corriger un règlement que si une transaction a eu lieu. 

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Recherche Client
+# Recherche client
 
 Pour **associer un client** à votre **vente**, vous devez le sélectionnez **avant le Total** :
 

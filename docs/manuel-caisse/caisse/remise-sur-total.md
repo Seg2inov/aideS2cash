@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # Remise sur total
 
+## Effectuer une remise sur le panier
+
 Vous pouvez pratiquer une **remise en pourcentage sur la totalité de la vente**.
 
  <div className="contenaireImg">
@@ -40,3 +42,11 @@ La remise totale apparaît sur le **ticket de caisse** et sur la **clôture de f
 :::warning
 Le système S2Cash peut être configuré avec une **remise sur total fixe**. Dans ce cas, quel que soit le montant saisi de la remise, le système applique toujours le **montant paramétré**.
 ::: 
+
+## Message d'erreur
+
+Dans le cas où vous saisissez un **montant de remise incorrect** (par exemple, 150%), la caisse affiche ce message : 
+
+<div className="contenaireImg">
+    ![logo de seg2inov](./assets/remiseincorrecte.PNG)
+    </div>

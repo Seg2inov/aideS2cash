@@ -2,6 +2,7 @@
   "label": "Les ventes",
   "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Découvrez les spécificités liées aux ventes depuis la gestion."
   }
 }

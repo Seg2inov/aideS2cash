@@ -45,7 +45,7 @@ export default  {
         title : "Correction de règlement",
         link : "/docs/manuel-caisse/caisse/correction-reglement",
         description : "Ventiler le moyen de paiement sur un autre règlement sans toucher au montant encaissé.",
-        theme : "correction de reglement Correction de réglement Correction De Reglement CORRECTION DE REGLEMENT Cette fonction n’est accessible que sur la journée en cours, et sur une caisse non clôturée. Pour corriger un moyen de règlement, **appuyez sur la touche** ```CORRECTION REGLEMENT```  correction reglement Sélectionnez la transaction à corriger et validez avec la touche  "
+        theme : "il n'y a pas de ligne de vente à cette date Il n'y a pas de ligne de vente a cette date IL N'Y A PAS DE LIGNE DE VENTE A CETTE DATE correction de reglement Correction de réglement Correction De Reglement CORRECTION DE REGLEMENT Cette fonction n’est accessible que sur la journée en cours, et sur une caisse non clôturée. Pour corriger un moyen de règlement, **appuyez sur la touche** ```CORRECTION REGLEMENT```  correction reglement Sélectionnez la transaction à corriger et validez avec la touche  "
     },
     {
         title : "Dépense de caisse",
@@ -81,7 +81,7 @@ export default  {
         title : "Pause caisse",
         link : "/docs/manuel-caisse/caisse/pausecaisse",
         description : "Mettre la caisse en pause.",
-        theme :"pause caisse En fonction du paramétrage mis en place : pause CAISSE Caisse Seule la personne ayant mis la caisse en pause peut la débloquer  N’importe quel utilisateur peut enlever la pause"
+        theme :"la caisse ne pourra être débloquée que par la caisse ne pourra etre debloquee que par LA CAISSE NE POURRA ETRE DEBLOQUE QUE PAS La caisse ne pourra être débloquée que par La caisse ne pourra etre debloquee que par pause caisse En fonction du paramétrage mis en place : pause CAISSE Caisse Seule la personne ayant mis la caisse en pause peut la débloquer  N’importe quel utilisateur peut enlever la pause"
     },
     {
         title : "Prélèvement",
@@ -93,7 +93,7 @@ export default  {
         title : "Rabais sur total",
         link : "/docs/manuel-caisse/caisse/rabais-sur-total",
         description : "Effectuer un rabais en valeur sur la totalité de la vente.",
-        theme :"rabais sur Total TOTAL Le  ```reste à payer```  est mis à jour en haut de l’écran et sur la visu client. Si votre rabais est incorrect, recommencez la fonction ou saisissez  ```0```  pour l’annuler. Le Montant du rabais est **ventilé sur chaque produit** en proportion de sa valeur dans le ticket. Le rabais apparaît sur le ticket de caisse et sur la clôture de fin de journée."
+        theme :"ce rabais est supérieur au total du ticket Ce rabais est supérieur au total du ticket CE RABAIS EST SUPERIEUR AU TOTAL DU TICKET rabais supérieur au total ticket Rabais superieur au total ticket rabais superieur au total ticket Rabais supérieur au total ticket rabais sur Total TOTAL Le  ```reste à payer```  est mis à jour en haut de l’écran et sur la visu client. Si votre rabais est incorrect, recommencez la fonction ou saisissez  ```0```  pour l’annuler. Le Montant du rabais est **ventilé sur chaque produit** en proportion de sa valeur dans le ticket. Le rabais apparaît sur le ticket de caisse et sur la clôture de fin de journée."
     },
     {
         title : "Abandon panier",
@@ -171,7 +171,7 @@ export default  {
         title : "Remboursement client",
         link : "/docs/manuel-caisse/client/remboursement-client",
         description : "Rembourser un client.",
-        theme :"remboursement client REMBOURSEMENT CLIENT Remboursement client rembourser un client rembourser client REMBOURSER UN CLIENT REMBOURSER CLIENT Rembourser CLIENT Client cilent La fenêtre de sélection du client s’affiche (cf. [Lien vers tutorial recherche et création client](https://aide.seg2inov.eu/docs/manuel-caisse/client/recherche)). La fenêtre de sélection du client s’affiche (cf. [Lien vers tutorial recherche et création client](https://aide.seg2inov.eu/docs/manuel-caisse/client/recherche))."
+        theme :"il est impossible de rembourser un solde positif IL EST IMPOSSIBLE DE REMBOURSER UN SOLDE POSITIF Il est impossible de rembourser un solde positif remboursement client impossible remboursement impossible REMBOURSEMENT IMPOSSIBLE remboursement client REMBOURSEMENT CLIENT Remboursement client rembourser un client rembourser client REMBOURSER UN CLIENT REMBOURSER CLIENT Rembourser CLIENT Client cilent La fenêtre de sélection du client s’affiche (cf. [Lien vers tutorial recherche et création client](https://aide.seg2inov.eu/docs/manuel-caisse/client/recherche)). La fenêtre de sélection du client s’affiche (cf. [Lien vers tutorial recherche et création client](https://aide.seg2inov.eu/docs/manuel-caisse/client/recherche))."
     },
     {
         title : "Aspect visuel",
@@ -195,7 +195,7 @@ export default  {
         title : "Sélection d'un vendeur",
         link : "/docs/manuel-caisse/les-fondamentales/selection-vendeur",
         description : "Sélectionner le vendeur qui utilise la caisse.",
-        theme :"sélection d'un vendeur Au démarage Si S2Cash by ATLAS est configuré pour démarrer sur un vendeur standard, plusieurs configurations vendeur sont possibles (cf documentation S2Cash by ATLAS GESTION). Le système peut alors vous demander de vous identifier : configuration Configuration vendeurs La caisse va s’ouvrir et **imprimer un ticket d’ouverture caisse**. Veuillez-vous **identifier** en saisissant votre code et votre mot de passe ou passez votre Badge devant le lecteur de code à barre."
+        theme :"vous ne possédez pas les droits nécessaires vous ne possedez pas les droits necessaires VOUS NE POSSEDEZ PAS LES DROITS NECESSAIRES Vous ne possédez pas les droits nécessaires Vous ne possedez pas les droits necessaires sélection d'un vendeur sélection vendeur Sélection vendeur selection vendeur Au démarage Si S2Cash by ATLAS est configuré pour démarrer sur un vendeur standard, plusieurs configurations vendeur sont possibles (cf documentation S2Cash by ATLAS GESTION). Le système peut alors vous demander de vous identifier : configuration Configuration vendeurs La caisse va s’ouvrir et **imprimer un ticket d’ouverture caisse**. Veuillez-vous **identifier** en saisissant votre code et votre mot de passe ou passez votre Badge devant le lecteur de code à barre."
     },
     {
         title : "Recette de caisse",
@@ -237,7 +237,7 @@ export default  {
         title : "Remise sur produit",
         link : "/docs/manuel-caisse/produit/remise",
         description : "Effectuer une remise en pourcentage sur un produit de la vente en cours.",
-        theme :"remise sur produit Remise sur produit REMISE SUR PRODUIT REMISE PRODUIT Remise produit remise produit aucun produit n'a ete saisi Aucun produit n'a ete saisi aucun produit n'a été saisi AUCUN PRODUIT N'A ETE SAISI remise REMISE Le système vous demandera alors de saisir le **motif de la remise**. Une nouvelle ligne apparaît indiquant le pourcentage et le montant de la remise.  votre remise est incorrecte, vous pouvez recommencer la fonction ou saisir « 0 » pour l’annuler. Les remises sont comptabilisées et apparaissent sur la clôture de caisse."
+        theme :"cette remise est incorrecte Cette remise est incorrecte CETTE REMISE EST INCORRECTE REMISE INCORRECTE ERREUR REMISE remise incorrecte erreur remise Erreur remise Remise incorrecte remise sur produit Remise sur produit REMISE SUR PRODUIT REMISE PRODUIT Remise produit remise produit aucun produit n'a ete saisi Aucun produit n'a ete saisi aucun produit n'a été saisi AUCUN PRODUIT N'A ETE SAISI remise REMISE Le système vous demandera alors de saisir le **motif de la remise**. Une nouvelle ligne apparaît indiquant le pourcentage et le montant de la remise.  votre remise est incorrecte, vous pouvez recommencer la fonction ou saisir « 0 » pour l’annuler. Les remises sont comptabilisées et apparaissent sur la clôture de caisse."
     },
     {
         title : "Retour produit",
@@ -424,12 +424,6 @@ export default  {
         link : "/docs/manuel-gestion/prix-promotions/suivi-des-promotions",
         description : "Préparer vos promotions et changements de prix à l’avance.",
         theme : "suivi promotions suivi des promotions Suivi des promotions Suivi promotions SUIVI DES PROMOTIONS SUIVI PROMOTIONS"
-    },
-    {
-        title : "Affichage du QR CODE",
-        link : "/docs/manuel-gestion/gestion-de-caisse/qr-code",
-        description : "Afficher ou imprimer le QR CODE associé à votre caisse.",
-        theme : "QR CODE qr code QR Code QR code afficher qr code affichage qr code Affichage QR Code AFFICHAGE QR CODE AFFICHER QR CODE"
     },
     {
         title : "Suivi des coupons",
@@ -669,7 +663,7 @@ export default  {
         title : "Fermeture de session",
         link : "/docs/manuel-caisse/caisse/fermeture-session",
         description : "Fermer votre session, sans clôturer la caisse.",
-        theme : "Fermeture de session fermeture de session FERMETURE DE SESSION Fermeture de caisse fermeture de caisse FERMETURE DE CAISSE fermer la caisse FERMER LA CAISSE Fermer la caisse"
+        theme : "vous devez clôturer votre ticket avant de quitter l'application VOUS DEVEZ CLOTURER VOTRE TICKET AVANT DE QUITTER L'APPLICATION cloturez votre ticket avant de quitter l'application vous devez cloturer votre ticket avant de quitter l'application Vous devez cloturer votre ticket Vous devez clôturer votre ticket Fermeture de session fermeture de session FERMETURE DE SESSION Fermeture de caisse fermeture de caisse FERMETURE DE CAISSE fermer la caisse FERMER LA CAISSE Fermer la caisse"
     },
     {
         title : "Ticket papier et ticket électronique",

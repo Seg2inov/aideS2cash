@@ -4,6 +4,8 @@ sidebar_position: 3
 
  # Remboursement client
 
+## Effectuer un remboursement client
+
  Le remboursement client est un **décaissement pour ajuster un solde client.**
 
 :::note
@@ -29,3 +31,13 @@ Après avoir sélectionné le client :
 | ![logo de seg2inov](./assets/saisitmontantclient.PNG)| ![logo de seg2inov](./assets/interdiction.PNG)| 
 
 2 impressions : 1 pour le client et 1 à conserver pour archive.
+
+## Message d'erreur
+
+Il n'est possible de rembourser un client que si le compte de celui-ci est **négatif**, c'est-à-dire que **vous lui devez de l'argent**. 
+
+Si vous essayer de faire un remboursement à un client dont le **compte est positif**, la caisse affiche ce message : 
+
+<div className="contenaireImg">
+    ![logo de seg2inov](./assets/soldepositif.PNG)
+</div>

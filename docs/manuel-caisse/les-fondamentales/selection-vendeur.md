@@ -11,6 +11,7 @@ En fonction du paramétrage, S2Cash by Atlas peut soit **démarrer sur un vendeu
 <div className="contenaireImg">
 ![illustration aspect test](./assets/selectVendeur/1.PNG)
 </div>
+
 Veuillez-vous **identifier** en saisissant votre code et votre mot de passe ou passez votre Badge devant le lecteur de code à barres.
 
  
@@ -41,4 +42,18 @@ Dans ces 3 cas, 2 modes d’identification sont possibles :
 
 :::warning
 Toute action effectuée en caisse sera **tracée dans le journal des évènements techniques**, et associée au vendeur sélectionné lors de cette action. 
+:::
+
+## Niveaux d'autorisation
+
+Les utilisateurs peuvent avoir **différents niveaux d'autorisation**. 
+
+Ainsi, en fonction du paramétrage, **certaines fonctionnalités ne leur seront pas accesibles**. Dans ce cas, la caisse affiche le message suivant : 
+
+<div className="contenaireImg">
+    ![illustration aspect test](./assets/selectVendeur/2.PNG)
+    </div>
+
+:::tip
+Pour plus d'informations sur les niveaux d'autorisation attribués aux vendeurs, cliquez sur le lien suivant : [Manuel de gestion - Gestion des utilisateurs](https://aide.seg2inov.fr/docs/category/gestion-des-utilisateurs)
 :::
