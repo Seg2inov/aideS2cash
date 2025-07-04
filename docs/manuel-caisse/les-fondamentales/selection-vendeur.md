@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ## Au démarrage
 
-En fonction du paramétrage, S2Cash by Atlas peut soit **démarrer sur un vendeur standard** (généralement appelé CAISSE ou BALANCE) ou vous demander de **sélectionner un vendeur** pour ouvrir le logiciel.
+En fonction du paramétrage, S2Cash peut soit **démarrer sur un vendeur standard** (généralement appelé CAISSE ou BALANCE) ou vous demander de **sélectionner un vendeur** pour ouvrir le logiciel.
 
 <div className="contenaireImg">
 ![illustration aspect test](./assets/selectVendeur/1.PNG)

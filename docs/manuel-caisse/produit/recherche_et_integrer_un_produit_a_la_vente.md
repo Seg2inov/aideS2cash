@@ -20,13 +20,12 @@ Sélectionnez la **catégorie** qui vous intéresse.
 
 ### Sélection du produit
 
-
-        <div className="contenaireImg">
-    ![illustration aspect test](./assets/integrervente/2.PNG)
-    </div>
-
-
 Une fois la catégorie sélectionnée, choisissez le **produit** qui vous intéresse.
+
+| Visuel caisse | Visuel balance |
+|:-----------:|:-----------:|
+|![illustration aspect test](./assets/integrervente/2.PNG) | ![illustration aspect test](./assets/visuelbalanceproduit.PNG)   |
+
 
 ### Panier 
 
@@ -41,20 +40,25 @@ Le produit sélectionné apparaît maintenant dans **votre Panier**, **en haut �
 
 ### Onglet recherche
 
-Pour accéder à la liste des produits, cliquez sur le bouton ```PRODUIT```, situé **en bas à droite de l’écran**.
-    <div className="contenaireImg">
-    ![illustration aspect test](./assets/integrervente/1.PNG)
-    </div>
+Pour accéder à la liste des produits, cliquez sur le bouton ```PRODUIT```, 
+
+| Visuel caisse : **en bas à droite de l'écran** | Visuel balance : **en haut à gauche de l'écran** (selon paramétrage)|
+|:-----------:|:-----------:|
+|![illustration aspect test](./assets/integrervente/1.PNG) | ![illustration aspect test](./assets/accueilbalance.PNG)   |
+
 
 Vous arrivez alors sur la page de recherche des produits :
     <div className="contenaireImg">
     ![illustration aspect test](./assets/rechercheproduit/2.PNG)
     </div>
 
-
+jrgb
 ### Recherche triée  
 Vous pouvez affiner votre recherche en sélectionnant un critère de tri :
 <li>Rayon</li><li>Famille</li><li>Le fournisseur</li><li>Le code bar</li>
+
+-----------------------------
+
 Ces  boutons se trouvent **en haut à gauche de l’écran**. Une fois votre choix fait, validez avec le **bouton Vert** en haut. 
 
 :::note
