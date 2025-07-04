@@ -52,7 +52,7 @@ Vous arrivez alors sur la page de recherche des produits :
     ![illustration aspect test](./assets/rechercheproduit/2.PNG)
     </div>
 
-jrgb
+
 ### Recherche triée  
 Vous pouvez affiner votre recherche en sélectionnant un critère de tri :
 <li>Rayon</li><li>Famille</li><li>Le fournisseur</li><li>Le code bar</li>
