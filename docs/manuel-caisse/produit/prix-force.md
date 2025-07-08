@@ -21,7 +21,7 @@ Pour modifier le prix d’un produit, il faut d’abord **saisir ou scanner le p
 - 3/ Appuyez sur la touche ```MODIF PRIX```
 
 
-    <div className="contenaireImg">
+<div className="contenaireImg">
     ![logo de seg2inov](./assets/modifprix.PNG)
     </div>
 
