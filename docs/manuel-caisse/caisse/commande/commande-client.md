@@ -43,10 +43,9 @@ Une nouvelle fenêtre s’affiche alors vous permettant de renseigner des inform
 <li> un **commentaire libre** </li>
 <li> une **heure de livraison** </li>
 
-
-<div className="contenaireImg">
-    ![logo de seg2inov](./assets/complementcommande.PNG)
-    </div>
+| Visuel caisse | Visuel balance |
+|:-----------:|:-----------:|
+|![illustration aspect test](./assets/complementcommande.PNG) | ![illustration aspect test](./assets/cdebalance.PNG)   |
 
 Une fois vos informations renseignées, validez avec la touche :
 
@@ -72,6 +71,8 @@ Une fois vos informations renseignées, validez avec la touche :
 :::note
 Pensez à enregistrer vos modifications ! 
 :::
+
+----------------------------
 
 Lorsque vous enregistrez votre saisie, S2Cash vous demande si la **préparation est terminée**.
     <div className="contenaireImg">

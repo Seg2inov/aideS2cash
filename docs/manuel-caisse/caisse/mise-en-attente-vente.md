@@ -8,9 +8,9 @@ sidebar_position: 9
 
 Cette fonction vous permet de **mettre une vente en attente**, de manière à libérer la caisse et passer à un autre client.
 
-    <div className="contenaireImg">
-        ![logo de seg2inov](./assets/miseenattente.PNG) 
-    </div>
+| Visuel caisse | Visuel balance (selon paramétrage) |
+|:-----------:|:-----------:|
+|![illustration aspect test](./assets/miseenattente.PNG) | ![illustration aspect test](./assets/attentebalance.PNG)   |
 
 Cela peut-être utile, par exemple, dans les cas suivants : 
 
@@ -65,7 +65,7 @@ Vous pouvez consulter la liste de **tous les paniers en attente et non repris en
     </div>
 
 :::tip
-Vous pouvez consulter la liste des paniers non encore repris depuis la gestion. Pour plus d'informations, cliquez sur le lien suivant : [Manuel de gestion - Paniers en attente](https://aide.seg2inov.fr/docs/manuel-gestion/gestion-de-caisse/paniers-en-attente). 
+Vous pouvez consulter la **liste des paniers non encore repris** depuis la gestion. Pour plus d'informations, cliquez sur le lien suivant : [Manuel de gestion - Paniers en attente](https://aide.seg2inov.fr/docs/manuel-gestion/gestion-de-caisse/paniers-en-attente). 
 :::
 
 Dès que le panier est **repris**, il **disparaît de cette liste**.

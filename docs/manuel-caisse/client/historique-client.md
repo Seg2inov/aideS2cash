@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Historique client
 
-Une fois votre client associé à la vente, vous avez la possibilité de **visualiser son historique**.
+Une fois votre client associé à la vente, vous avez la possibilité de **visualiser son historique** (en caisse uniquement).
 
 | Cliquez sur ```CONSULTATION``` | Puis ```HISTORIQUE``` |
 |:--------------:|:--------:|

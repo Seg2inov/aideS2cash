@@ -19,7 +19,7 @@ La liste des **ventes du jour** apparaît :
 </div>
 
 :::warning
-Vous ne pouvez annuler que les tickets du **jour en cours**, vous ne pouvez pas annuler un ticket d'un jour précédent. 
+Vous ne pouvez annuler que les tickets de la **journée en cours**, vous ne pouvez pas annuler un ticket d'un jour précédent. 
 :::
 
 Veuillez **sélectionner le ticket que vous souhaitez annuler**, et appuyez sur ```SELECTIONNER``` en haut à droite. 

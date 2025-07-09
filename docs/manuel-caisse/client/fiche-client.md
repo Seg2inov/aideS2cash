@@ -7,10 +7,9 @@ sidebar_position: 2
 
 La fiche client se compose ainsi :
 
-<div className="contenaireImg">
-    ![logo de seg2inov](./assets/ficheclient.PNG)
-    </div>
-
+| Visuel caisse | Visuel balance |
+|:-----------:|:-----------:|
+|![illustration aspect test](./assets/ficheclient.PNG) | ![illustration aspect test](./assets/ficheclientbalance.PNG)   |
 
 ## Modifications possibles
 
@@ -21,7 +20,7 @@ Vous pouvez **consulter** ou **modifier** les élements suivants :
 Ce code est généré **automatiquement** par S2Cash à la création du client.
 
 <div className="contenaireImg">
-    ![logo de seg2inov](./assets/adresse.PNG)
+    ![logo de seg2inov](./assets/codeclient.PNG)
     </div>
 
 ### Les coordonnées du client
@@ -34,9 +33,9 @@ Ce code est généré **automatiquement** par S2Cash à la création du client.
 
 Vous avez la possibilité d’attribuer à ce client des **prix spécifiques pour certains produits**.
 
-<div className="contenaireImg">
-    ![logo de seg2inov](./assets/ajoutersupprimer.PNG)
-    </div>
+| Visuel caisse | Visuel balance |
+|:-----------:|:-----------:|
+|![illustration aspect test](./assets/ajoutersupprimer.PNG) | ![illustration aspect test](./assets/prixspebalance.PNG)   |
 
 ### L’historique du client
 

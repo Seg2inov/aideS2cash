@@ -2,13 +2,21 @@
 sidebar_position: 1
 ---
 
-# Sélectionner un produit pour réaliser des actions
+# Les informations du produit
 
 Les informations suivantes sont **modifiables** ou **simplement consultables**, selon les niveaux d'autorisation. 
 
 :::tip
 Pour plus d'informations au sujet des **niveaux d'autorisation des utilisateurs**, vous pouvez cliquer sur le lien suivant : [Manuel de gestion - Mise à jour des niveaux](https://aide.seg2inov.fr/docs/manuel-gestion/gestion-utilisateurs/maj-niveaux/)
 :::
+
+## Affichage de la fiche produit
+
+La fiche produit se présente ainsi : 
+
+| Visuel caisse | Visuel balance |
+|:-----------:|:-----------:|
+|![illustration aspect test](./assets/fichecaisse.PNG) | ![illustration aspect test](./assets/fichebalance.PNG)   |
 
 ## Les prix
 

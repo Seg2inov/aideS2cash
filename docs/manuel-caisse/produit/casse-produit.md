@@ -14,7 +14,7 @@ Afin de maintenir votre **stock à jour**, vous pouvez utiliser la fonctionnalit
     ![logo de seg2inov](./assets/produitcasse.PNG)
     </div>
 
-Appuyez sur la touche CASSE PRODUIT : 
+Appuyez sur la touche ```CASSE PRODUIT``` : 
 
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/touchecasse.PNG)

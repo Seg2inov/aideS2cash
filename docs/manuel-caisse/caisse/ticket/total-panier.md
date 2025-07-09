@@ -6,16 +6,16 @@ sidebar_position: 3
 
 Lorsque vous avez fini de saisir la totalité des produits de votre client, appuyez sur la touche ```TOTAL``` pour faire apparaître le **montant à payer** et les différents **moyens de paiement acceptés**.
 
-
-    <div className="contenaireImg">
+<div className="contenaireImg">
     ![logo de seg2inov](../assets/total.PNG)
     </div>
 
-Vous pouvez, à tout moment, revenir en vente et effacer le Total avec la touche ```RETOUR VENTE```.
+| Visuel caisse | Visuel balance |
+|:-----------:|:-----------:|
+|![illustration aspect test](../assets/totalcaisse.PNG) | ![illustration aspect test](../assets/totalbalance.PNG)   |
 
-    <div className="contenaireImg">
-    ![logo de seg2inov](../assets/retouralavente.PNG)
-    </div>
+
+Vous pouvez, à tout moment, revenir en vente et effacer le Total avec la touche ```RETOUR VENTE```.
 
 :::warning
 Cette fonctionnalité est **impossible en cas de paiement partiel en carte bancaire**.

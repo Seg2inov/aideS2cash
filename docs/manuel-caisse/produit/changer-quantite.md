@@ -18,12 +18,13 @@ Pour vendre un même produit en plusieurs exemplaires, il faut d’abord **saisi
 
 - 2/  Saisissez la nouvelle quantité
 
-- 3/ Appuyez sur la touche ```MODIFIE QUANTITE```.
+- 3/ Appuyez sur la touche ```MODIFIE QUANTITE``` :
 
-
-    <div className="contenaireImg">
-    ![logo de seg2inov](./assets/buttonmodifiequantitz.PNG)
+<div className="contenaireImg">
+    ![logo de seg2inov](./assets/touchemodif2.PNG)
     </div>
+
+----------------------------------------------------------------------------
 
 Vous pouvez à tout moment revenir sur le panier en cours pour effectuer une **modification de prix ou de quantité**.
 
@@ -38,3 +39,9 @@ Pour **changer la quantité d'un produit**, il faut sélectionner le produit con
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/aucunproduit.PNG)
     </div>
+
+## Balance avec bandeau de poids Precia Molen 
+
+Si vous possédez une **balance avec bandeau de poids** de la marque Precia Molen, vous ne pouvez **pas modifier la quantité d'un produit pesé**. 
+
+En effet, la règlementation NMI, à laquelle les balances Précia Molen sont conformes, rend illégale cette manipulation. 

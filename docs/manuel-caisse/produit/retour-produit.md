@@ -34,6 +34,10 @@ La **liste des motifs de retour** est modifiable depuis la gestion. Pour plus d�
 
 La ligne passe alors en **négatif**.
 
+<div className="contenaireImg">
+    ![logo de seg2inov](./assets/retourproduit.PNG)
+    </div>
+
 :::note
 Vous pouvez vendre d’autres produits. 
 :::

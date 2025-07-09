@@ -8,9 +8,9 @@ sidebar_position: 4
 
 Vous pouvez pratiquer une **remise en pourcentage sur la totalité de la vente**.
 
- <div className="contenaireImg">
-    ![logo de seg2inov](./assets/remise.PNG)
-    </div>
+| Visuel caisse | Visuel balance |
+|:-----------:|:-----------:|
+|![illustration aspect test](./assets/remise.PNG) | ![illustration aspect test](./assets/remisebalance.PNG)   |
 
 - 1/ Saisissez le pourcentage de remise
 - 2/ Appuyez sur la touche :
@@ -26,11 +26,17 @@ Vous pouvez pratiquer une **remise en pourcentage sur la totalité de la vente**
     </div>
 
 :::tip
-La liste des motifs de remise est modifiable depuis la gestion. Pour plus d'informations, cliquez sur le lien suivant : [Manuel de gestion - Mise à jour des motifs de remise](https://aide.seg2inov.fr/docs/manuel-gestion/prix-promotions/mise-a-jour-motifs-remise).
+La **liste des motifs de remise** est modifiable depuis la gestion. Pour plus d'informations, cliquez sur le lien suivant : [Manuel de gestion - Mise à jour des motifs de remise](https://aide.seg2inov.fr/docs/manuel-gestion/prix-promotions/mise-a-jour-motifs-remise).
 :::
 
-Une nouvelle ligne apparaît avec le montant de la remise. Le  ```RESTE A PAYER``` est mis à jour sur l’écran et sur la visu client. 
-  
+Une **nouvelle ligne** apparaît avec le **montant de la remise**. Le  ```RESTE A PAYER``` est mis à jour sur l’écran et sur la visu client. 
+
+    <div className="contenaireImg">
+        ![logo de seg2inov](./assets/remiseappliquee.PNG)
+    </div>
+
+-----------------------
+
   Si votre remise est **incorrecte**, recommencez la fonction ou saisissez  ```0```  pour l’annuler.
   
    Le montant de la remise est **ventilé sur chaque produit** en proportion de sa valeur dans le ticket. 

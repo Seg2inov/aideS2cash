@@ -12,7 +12,7 @@ Appuyez sur la touche :
         ![logo de seg2inov](./assets/reprisecommande.PNG) 
     </div>
 
-S2Cash affiche alors la liste des commandes.
+S2Cash affiche alors la **liste des commandes**.
 
 <div className="contenaireImg">
         ![logo de seg2inov](./assets/listecommande.PNG) 

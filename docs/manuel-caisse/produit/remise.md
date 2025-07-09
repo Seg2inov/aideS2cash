@@ -40,10 +40,12 @@ Les remises sont comptabilisées et apparaissent sur la clôture de caisse.
 Différents types de remise sont possibles :
 
     <div className="contenaireImg">
-    ![logo de seg2inov](./assets/modifremise.PNG)
+    ![logo de seg2inov](./assets/motifremise.PNG)
     </div>
 
+:::tip
 Les motifs de remises sont **paramétrables depuis la gestion**. Pour plus d'informations, cliquez sur le lien suivant : [Manuel de gestion - Mise à jour des motifs de remise](https://aide.seg2inov.fr/docs/manuel-gestion/prix-promotions/mise-a-jour-motifs-remise). 
+:::
 
 :::warning
 Le système S2Cash peut être configuré avec une **remise ligne fixe**, dans ce cas quel que soit le montant saisi de la remise, le système applique toujours le **montant paramétré**.
