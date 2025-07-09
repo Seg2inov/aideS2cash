@@ -4,17 +4,22 @@ sidebar_position: 1
 
 # Sélectionner un produit pour réaliser des actions
 
+Les informations suivantes sont **modifiables** ou **simplement consultables**, selon les niveaux d'autorisation. 
+
+:::tip
+Pour plus d'informations au sujet des **niveaux d'autorisation des utilisateurs**, vous pouvez cliquer sur le lien suivant : [Manuel de gestion - Mise à jour des niveaux](https://aide.seg2inov.fr/docs/manuel-gestion/gestion-utilisateurs/maj-niveaux/)
+:::
+
 ## Les prix
-
-
-<div className="contenaireImg">
-    ![illustration aspect test](./assets/selection.PNG)
-</div>
 
 Le prix d’**achat HT**, le **coefficient** de marge ainsi que le **pourcentage de marge**.
 
 
-Le(s) prix(s) de **vente** du produit et les **prix dégressifs** par quantité (ici pour 2 Kg et 10 Kg).
+| Visuel caisse | Visuel balance |
+|:-----------:|:-----------:|
+|![illustration aspect test](./assets/selection.PNG) | ![illustration aspect test](./assets/prixbalance.PNG)   |
+
+Ainsi que le(s) prix(s) de **vente** du produit et les **prix dégressifs** par quantité (ici pour 2 Kg et 10 Kg).
 
 :::tip
 Dans l’exemple donné, ce produit est vendu
@@ -45,8 +50,9 @@ Le code coché P (Principal) est envoyé aux balances et imprimé sur les étiqu
 
 ## Stocks
 
+<div className="contenaireImg">
     ![illustration aspect test](./assets/stocks.PNG)
-
+</div>
 
 Le **PUMP** et le **stock actuel du produit**.
 
