@@ -1,10 +1,17 @@
 ---
-sidebar_position: 4
+sidebar_position: 1
 ---
 
 # Journal des évènements techniques
 
-Le JET (Journal des Evènements techniques) retrace chronologiquement **toutes les actions effectuées** sur les postes d'un site. 
+Le JET (Journal des Evènements Techniques) se trouve dans le **menu des options NF**, dans le module de gestion. 
+
+| Menu des options NF | JET |
+|:----------------------:|:----------------:|
+| ![illustration aspect test](./assets/menunf.PNG) | ![illustration aspect test](./assets/touchejet.PNG) |
+
+
+Le JET retrace chronologiquement **toutes les actions effectuées** sur les postes d'un site. 
 
 Chacune de ces opérations est **tracée**, **sécurisée** et **archivée**. 
 
@@ -18,10 +25,10 @@ Chacune de ces opérations est **tracée**, **sécurisée** et **archivée**.
 
 | Détail | Explication |
 |:----------------------:|----------------|
-| ![illustration aspect test](./assets/pjet.PNG) |  ? |
+| ![illustration aspect test](./assets/pjet.PNG) |  Indique si l'évènement est **purgeable** ou **non-purgeable**. |
 | ![illustration aspect test](./assets/code.PNG) |  Le **code** de l'opération de cette ligne. |
-| ![illustration aspect test](./assets/date.PNG) |  La **date** de l'évènement de cette ligne. |
-| ![illustration aspect test](./assets/heure.PNG) |  L'**heure** dudit évènement. |
+| ![illustration aspect test](./assets/date.PNG) |  La **date** de l'opération de cette ligne. |
+| ![illustration aspect test](./assets/heure.PNG) |  L'**heure** de ladite opération. |
 | ![illustration aspect test](./assets/operateur.PNG) |  Le **vendeur** sélectionné en caisse lors de l'opération. |
 | ![illustration aspect test](./assets/caisse.PNG) |  Le **numéro de caisse** sur laquelle l'opération a été effectuée. |
 | ![illustration aspect test](./assets/reportsign.PNG) |  Indique si la signature a bien été **reportée dans les archives fiscales**. |
