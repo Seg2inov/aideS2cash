@@ -1,8 +1,8 @@
 {
-  "label": "Caisse",
+  "label": "Fonctionnalités d'encaissement",
   "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "Faites le tour des actions possibles avec une caisse S2Cash."
+    "description": "Découvrez toutes les fonctionnalités liées à l'encaissement."
   }
 }

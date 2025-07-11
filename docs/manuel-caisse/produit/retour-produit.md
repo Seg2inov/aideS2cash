@@ -12,9 +12,9 @@ Lorsque le client souhaite retourner un produit :
 <li>Même prix</li>
 <li>Même quantité</li>
 
-<div className="contenaireImg">
-    ![logo de seg2inov](./assets/arproduit.PNG)
-    </div>
+| Visuel caisse | Visuel balance |
+|:-----------:|:-----------:|
+|![illustration aspect test](./assets/arproduit.PNG) | ![illustration aspect test](./assets/balancepanier.PNG)   |
 
 - 2/  Appuyez sur la touche ```RETOUR```
 

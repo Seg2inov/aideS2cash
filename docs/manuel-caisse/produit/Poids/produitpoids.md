@@ -32,8 +32,10 @@ Tant que la balance n’est pas **stabilisée**, le produit ne peut être vendu.
 
 ## Erreur modification du poids
 
-Sur une caisse avec un plateau de pesé, si vous **modifiez manuellement la quantité**, ce message d'erreur s'affiche : 
+Sur une balance avec bandeau de poids de la marque Precia Molen, si vous **modifiez manuellement la quantité**, ce message d'erreur s'affiche : 
 
 <div className="contenaireImg">
     ![illustration aspect test](./assets/quantitepoids.PNG)
 </div>
+
+En effet, la règlementation NMI, à laquelle les balances Précia Molen sont conformes, rend illégale cette manipulation.

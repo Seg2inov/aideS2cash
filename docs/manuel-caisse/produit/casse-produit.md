@@ -10,9 +10,10 @@ Afin de maintenir votre **stock à jour**, vous pouvez utiliser la fonctionnalit
 
 **Sélectionnez** le produit concerné : 
 
-<div className="contenaireImg">
-    ![logo de seg2inov](./assets/produitcasse.PNG)
-    </div>
+
+| Visuel caisse | Visuel balance |
+|:-----------:|:-----------:|
+|![illustration aspect test](./assets/produitcasse.PNG) | ![illustration aspect test](./assets/balancepanier.PNG)   |
 
 Appuyez sur la touche ```CASSE PRODUIT``` : 
 

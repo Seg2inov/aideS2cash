@@ -8,11 +8,9 @@ sidebar_position: 7
 
 Pour modifier le prix d’un produit, il faut d’abord **saisir ou scanner le produit** puis **modifier le prix**.
 
-
-    <div className="contenaireImg">
-    ![logo de seg2inov](./assets/changementprix.PNG)
-    </div>
-
+| Visuel caisse | Visuel balance |
+|:-----------:|:-----------:|
+|![illustration aspect test](./assets/changementprix.PNG) | ![illustration aspect test](./assets/prixforcebalance.PNG)   |
 
 - 1/  Positionnez-vous sur la ligne du produit à modifier
 

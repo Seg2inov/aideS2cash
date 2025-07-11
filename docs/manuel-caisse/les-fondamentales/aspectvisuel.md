@@ -32,7 +32,10 @@ S2Cash by Atlas enregistre donc :
 
 En mode balance, on retrouve approximativement les mêmes configurations que le mode caisse en 3 ou 4 écrans, mais avec une **barre de pesée en plus** (située en haut ou sur le côté en fonction du modèle de la balance). 
 
-![illustration aspect test](./assets/aspetVisuel/9.PNG) |
+<div className="contenaireImg">
+    ![logo de seg2inov](./assets/pagebalance.PNG)
+    </div>
+
 
 Par ailleurs, certaines fonctionnalités n'apparaissent pas systématiquement sur la partie droite de l'écran comme sur la caisse. 
 

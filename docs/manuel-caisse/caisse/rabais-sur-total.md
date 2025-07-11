@@ -8,9 +8,9 @@ sidebar_position: 5
 
 Vous pouvez pratiquer **un rabais en valeur sur la totalité de la vente.**
 
-<div className="contenaireImg">
-    ![logo de seg2inov](./assets/rabais.PNG)
-</div>
+| Visuel caisse | Visuel balance |
+|:-----------:|:-----------:|
+|![illustration aspect test](./assets/rabais.PNG) | ![illustration aspect test](./assets/remisebalance.PNG)   |
 
 - 1/ Saisissez le montant du rabais
 

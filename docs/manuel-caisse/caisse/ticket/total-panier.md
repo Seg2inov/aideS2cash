@@ -18,7 +18,7 @@ Lorsque vous avez fini de saisir la totalité des produits de votre client, appu
 Vous pouvez, à tout moment, revenir en vente et effacer le Total avec la touche ```RETOUR VENTE```.
 
 :::warning
-Cette fonctionnalité est **impossible en cas de paiement partiel en carte bancaire**.
+Cette fonctionnalité est **impossible en cas de paiement partiel par carte bancaire en monétique intégrée ou connectée**.
 :::
 
 ## Multi-paiement 

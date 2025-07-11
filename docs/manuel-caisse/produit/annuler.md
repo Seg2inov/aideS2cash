@@ -8,9 +8,9 @@ sidebar_position: 9
 
 Vous pouvez **annuler un produit saisi** que le client ne veut plus ou pour rectifier une erreur. 
 
-<div className="contenaireImg"> 
-    ![logo de seg2inov](./assets/arproduit.PNG)
-    </div>
+| Visuel caisse | Visuel balance |
+|:-----------:|:-----------:|
+|![illustration aspect test](./assets/arproduit.PNG) | ![illustration aspect test](./assets/balancepanier.PNG)   |
 
 Pour cela : 
 

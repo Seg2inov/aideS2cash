@@ -10,7 +10,7 @@ Cette fonction vous permet de **mettre une vente en attente**, de manière à li
 
 | Visuel caisse | Visuel balance (selon paramétrage) |
 |:-----------:|:-----------:|
-|![illustration aspect test](./assets/miseenattente.PNG) | ![illustration aspect test](./assets/attentebalance.PNG)   |
+|![illustration aspect test](./assets/miseenattente.PNG) | ![illustration aspect test](./assets/balanceattente.PNG)   |
 
 Cela peut-être utile, par exemple, dans les cas suivants : 
 

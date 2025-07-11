@@ -8,11 +8,9 @@ sidebar_position: 1
 
 ### Sélection d'une catégorie
 
-
-    <div className="contenaireImg">
-    ![illustration aspect test](./assets/integrervente/1.PNG)
-    </div>
-
+| Visuel caisse : **en bas à droite de l'écran** | Visuel balance : **en haut à gauche de l'écran** (selon paramétrage)|
+|:-----------:|:-----------:|
+|![illustration aspect test](./assets/integrervente/1.PNG) | ![illustration aspect test](./assets/accueilbalance.PNG)   |
 
 Sur la partie **gauche** de votre caisse, une zone bleue affiche plusieurs écrans contenant différentes catégories de produits. Vous pouvez naviguer entre ces écrans à l'aide des onglets situés à gauche, nommés ici 1, 2 et 3. 
 
@@ -31,10 +29,10 @@ Une fois la catégorie sélectionnée, choisissez le **produit** qui vous intér
 
 Le produit sélectionné apparaît maintenant dans **votre Panier**, **en haut à droite de l’écran**.
 
-        <div className="contenaireImg">
-    ![illustration aspect test](./assets/integrervente/3.PNG)
-    </div>
-
+| Visuel caisse | Visuel balance |
+|:-----------:|:-----------:|
+|![illustration aspect test](./assets/integrervente/3.PNG) | ![illustration aspect test](./assets/balancepanier.PNG) |
+    
 
 ## 2ème méthode : Accès à partir du bouton Produit
 

@@ -30,7 +30,7 @@ Le logiciel indique de la présence d'une tare en **couleur**.
 Sur le **prochain produit**, S2Cash déduira le poids de cette tare au poids du produit pesé.
 
 <div className="contenaireImg">
-    ![illustration aspect test](./assets/tareclignotant.PNG)
+    ![illustration aspect test](./assets/tarecouleur.PNG)
 </div>
 
 

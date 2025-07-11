@@ -8,11 +8,9 @@ sidebar_position: 8
 
 Vous pouvez pratiquer une **remise en pourcentage** sur un produit de la vente en cours.
 
-
-    <div className="contenaireImg">
-    ![logo de seg2inov](./assets/remiseproduit.PNG)
-    </div>
-
+| Visuel caisse | Visuel balance |
+|:-----------:|:-----------:|
+|![illustration aspect test](./assets/remiseproduit.PNG) | ![illustration aspect test](./assets/remiseprodbalance.PNG)   |
 
 - 1/  Positionnez-vous sur la ligne du produit à modifier
 
@@ -35,9 +33,9 @@ Si votre remise est incorrecte, vous pouvez **recommencer** la fonction ou saisi
 Les remises sont comptabilisées et apparaissent sur la clôture de caisse.
 :::
 
-## Types de remise
+## Motifs de remise
 
-Différents types de remise sont possibles :
+Vous devez sélectionner un **motif de remise** :
 
     <div className="contenaireImg">
     ![logo de seg2inov](./assets/motifremise.PNG)
