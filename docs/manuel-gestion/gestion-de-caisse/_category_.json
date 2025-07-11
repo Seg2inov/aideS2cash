@@ -1,9 +1,9 @@
 {
-    "label": "Gestion de caisse",
+    "label": "Gestion d'encaissement",
     "position": 2,
     "link": {
       "type": "generated-index",
-      "description": "Découvrez les fonctionnalités liées à la gestion de la caisse."
+      "description": "Découvrez les fonctionnalités liées à la gestion de l'encaissement."
     }
   }
   

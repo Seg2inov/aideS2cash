@@ -6,6 +6,8 @@ sidebar_position: 3
 
 Vous avez ici la totalité des **paniers des balances non encore repris en caisse**. 
 
+Il s'agit des paniers enregistrés sur une balance en data-collecte, qui n'ont pas encore été repris depuis la caisse. 
+
 La partie droite de l’écran vous donne le **détail du panier** sur lequel vous êtes positionné.
 
 <div className="contenaireImg">
@@ -14,9 +16,6 @@ La partie droite de l’écran vous donne le **détail du panier** sur lequel vo
 
  ![illustration aspect test](./assets/suppressionpanier.PNG)   Cette touche vous permet de **supprimer** un panier balance.
 
-
 :::note
-Cette fonctionnalité fonctionne en **Data-Collect**, c’est-à-dire qu’à chaque fermeture de caisse, la liste des paniers des balances du poste remonte en gestion et s’ajoute aux autres paniers en attente. Cependant, la **liste n’est pas systématiquement mise à jour**, dans le sens où les paniers repris en caisse ne disparaissent pas de la liste des paniers des balances. 
+Les paniers balance peuvent **s’épurer automatiquement tous les 10 jours** en fonction de votre **paramétrage**, c'est-à-dire que les paniers des balances non-repris en caisse au bout de 10 jours, seront supprimés de la liste des paniers des balances en attente. 
 :::
-
-Les paniers balance peuvent **s’épurer automatiquement tous les 6 jours** en fonction de votre **paramétrage**.
