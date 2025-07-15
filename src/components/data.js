@@ -695,5 +695,17 @@ export default  {
         description : "Mettre à jour votre stock en enregistrant des produits en casse.",
         theme : 'stock stocks STOCKS Stock STOCK casse produit casser Casse produit Casse produits CASSE PRODUIT CASSE PRODUIT'
     },
+    {
+        title : "Le contrôle des archives",
+        link : "/docs/manuel-gestion/menu-des-options-nf/controle-archives",
+        description : "Effectuer un contrôle de vos archives.",
+        theme : 'controle des archives Controle des archives Contrôle des archives contrôle des archives CONTROLE DES ARCHIVES controler des archives contrôler des archives Contrôler des archives Controler des archives controler les archives contrôle le contrôle des archives Le contrôle des archives Le controle des archives'
+    },
+    {
+        title : "Le transfert de l'archive fiscale",
+        link : "/docs/manuel-gestion/menu-des-options-nf/transfert-archives-fiscales",
+        description : "Effectuer un contrôle de vos archives.",
+        theme : 'controle des archives Controle des archives Contrôle des archives contrôle des archives CONTROLE DES ARCHIVES controler des archives contrôler des archives Contrôler des archives Controler des archives controler les archives contrôle le contrôle des archives Le contrôle des archives Le controle des archives'
+    },
     ]
 }
