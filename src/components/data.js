@@ -683,5 +683,17 @@ export default  {
         description : "Sauvegarder les données de votre caisse.",
         theme : "sauvegarder SAUVEGARDER Sauvegarder Sauvegarde des données sauvegarde des données SAUVEGARDE DES DONNEES"
     },
+    {
+        title : "Journal des évènements techniques",
+        link : "/docs/manuel-gestion/menu-des-options-nf/jet",
+        description : "Consulter le JET",
+        theme : 'JET jet journal des evenements techniques journal des évènements techniques Journal des evenements techniques Journal des évènement techniques Jet JOURNAL DES EVENEMENTS TECHNIQUES journal evenement technique journal evenements techniques journal évènements techniques journal évènement technique Journal évènement technique'
+    },
+    {
+        title : "Casse produit",
+        link : "/docs/manuel-caisse/produit/casse-produit",
+        description : "Mettre à jour votre stock en enregistrant des produits en casse.",
+        theme : 'stock stocks STOCKS Stock STOCK casse produit casser Casse produit Casse produits CASSE PRODUIT CASSE PRODUIT'
+    },
     ]
 }
