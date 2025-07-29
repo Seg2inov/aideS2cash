@@ -12,6 +12,10 @@ La fonctionnalité de contrôle des archives se trouve dans le **menu des option
 
 Cette fonctionnalité vous permet de **contrôler l’intégrité de vos archives**. 
 
+:::note
+Les archives fiscales sont générées **à chaque clôture** du logiciel. 
+:::
+
 ----------------------
 
 Sélectionnez la **date** ou la **période** souhaitée : 

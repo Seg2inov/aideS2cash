@@ -98,6 +98,37 @@ Par exemple, pour un produit vendu à 6,00 euros pièce :
 <li> Pour l’achat de 5 produits ou plus, le prix passe à 4.50 euros/pièce.</li>
 :::
 
+### Multi-tarif
+
+Vous avez la possibilité de faire du **multi-tarif**, c’est-à-dire d’attribuer **plusieurs tarifs à un produit**. 
+
+:::note
+Cette fonctionnalité peut ne peut être activée et paramétrée que par le **support**. 
+:::
+
+Lorsque la fonctionnalité multi-tarif est activée, de **nouvelles lignes** apparaissent dans l’encart ```PRIX``` de la fiche produit. 
+
+<div className="contenaireImg">
+    ![logo de seg2inov](./assets/multitarif1.PNG)
+    </div>
+
+Vous pouvez alors renseigner **d’autres tarifs pour le même produit**. 
+
+----------------------------------------
+
+Afin que ces prix spécifiques s’appliquent aux clients souhaités, il s’agit de **renseigner cette classification** dans la **fiche client** (depuis l’encaissement ou depuis la gestion). 
+
+<div className="contenaireImg">
+    ![logo de seg2inov](./assets/multitarif2.PNG)
+    </div>
+
+Ainsi, lorsque vous renseignez ce client lors d’une vente, le **tarif spécifique du produit sera appliqué**.  
+
+<div className="contenaireImg">
+    ![logo de seg2inov](./assets/multitarif3.PNG)
+    </div>
+
+
 ### Fournisseurs 
 
 <div className="contenaireImg">

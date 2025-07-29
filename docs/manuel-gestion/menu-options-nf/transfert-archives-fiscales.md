@@ -10,6 +10,11 @@ La fonctionnalité de transfert des archives fiscales se trouve dans le **menu d
 |:----------------------:|:----------------:|
 | ![illustration aspect test](./assets/menunf.PNG) | ![illustration aspect test](./assets/touchetransfert.PNG) |
 
+
+:::note
+Les archives fiscales sont générées **à chaque clôture** du logiciel. 
+:::
+
 ---------------------------------
 
 Sélectionnez la **date** ou la **période** souhaitée : 
