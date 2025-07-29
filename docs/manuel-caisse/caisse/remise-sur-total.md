@@ -24,7 +24,6 @@ Vous pouvez pratiquer une **remise en pourcentage sur la totalité de la vente**
     <div className="contenaireImg">
         ![logo de seg2inov](./assets/typederemise.PNG)
     </div>
-
 :::tip
 La **liste des motifs de remise** est modifiable depuis la gestion. Pour plus d'informations, cliquez sur le lien suivant : [Manuel de gestion - Mise à jour des motifs de remise](https://aide.seg2inov.fr/docs/manuel-gestion/prix-promotions/mise-a-jour-motifs-remise).
 :::

@@ -23,20 +23,6 @@ Chacune de ces opérations est **tracée**, **sécurisée** et **archivée**.
 |:----------------------:|:----------------:|
 | ![illustration aspect test](./assets/datesjet.PNG) |  ![illustration aspect test](./assets/recherchejet.PNG) |  ? |
 
-| Détail | Explication |
-|:----------------------:|----------------|
-| ![illustration aspect test](./assets/pjet.PNG) |  Indique si l'évènement est **purgeable** ou **non-purgeable**. |
-| ![illustration aspect test](./assets/code.PNG) |  Le **code** de l'opération de cette ligne. |
-| ![illustration aspect test](./assets/date.PNG) |  La **date** de l'opération de cette ligne. |
-| ![illustration aspect test](./assets/heure.PNG) |  L'**heure** de ladite opération. |
-| ![illustration aspect test](./assets/operateur.PNG) |  Le **vendeur** sélectionné en caisse lors de l'opération. |
-| ![illustration aspect test](./assets/caisse.PNG) |  Le **numéro de caisse** sur laquelle l'opération a été effectuée. |
-| ![illustration aspect test](./assets/reportsign.PNG) |  Indique si la signature a bien été **reportée dans les archives fiscales**. |
-| ![illustration aspect test](./assets/signature.PNG) |  La **signature** permettant de **sécuriser** l'information. |
-| ![illustration aspect test](./assets/infocomp.PNG) |  Le **descriptif** de l'évènement. |
-
-![illustration aspect test](./assets/loupe.PNG)      La petite loupe dans chaque colonne vous premet d'effectuer une **recherche** dans la colonne concernée. 
-
 ------------------------------
 
 Vous avez accès à **quelques fonctionnalités complémentaires** en appuyant sur la touche suivante : ![illustration aspect test](./assets/listeexport.PNG)

@@ -16,14 +16,25 @@ Vous pouvez pratiquer **un rabais en valeur sur la totalité de la vente.**
 
 - 2/ Appuyez sur la touche :
 
-
 <div className="contenaireImg">
     ![logo de seg2inov](./assets/boutonrabais.PNG)
 </div>
 
+ S2Cash vous demande alors de saisir le **motif de ce rabais** avant de valider.
+
+    <div className="contenaireImg">
+        ![logo de seg2inov](./assets/typederemise.PNG)
+    </div>
+
+:::tip
+La **liste des motifs de rabais** est modifiable depuis la gestion. Pour plus d'informations, cliquez sur le lien suivant : [Manuel de gestion - Mise à jour des motifs de remise](https://aide.seg2inov.fr/docs/manuel-gestion/prix-promotions/mise-a-jour-motifs-remise).
+:::
+
 Une nouvelle ligne apparaît avec le montant déduit.
 
 Le ***reste à payer*** est mis à jour en haut de l’écran et sur la visu client.
+
+-------------------------------
 
 Si votre rabais est **incorrect**, recommencez la fonction ou saisissez  ```0```  pour l’annuler. 
 

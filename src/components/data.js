@@ -685,7 +685,7 @@ export default  {
     },
     {
         title : "Journal des évènements techniques",
-        link : "/docs/manuel-gestion/menu-des-options-nf/jet",
+        link : "/docs/manuel-gestion/menu-options-nf/jet",
         description : "Consulter le JET",
         theme : 'JET jet journal des evenements techniques journal des évènements techniques Journal des evenements techniques Journal des évènement techniques Jet JOURNAL DES EVENEMENTS TECHNIQUES journal evenement technique journal evenements techniques journal évènements techniques journal évènement technique Journal évènement technique'
     },
@@ -697,13 +697,13 @@ export default  {
     },
     {
         title : "Le contrôle des archives",
-        link : "/docs/manuel-gestion/menu-des-options-nf/controle-archives",
+        link : "/docs/manuel-gestion/menu-options-nf/controle-archives",
         description : "Effectuer un contrôle de vos archives.",
         theme : 'controle des archives Controle des archives Contrôle des archives contrôle des archives CONTROLE DES ARCHIVES controler des archives contrôler des archives Contrôler des archives Controler des archives controler les archives contrôle le contrôle des archives Le contrôle des archives Le controle des archives'
     },
     {
         title : "Le transfert de l'archive fiscale",
-        link : "/docs/manuel-gestion/menu-des-options-nf/transfert-archives-fiscales",
+        link : "/docs/manuel-gestion/menu-options-nf/transfert-archives-fiscales",
         description : "Effectuer un contrôle de vos archives.",
         theme : 'controle des archives Controle des archives Contrôle des archives contrôle des archives CONTROLE DES ARCHIVES controler des archives contrôler des archives Contrôler des archives Controler des archives controler les archives contrôle le contrôle des archives Le contrôle des archives Le controle des archives'
     },
